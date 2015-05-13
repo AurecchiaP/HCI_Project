@@ -1,0 +1,37 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* Internal links */
+a[href*="google.ch"]:link
+{
+	color: DarkBlue;
+}
+
+a[href*="google.ch"]:hover
+{
+	font-weight:bold;
+	text-decoration:none;
+}
+
+a[href*="google.ch"]:visited
+{
+	color: CornflowerBlue;
+}
+
+/* External links */
+
+a[href*="google.com"]:link
+{
+	color: DimGray;
+}
+
+a[href*="google.com"]:hover
+{
+	font-weight:bold;
+	text-decoration:none;
+}
+
+a[href*="google.com"]:visited
+{
+	color: DarkGray;
+}

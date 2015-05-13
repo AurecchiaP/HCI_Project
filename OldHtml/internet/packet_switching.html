@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<!-- !!!!CHANGE PAGE TITLE HERE -->
+	<title>Packet switching</title>
+	<!-- PUT YOUR NAME HERE AND ALSO NEAR THE BOTTOM OF THE PAGE -->
+	<meta name="author" content="Luca Scibona">
+	<link rel="stylesheet" type="text/css" href="../../css/style.css">
+	<meta charset="UTF-8">
+    <link rel="shortcut icon" href="../../favicon.png">
+</head>
+<body>
+	<div id="wrapper">
+		<div id="navigation">
+			<ul>
+			<!-- !!!!FOR YOUR AREA ADD class="selected" TO THE CORRECT <li> E.G IF YOU DID HARDWARE, YOU SHOULD SEE:
+					<li class="selected"><a href="../hardware.html">Hardware</a></li>
+			-->
+				<li><a href="../../index.html">Home</a></li>
+				<li><a href="../../html/hardware/index.html">Hardware</a></li>
+				<li><a href="../../html/software/index.html">Software</a></li>
+				<li class="selected"><a href="../../html/internet/index.html">Internet</a></li>
+				<li><a href="../../html/games/index.html">Games</a></li>
+			</ul>
+		</div>
+		<div id="contentContainer" class="clearfix">
+			
+			<div id="content">
+				
+				<!-- !!!!PUT YOUT CONTENT HERE. DO NOT CHANGE ANY OF THE OTHER CODE. -->
+				<h1>Packet switching</h1>
+				<h2>Introduction</h2>
+				<p>Packet switching is a digital networking communications mechanism in which data is split into smaller pieces or blocks in order to obtain a faster and more efficient transfer via different network devices. These packets are then <a href="routing.html">routed</a> by intermediate nodes (network devices) to the destination.</p>
+                <a href="#1"><img src="images/packet_switched_network.png"  style="width: 850px" alt="Packet switched network"></a>
+                <h2>History</h2>
+                <p>The packet switching model was designed for military purposes in the 1960s during the cold war, but  was only first implemented on small computer networks in 1968. Packet switching became one of the fundamental networking technologies that thoroughly shaped the Internet. In the history of the Internet the packet switching model found applications in many Internet networks, such as <a href="ARPANET.html">ARPANET</a> and <a href="cyclades.html">CYCLADES</a>.<br>
+                The first packet switching network was set up for computer resource sharing in the Octopus Network at the Lawrence Livermore National Laboratory. It connected four computers to several shared storage devices.
+In 1973 <a href="vint_cerf.html">Vint Cerf</a> and <a href="robert_kahn.html">Robert Kahn</a> designed the <a href="tcp_ip.html">Transmission Control Protocol</a> (TCP), a computer networking protocol that defines how computers and electronic devices should be connected over the Internet and how data should be transmitted between them.</p><br>
+            
+                    <div class="youvideo"><embed width="560" height="315" src="http://www.youtube.com/v/tT4AaelwvV4"></div>
+                <h2>Technical design</h2>
+                There are two different designs of packet switching. In the <b>Connectionless Packet Switching</b>, each packet contains the information needed for delivery and is routed one by one. This can result in out-of-order delivery, which means that the data packets are delivered in a different order from which they were sent.
+With this type of packet switching, each packet has the following information written in its first section: 
+<ol>
+<li>The delivery address</li>
+<li>The source address</li>
+<li>Total number of pieces</li>
+<li>The sequence number (needed to enable reassembly)</li>
+</ol>
+After reaching the destination through different routes, the packets are reconstructed to form the original message.
+        <p>In the <b>Connection-Oriented Packet Switching</b>, data packets are sent sequentially, which means one after another, over a determined route. Packets are then reassembled, thanks to the sequence number and then shipped over the network to a destination.</p>
+
+        				<!-- CHANGE THE NUMBER IN THE <sup></sup> TAGS EACH TIME -->
+	<div class="externalLinks">
+					<h3>External Links</h3>
+					<ol>
+						<!-- REPLACE THESE -->
+						<li>Original <a id="1" href="http://itlaw.wikia.com/wiki/File:Packet.gif">IT Law Wikia</a> image</li>
+				</ol>
+				</div>
+				<!-- END OF EXAMPLE -->
+			</div>
+			
+		</div>
+		<footer>
+		<!-- PUT YOUR NAME HERE -->
+		<address>Copyright &copy; Luca Scibona</address>
+		</footer>
+	</div>
+</body>
+
+</html>

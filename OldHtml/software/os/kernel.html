@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<!-- 
+
+FOR STYLING:
+<p> - every paragraph NEEDS to be in one of these!
+<h1> - main titles (i.e. The research question)
+<h2> - subheadings
+
+Put your images in the Resources folder of your area, E.G. if you did hardware yours images must be un /html/hardware/Resources/
+
+ -->
+
+
+<html>
+
+<head>
+<!-- !!!!CHANGE PAGE TITLE HERE -->
+	<title>Kernel</title>
+	<!-- PUT YOUR NAME HERE AND ALSO NEAR THE BOTTOM OF THE PAGE -->
+	<meta name="author" content="Paolo Aurecchia">
+	<link rel="stylesheet" type="text/css" href="../../../css/style.css">
+	<meta charset="UTF-8">
+	<link rel="shortcut icon" href="../../../favicon.png">
+</head>
+<body>
+	<div id="wrapper">
+		<div id="navigation">
+			<ul>
+			<!-- !!!!FOR YOUR AREA ADD class="selected" TO THE CORRECT <li> E.G IF YOU DID HARDWARE, YOU SHOULD SEE:
+					<li class="selected"><a href="../hardware.html">Hardware</a></li>
+			-->
+				<li><a href="../../../index.html">Home</a></li>
+				<li><a href="../../../html/hardware/index.html">Hardware</a></li>
+				<li class="selected"><a href="../../../html/software/index.html">Software</a></li>
+				<li><a href="../../../html/internet/index.html">Internet</a></li>
+				<li><a href="../../../html/games/index.html">Games</a></li>
+			</ul>
+		</div>
+		<div id="contentContainer" class="clearfix">
+			
+			<div id="content">
+				
+				<!-- !!!!PUT YOUT CONTENT HERE. DO NOT CHANGE ANY OF THE OTHER CODE. -->
+				<h1>Kernel</h1>
+				
+				<h2>RC 4000 Multiprogramming System</h2>
+				
+				<p>
+				The RC 4000 Multiprogramming System was the operating
+				system based on a microkernel built appositely for the
+				RC 4000 in 1969. When the programmer Per Brinch Hansen was working on
+				this machine he came to the conclusion that all the existing
+				operating systems were not suited for the RC 4000, and
+				thus he decided to create one by himself. The idea was
+				to create a simple kernel, called microkernel, whose
+				role was only to set into communication the programs
+				that composed the system, becoming the core or basis on which
+				the actual operating system was going to be built on.
+				</p>
+				<p>
+				While this machine wasn't
+				very successful, the idea of the microkernel which acted
+				as a communication tool became very popular in those
+				years, being implemented by many companies.
+				</p>
+				
+				<h2>Amiga's Exec</h2>
+
+
+				<p>
+				Developed by Commodore International, Amiga OS was
+				the operating system implemented in the <a href="../../hardware/Amiga1000_hw.html">Amiga 1000</a>,
+				which was released in 1985. The Amiga OS was based on
+				Exec, a preemptive <a href="../software_engineering/multitasking.html">multitasking</a> kernel which provided
+				many features, like the handling of dynamic shared
+				libraries or the possibility to allocate memory.
+				 </p>
+				 <p>
+				 Its job was to schedule all the tasks running on the
+				 machine, using a prioritized scheduling which used a
+				 round-robin algorithm. It also permitted communication
+				 between processes, via message passing. While other
+				 competitors have had problems because of the need to
+				 copy the messages between different address spaces, the
+				 Amiga solved this problem by only having one address
+				 space, avoiding  that kind of difficulties. The other
+				 operating systems of those years used to run in the
+				 supervisor mode. Exec, instead, used to run in user
+				 mode: for when the supervisor mode was really needed,
+				 there where specific library functions to activate it.
+				</p>
+				<p>
+				The problem of this kernel was that because of its open
+				nature, some programs could interrupt multitasking by
+				calling certain functions, like Disable() or Forbid(),
+				forcing Exec to run only a single task at a time.
+				</p>
+
+				<h2>Unix</h2>
+
+				<p>
+				In <a href="./unix.html">Unix</a> the operating system was more highly controlled
+				by the kernel. Other than scheduling the tasks to avoid
+				conflicts, it directly controlled the file system and it
+				decided when to run and when to stop programs. To be
+				able to do this the kernel had to be organised in a
+				different way compared to the one in the Amiga's Exec.
+				</p>
+				<p>
+				In Unix, the kernel had privileges: the user-space and
+				the kernel-space were clearly distinguished. Unix
+				utilised a different idea of kernel, which was going in
+				the opposite direction of what the other kernel
+				manufacturers were doing. While most of the companies
+				were trying to enlarge kernels as much as possible, Unix
+				adopted the idea of a microkernel,  where the easier
+				tasks were taken care by small utilities, in contrast
+				to its competitors. In a standard situation the Unix
+				kernel didn't have many problems. With time, though, new
+				devices and functions were implemented, like the mouse
+				or the <a href="./gui.html">graphical user interface</a>. Since their microkernel
+				wasn't able to take care of these new devices, it was
+				decided to move the control of these unorthodox
+				functions outside of the kernels range, and leaving the
+				microkernel to deal with the more basic functions of Unix.
+				</p>
+
+				<!-- CHANGE THE NUMBER IN THE <sup></sup> TAGS EACH TIME -->
+
+
+				<!-- END OF EXAMPLE -->
+				<!-- ADD YOUR EXTERNAL LINKS HERE AS A LIST -->
+				<div class="externalLinks">
+					<h3>External Links</h3>
+					<ol>
+						<!-- REPLACE THESE -->
+						
+						<li>[Visited on 06/11/2014] <a id="1" href="http://www.brinch-hansen.net/papers/1970a.pdf">The Nucleus of a Multiprogramming System (1970)</a></li>
+						<li>[Visited on 06/11/2014] <a id="2" href="http://en.wikipedia.org/wiki/Kernel_(operating_system)">Kernel on Wikipedia</a></li>
+						<li>[Visited on 06/11/2014] <a id="3" href="http://en.wikipedia.org/wiki/History_of_operating_systems">History of Operating Systems</a></li>
+						<li>[Visited on 06/11/2014] <a id="4" href="http://en.wikipedia.org/wiki/RC_4000_Multiprogramming_System">The RC 4000 Multiprogramming System</a></li>
+						<li>[Visited on 06/11/2014] <a id="5" href="http://brinch-hansen.net/papers/2001b.pdf">The Evolution of Operating Systems</a></li>
+						<li>[Visited on 06/11/2014] <a id="6" href="http://www.cs.utexas.edu/users/witchel/372/lectures/01.OSHistory.pdf">Operating Systems: Basic Concepts and History </a></li>
+						<li>[Visited on 06/11/2014] <a id="7" href="http://cs-pub.bu.edu/fac/richwest/cs591_w1/notes/wk1.pdf">The Linux Kernel: Introduction</a></li>
+						<li>[Visited on 06/11/2014] <a id="8" href="http://commons.wikimedia.org/wiki/File:Linux-x86-under-qemu.png">Timeline image, taken from Wikimedia Commons</a></li>
+					</ol>
+				</div>
+				<!-- DO NOT CHANGE ANYTHING BELOW THIS LINE -->
+			</div>
+			
+		</div>
+		<footer>
+		<!-- PUT YOUR NAME HERE -->
+		<address>Copyright &copy; Paolo Aurecchia</address>
+		</footer>
+	</div>
+</body>
+
+</html>

@@ -1,0 +1,76 @@
+<!-- 
+
+FOR STYLING:
+<p> - every paragraph NEEDS to be in one of these!
+<h1> - main titles (i.e. The research question)
+<h2> - subheadings
+
+Put your images in the Resources folder of your area, E.G. if you did hardware yours images must be un /html/hardware/Resources/
+
+ -->
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<!-- !!!!CHANGE PAGE TITLE HERE -->
+	<title>ISO-OSI</title>
+	<!-- PUT YOUR NAME HERE AND ALSO NEAR THE BOTTOM OF THE PAGE -->
+	<meta name="author" content="Rehan Ahmed">
+	<link rel="stylesheet" type="text/css" href="../../css/style.css">
+	<meta charset="UTF-8">
+         <!-- ADD THIS -->
+     <link rel="shortcut icon" href="../../favicon.png">
+</head>
+<body>
+	<div id="wrapper">
+		<div id="navigation">
+			<ul>
+			<!-- !!!!FOR YOUR AREA ADD class="selected" TO THE CORRECT <li> E.G IF YOU DID HARDWARE, YOU SHOULD SEE:
+					<li class="selected"><a href="../hardware.html">Hardware</a></li>
+			-->
+				<li><a href="../../index.html">Home</a></li>
+				<li><a href="../../html/hardware/index.html">Hardware</a></li>
+				<li><a href="../../html/software/index.html">Software</a></li>
+				<li class="selected"><a href="../../html/internet/index.html">Internet</a></li>
+				<li><a href="../../html/games/index.html">Games</a></li>
+			</ul>
+		</div>
+		<div id="contentContainer" class="clearfix">
+			
+			<div id="content">
+				
+				<!-- !!!!PUT YOUT CONTENT HERE. DO NOT CHANGE ANY OF THE OTHER CODE. -->
+				<h1>ISO-OSI</h1>
+				<p>ISO-OSI stands for International Organization for Standardization Open Systems Interconnection. In 1977 OSI was an effort made to standardize computer networking by ISO<a href="#1"><sup>1</sup></a>. OSI gave a coceptual product the OSI model. The OSI reference model was a major advance in the teaching of network concepts. It promoted the idea of a consistent model of protocol layers, defining interoperability between network devices and software.</p>
+				<!-- CHANGE THE NUMBER IN THE <sup></sup> TAGS EACH TIME -->
+                <h2>History</h2>
+				<p>In the late 1970s, two projects began at the same time, with the same goal: to define a unifying standard for the architecture of networking systems. One was run by the ISO, while the other was by the International Telegraph and Telephone Consultative Committee, or CCITT<a href="#2"><sup>2</sup></a>. Both of them made a model and and in 1983, they mergeed the models to make a single standard model called OSI reference model. A new design was documented in ISO 7498. In this model, layers were introduced and a networking system was divided into layers. Within each layer, one or more entities implement its functionality. Each entity interacted directly only with the layer immediately beneath it, and provided facilities for use by the layer above it. </p>
+
+                <h2>Description of Layers</h2>
+                <p><a href="#3"><img src="images/OSI_layer.png" alt="osi layers" class="right" style="width: 450px "/></a>The first layer is physical layer it is a direct point-to-point data connection,it defines the electrical and physical specifications of the data connection, defines the protocol for flow control, defines topology. Second layer is data link layer it is a reliable direct point-to-point data connection. It has the Media Access Control (MAC) layer, the Logical Link Control (LLC) layer. Third one is network layer and has the job of Addressing, routing and delivery of datagrams between points on a network. Fourth transport layer provides the functional and procedural means of transferring variable-length data sequences from a source to a destination host via one or more networks, while maintaining the quality of service functions. The Fifth, session layer controls the dialogues between computers, controls the Interhost communication, managing sessions between applications. Sixth layer is the presentation layer having functions Data representation, encryption and decryption, convert machine dependent data to machine independent data. Seventh, the application layer, closest to the end user, which means both the OSI application layer and the user interact directly with the software application. This layer interacts with software applications that implement a communicating component.  </p>
+				<!-- END OF EXAMPLE -->
+				<!-- ADD YOUR EXTERNAL LINKS HERE AS A LIST -->
+				<div class="externalLinks">
+					<h3>External Links</h3>
+					<ol>
+						<!-- REPLACE THESE -->
+                        <li>[Visited On 06/11/2014] <a id="1" href="http://en.wikipedia.org/wiki/International_Organization_for_Standardization">ISO</a></li>
+                        <li>[Visited On 06/11/2014] <a id="2" href="http://www.linktionary.com/c/ccitt.html">CCITT</a></li>
+                        <li>[Visited On 06/11/2014] <a id="3" href="http://engineering.linkedin.com/endorsements/geographic-trends-skills-using-linkedins-endorsement-feature">OSI layers</a></li>
+                        
+					</ol>
+				</div>
+				<!-- DO NOT CHANGE ANYTHING BELOW THIS LINE -->
+			</div>
+			
+		</div>
+		<footer>
+		<!-- PUT YOUR NAME HERE -->
+		<address>Copyright &copy; Rehan Ahmed</address>
+		</footer>
+	</div>
+</body>
+
+</html>

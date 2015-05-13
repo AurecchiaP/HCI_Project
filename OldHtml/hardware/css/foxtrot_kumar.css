@@ -1,0 +1,33 @@
+a{
+	color: blue;
+	text-decoration: none;
+	}
+<!-- 
+a.active {
+	text-decoration: underline;
+}
+ -->
+a.internallink {
+		color: blue;
+
+}
+a.internallink:hover {
+	font-size: 1.5em;
+	text-decoration: underline;
+	title: "hi how are you";
+
+}
+a.internallink:visited {
+	color: #0B0080;
+
+}
+a.externallink {
+	color: #3366BB;
+}
+a.externallink:hover {
+	font-size: 1.5em;
+	text-decoration: underline;
+	}
+a.externallink:visited {
+	color: #384869;
+}

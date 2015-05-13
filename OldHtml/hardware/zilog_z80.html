@@ -1,0 +1,113 @@
+<!-- 
+
+FOR STYLING:
+<p> - every paragraph NEEDS to be in one of these!
+<h1> - main titles (i.e. The research question)
+<h2> - subheadings
+
+Put your images in the Resources folder of your area, E.G. if you did hardware yours images must be un /html/hardware/Resources/
+
+ -->
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<!-- !!!!CHANGE PAGE TITLE HERE -->
+	<title>Zilog Z80</title>
+	<!-- PUT YOUR NAME HERE AND ALSO NEAR THE BOTTOM OF THE PAGE -->
+	<meta name="author" content="Lucas Pennati">
+	<link rel="stylesheet" type="text/css" href="../../css/style.css">
+	<meta charset="UTF-8">
+    <link rel="shortcut icon" href="../../favicon.png">
+</head>
+<body>
+	<div id="wrapper">
+		<div id="navigation">
+			<ul>
+			<!-- !!!!FOR YOUR AREA ADD class="selected" TO THE CORRECT <li> E.G IF YOU DID HARDWARE, YOU SHOULD SEE:
+					<li class="selected"><a href="../hardware.html">Hardware</a></li>
+			-->
+				<li><a href="../../index.html">Home</a></li>
+				<li class='selected'><a href="../../hardware/index.html">Hardware</a></li>
+				<li><a href="../../software/index.html">Software</a></li>
+				<li><a href="../../internet/index.html">Internet</a></li>
+				<li><a href="../../games/index.html">Games</a></li>
+			</ul>
+		</div>
+		<div id="contentContainer" class="clearfix">
+			
+			<div id="content">
+				
+				<!-- !!!!PUT YOUT CONTENT HERE. DO NOT CHANGE ANY OF THE OTHER CODE. -->
+                <a href="#3"><div class="imgRightWithCaption" style="width: 25em"><img class="captionedImg" src="http://upload.wikimedia.org/wikipedia/commons/1/19/Zilog_Z80.jpg" alt='Zilog Z80'><div class="caption">Zilog Z80</div></div></a>
+                
+                
+                
+				<h1>Zilog Z80</h1>
+                <p>The Zilog Z80 was an 8-bit processor sold starting from July 1976. It quickly became one of the leaders in the 8-bit CPU market, along other companies such as MOS Technology. This leadership lasted until the mid-1980s.</p>
+                <p> 
+                    One of the strong points of the Z80 was its licensed design. This meant that other companies could buy the designs, and produce it under another name.  Companies like Toshiba started making the chip, and thanks to their vast network, the chip started to spread quite quickly, making it into more and more devices every day.</p>
+                <h2>History</h2>
+				<p>Zilog was founded by 2 people: Federico Faggin and Ralph Ungermann. Before Co-founding Zilog, Faggin was working at Intel on the <a href="Intel_8008_8080.html" target="_blank">Intel 8080</a>, which became the base of the Z80. The Z80 was designed to be completely binary compatible, effectively making it almost a clone of the Intel. </p>
+                <p>Although very similar, the Z80 was not a complete clone and so it offered a couple of improvements over the Intel 8080:</p>
+                <ul>
+                <li>A wider instruction set: This included instructions such as bit manipulation, block move, and others.</li>
+                    <li>Direct base + offset addressing. </li>
+                    <li>A better interrupt system.</li>
+                    <li>Less hardware required for power supply.</li>
+                </ul>
+                <p>Thanks to these improvements, the Z80 took the market over and became one of the leaders in the 8-bit CPU war. One of the key elements that helped it was the built-in DRAM refresh, which allowed systems to be built using less support chips.  </p>
+                <h2>Programming the Z80</h2>
+                The Z80 used a modified language with respect to the copyrighted language the Intel 8080 was using. Since Zilog had a starting point, they decided to specify new rules and constraints to make it more consistent:
+                <ul>
+                <li>All registers pairs had to be denoted in an explicit way, more specifically using their full name.</li>
+                <li>Parenthesis had to be used to indicate the location of the memory, and only in some exceptions could be used to indicate jump instructions. 
+                    </li>
+                <li>All load and store instructions were to use the same mnemonic name</li>
+                </ul>
+                <p>This "organization" helped creating a very straightforward language, and a very logical one at the same time. </p>
+
+                <h2>Alternative chips</h2>
+                <p>As previously stated, the design of the Z80 was a licensed one. This meant that important companies such as Mostek or NEC started to make their alternatives, called second sources. Among those alternatives, some of the more important ones were:</p>
+                <ul>
+                <li>Mostek MK3380</li>
+                <li>NEC &micro;PD780C</li>
+                <li>Sharp LH0080</li>
+                </ul>
+                <p>One of the reasons why the NEC chip was a key chip, was that it was included in the original version of the ZX Spectrum, as well as many musical synthetizers such as the Oberheim OB-8. On the other hand the LH0080 was used in many personal computers made by Sharp, more specifically in the MZ Family.</p>
+                <h3>Unauthorized clones</h3>
+                <p>Being as the design was licensed, there were companies that decided to make copies of the Z80 without permission. One of these cases happened in East Germany, where VEB Mikroelektronic prduced under the name U880. This CPU was used in many of their computers manufactured during the 80's. </p>
+                <p>Another case happened in Romania, where Microelectronica produced the MMN80CPU in order for it to be used in computers such as the TIM-S and the COBRA. </p>
+                
+                
+                <h2>Notable uses</h2>
+                <p>Aspreviously stated the Z80 was used in some very historically important pieces of hardware. Academically speaking one of the most important uses might be the inclusion in the Texas Instrument calculators, such as the TI-73, TI-83, TI-84 just to name a few.</p>
+                <p>Other than its accademic uses, the Z80 was also used for Arcade Games machines, either as the main CPU or as a video/audio coprocessor. Usually used in a single-CPU setup, like in Pac-Man, there were also Dual-CPU configurations like in the case of Frogger. Although existant but very rare, triple-CPU setups were also implemented. They were primarily used in the case of games using the Namco galaga board, for example in Bosconian.</p>
+                <p>The most widely known use, as stated previously might have been in the Spectrum ZX, a very sought after computer even in current times. </p>
+				<!-- CHANGE THE NUMBER IN THE <sup></sup> TAGS EACH TIME -->
+<!-- 				<p>New paragraph of basic info<a href="#"><sup>1</sup></a></p> -->
+
+				<!-- END OF EXAMPLE -->
+				<!-- ADD YOUR EXTERNAL LINKS HERE AS A LIST -->
+ 				<div class="externalLinks">
+					<h3>External Links</h3>
+					<ol>
+						<li>[Visited on 04/11/2014]<a href="http://en.wikipedia.org/wiki/Zilog_Z80"> Zilog Z80 - Wikipedia</a> </li>
+                        <li>[Visited on 06/11/2014]<a href="http://www.z80.info"> Z80 Info</a> </li>
+                       <li>[Visited on 04/11/2014]<a id="3" href="http://upload.wikimedia.org/wikipedia/commons/1/19/Zilog_Z80.jpg"> Z80 Picture under  Creative Commons Attribution 2.5 Generic, all credits to Gennadiy Shvets</a> </li> 
+					</ol>
+				</div> 
+				<!-- DO NOT CHANGE ANYTHING BELOW THIS LINE -->
+			</div>
+			
+		</div>
+		<footer>
+		<!-- PUT YOUR NAME HERE -->
+		<address>Copyright &copy; Lucas Pennati</address>
+		</footer>
+	</div>
+</body>
+
+</html>

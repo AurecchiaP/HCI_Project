@@ -1,0 +1,38 @@
+/* internal links */
+
+.int:link{
+	color: #505050;
+	font-weight:bold;
+	text-decoration: none;
+}
+
+.int:hover {
+	color: #505050;
+	text-decoration: underline;
+	font-weight:bold;
+}
+
+.int:visited {
+	color: #A0A0A0;
+	text-decoration: none;
+}
+	
+/* external links */
+
+.ext:link {
+	color: #3333CC;
+	font-weight:bold;
+	text-decoration: none;
+}
+	
+.ext:hover {
+	color: #3333CC;
+	font-weight:bold;
+	text-decoration: underline;
+}
+	
+.ext:visited {
+	color: #96CDFF;
+	text-decoration: none;
+}
+	

@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+
+<!-- 
+
+FOR STYLING:
+<p> - every paragraph NEEDS to be in one of these!
+<h1> - main titles (i.e. The research question)
+<h2> - subheadings
+
+Put your images in the Resources folder of your area, E.G. if you did hardware yours images must be un /html/hardware/Resources/
+
+ -->
+
+
+<html>
+
+<head>
+<!-- !!!!CHANGE PAGE TITLE HERE -->
+	<title>Intel 8085 and Intel 8086</title>
+	<!-- PUT YOUR NAME HERE AND ALSO NEAR THE BOTTOM OF THE PAGE -->
+	<meta name="author" content="Prajna Uniyal">
+	<link rel="stylesheet" type="text/css" href="../../css/style.css">
+	<meta charset="UTF-8">
+	<link rel="shortcut icon" href="../../favicon.png">
+</head>
+<body>
+	<div id="wrapper">
+		<div id="navigation">
+			<ul>
+			<!-- !!!!FOR YOUR AREA ADD class="selected" TO THE CORRECT <li> E.G IF YOU DID HARDWARE, YOU SHOULD SEE:
+					<li class="selected"><a href="../hardware.html">Hardware</a></li>
+			-->
+				<li><a href="../../index.html">Home</a></li>
+				<li class="selected"><a href="../../html/hardware/index.html">Hardware</a></li>
+				<li><a href="../../html/software/index.html">Software</a></li>
+				<li><a href="../../html/internet/index.html">Internet</a></li>
+				<li><a href="../../html/games/index.html">Games</a></li>
+			</ul>
+		</div>
+		<div id="contentContainer" class="clearfix">
+			
+			<div id="content">
+				
+				<!-- !!!!PUT YOUT CONTENT HERE. DO NOT CHANGE ANY OF THE OTHER CODE. -->
+				<h1>Intel 8085 and Intel 8086</h1>
+				<div class="imgRightWithCaption" style="width: 250px; height: 200 px"><img class="captionedImg" src="images/Intel_8085.jpg" alt="Intel 8085 chip"><div class="caption">Intel 8085 chip</div></div>
+
+				<h3>Intel 8085</h3>
+				<p>The Intel 8085 is an 8-bit microprocessor introduced by Intel in 1976<a href="#wiki_8085"><sup>5</sup></a>. Intel integrated additional chips required by the <a href="Intel_8008_8080.html">8080</a>, i.e. the 8224 clock generator and 8228 system controller, within a single chip to form the Intel 8085. It was the first Intel's microprocessor with NMOS Technology. The NMOS Technology offered faster speed and higher density than PMOS. Intel made the 8085 as a significant improvement on the  <a href="Intel_8008_8080.html">8080</a>, both in performance and handling issues. It has improved hardware by only using +5V power (the 8080 required +5V, -5V and +12V). </p>
+				<h3>Intel 8086</h3>
+				<p>The Intel 8086 is a 16-bit processor designed in 1978<a href="#wiki_8086"><sup>6</sup></a>. <strong>Stephen Morse</strong> was the sole designer for the Intel 8086. It gave rise to the x86 architecture which helped transform Intel from merely one of many chip companies to the world's largest producer of microprocessors. Its advanced multitasking capabilities and memory-management circuitry would be built right into the CPU, allowing operating systems to run with much less program code. The 8086 has complete 16-bit architecture, 16-bit internal registers, 16-bit data bus, and 20-bit address bus (1 MB of physical memory). This was a big advancement over 8085 and thus it laid platform for the famous x86 architecture. 
+				</p>
+				<div class="imgRightWithCaption" style="width: 250px; height: 200 px"><img class="captionedImg" src="images/Intel_8086.jpg" alt="Intel 8086 chip"><div class="caption">Intel 8086 chip</div></div>
+
+				<h2>Tech Specs</h2>
+				<table>
+				<tr>
+				<th>Specifications \ Name
+				<a href="#CW_8008"><sup>1</sup></a>
+				<a href="#CW_8080"><sup>2</sup></a>
+				<a href="#CW_8085"><sup>3</sup></a>
+				<a href="#CW_8086"><sup>4</sup></a></b></th>
+				<th>Intel 8008</th>
+				<th>Intel 8080</th>
+				<th>Intel 8085</th>
+				<th>Intel 8086</th>
+				</tr>
+				<tr>
+				<td> Technology</td>
+				<td> PMOS</td>
+				<td> NMOS</td>
+				<td> NMOS/HMOS</td>
+				<td> NMOS/HMOS/CHMOS</td>
+	            </tr>	
+				<tr>
+				<td> CPU clock rate</td>
+				<td> 0.5 MHz</td>
+				<td> 2 MHz</td>
+				<td> 3 MHz</td>
+				<td> 8 MHz</td>
+				</tr>
+				<tr> 
+				<td> MIPS</td>
+				<td> 0.05</td>
+				<td> 0.29</td>
+				<td> 0.37</td>
+				<td> 0.66</td>
+				</tr>
+				<tr> 
+				<td>Addressable Memory</td>
+				<td> 16 KB</td>
+				<td> 64 KB</td>
+				<td> 64 KB</td>
+				<td> 1 MB</td>
+				</tr>
+				<tr> 
+				<td>Min. feature size</td>
+				<td> 10 μm</td>
+				<td> 6 μm</td>
+				<td> 3 μm</td>
+				<td> 3 μm</td>
+				</tr>
+				<tr> 
+				<td>Transistors</td>
+				<td> 3,500</td>
+				<td> 4,500</td>
+				<td> 6,500</td>
+				<td> 29,000</td>
+				</tr>
+				<tr>
+				<td>Packages</td>
+				<td> 18 pins DIP</td>
+				<td> 40 pins DIP</td>
+				<td> 40 pins DIP</td>
+				<td> 40 pins DIP</td>
+				</tr>
+				</table>
+				<div style="margin: 50px 25px 50px 25px;">
+				<img style="width: 500px; height: 300 px" class="right" src="images/CPU_clock_cycle_graph.png" alt="CPU clock cycle graph">
+				<img style="width: 500px; height: 300 px" class="left" src="images/MIPS_graph.png" alt="MIPS graph">
+                </div>
+                <br>
+			
+				<!-- 
+				<div class="imgRightWithCaption" style="width: 400px"><img class="captionedImg" src="http://upload.wikimedia.org/wikipedia/commons/b/bb/Intel_8085_arch.svg"><div class="caption">Intel 8085 Architecture</div></div>
+				<div class="imgRightWithCaption" style="width: 400px"><img class="captionedImg" src="images/Intel_8086_arch.gif"><div class="caption">Intel 8086 Architecture</div></div>
+                -->
+				<!-- CHANGE THE NUMBER IN THE <sup></sup> TAGS EACH TIME -->
+			
+<span>&nbsp;</span>
+				<!-- END OF EXAMPLE -->
+				<!-- ADD YOUR EXTERNAL LINKS HERE AS A LIST -->
+                <br><br><br><br><br><br><br><br><br><br><br>
+                
+                <div class="externalLinks">
+                    <h3>External Links</h3> 
+	<ol>
+						<!-- REPLACE THESE -->
+		<li>[Visited on 05/11/2014] <a id="CW_8008" href="http://www.cpu-world.com/CPUs/8008/index.html">CPU world 8008</a></li>
+		<li>[Visited on 05/11/2014] <a id="CW_8080" href="http://www.cpu-world.com/CPUs/8080/index.html">CPU world 8080</a></li>
+		<li>[Visited on 05/11/2014] <a id="CW_8085" href="http://www.cpu-world.com/CPUs/8085/index.html">CPU world 8085</a></li>
+		<li>[Visited on 05/11/2014] <a id="CW_8086" href="http://www.cpu-world.com/CPUs/8086/index.html">CPU world 8086</a></li>
+		<li>[Visited on 05/11/2014] <a id="wiki_8085" href="http://en.wikipedia.org/wiki/Intel_8085">Wikipedia 8085</a></li>
+		<li>[Visited on 05/11/2014] <a id="wiki_8086" href="http://en.wikipedia.org/wiki/Intel_8086">Wikipedia 8086</a></li>
+						
+	</ol>
+				</div>
+				<!-- DO NOT CHANGE ANYTHING BELOW THIS LINE -->
+			</div>
+			
+		</div>
+		<footer>
+		<!-- PUT YOUR NAME HERE -->
+		<address>Copyright &copy; Prajna Uniyal</address>
+		</footer>
+	</div>
+</body>
+
+</html>

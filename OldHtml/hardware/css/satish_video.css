@@ -1,0 +1,49 @@
+.container {
+  width: 600px;
+  height: 600px;
+  position: relative;
+  -webkit-perspective: 500px;
+  -moz-perspective: 500px;
+  -o-perspective: 500px;
+  perspective: 500px;
+}
+.panel {
+  width: 640px;
+  height: 380px;
+  position: absolute;
+  opacity: 0.8;
+  color: white;
+}
+
+.container:hover{
+  height: 1200px;
+}
+.video1{
+  margin-top: 100px;
+  height: 380px;
+  width: 640px;
+  -moz-transition: height 5s, width 5s;
+  -o-transition: height 5s, width 5s;
+  transition: height 5s, width 5s;
+  -webkit-transition: height 5s, width 5s;
+}
+.video1:hover{
+  height: 760px;
+  width: 1280px;
+   -webkit-animation: mymove 5s ; /* Chrome, Safari, Opera */
+	animation: mymove 5s infinite;
+}
+#rotate-y .panel {
+  -moz-transition: height 5s, width 5s;
+  -o-transition: height 5s, width 5s;
+  transition: transform 5s;
+  -webkit-transition: transform 5s; 
+}
+#rotate-y:hover .panel:hover {
+  -webkit-transform: rotateY( 20deg );
+  -moz-transform: rotateY( 20deg );
+  -o-transform: rotateY( 20deg );
+  transform: rotateY( 20deg );
+}
+@-webkit-keyframes mymove {
+    50% {-webkit-transform: rotate(180deg);}

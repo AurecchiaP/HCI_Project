@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Ethernet</title>
+	<meta name="author" content="Victor Mion">
+	<link rel="stylesheet" type="text/css" href="../../css/style.css">
+	<link rel="stylesheet" type="text/css" href="../../css/pennal.css">
+	<meta charset="UTF-8">
+	<link rel="shortcut icon" href="../../favicon.png">
+</head>
+<body>
+	<div id="wrapper">
+		<div id="navigation">
+			<ul>
+				<li><a href="../../index.html">Home</a></li>
+				<li><a href="../../html/hardware/index.html">Hardware</a></li>
+				<li><a href="../../html/software/index.html">Software</a></li>
+				<li class="selected"><a href="../../html/internet/index.html">Internet</a></li>
+				<li><a href="../../html/games/index.html">Games</a></li>
+			</ul>
+		</div>
+		<div id="contentContainer" class="clearfix">
+			
+			<div id="content">
+				
+				<h1>Ethernet</h1>
+				<h2>History</h2>
+				<p>Ethernet is a computer networking technology used in Local Area Networks and
+				created in 1973 by Robert Metcalfe while He was a researcher at the <a href="xerox_parc.html">Xerox Corporation's Palo Alto Research Center(Xerox PARC)</a>.
+				The idea for Ethernet was largely inspirated by <a href="alohanet.html">ALOHAnet</a>, another storically important computer network, that Metcalfe had studied as part of his PhD dissertation. He developed both the physical method for connecting the devices and the standards for monitoring the communication.
+				</p>
+
+				<p>
+				In 1979 Metcalfe co-founded the 3Com Corporation with the intention of commercialize Ethernet. 3Com started by building Ethernet circuit board for minicomputer but later they built an Ethernet card mostly known as NIC (Network Interface Card).
+				He also succeed convincing Intel, Xerox and DEC working together and promote Ethernet as a standard for LAN networks. <br> <br>
+				On September 30, 1980 the three companies published "The Ethernet, A Local Area Network. Data Link Layer and Physical Layer Specifications" creating the earliest Ethernet standard. Version 2 was released on November 1992.
+				</p>
+
+				<p>
+				Ethernet battled against IBM's token ring and General Motor's token bus , two differents LAN standards.
+				At the end of 80s 3Com shifted from coax cables to twisted pair cables and finally won the battle becaming the dominant local area network technology.
+				</p>
+
+				<p style="padding-bottom: 75px;">
+				3Com has been bought by Hewlett-Packard on April 12, 2010. Since the aquisition 3Com has been fully absorb and no longer exists as a separate society.
+				</p>
+
+				<h2>Technology</h2>
+				<h3>Bus topology</h3>
+				<a href="#1">
+				<div class="imgRightWithCaption" style="width: 300px;padding-bottom : 50px;"><img class="captionedImg" src="images/bus_topology.png" alt="Bus Topology"></div>
+				</a>
+
+				<p>
+					The architecture of the original Ethernet used a bus topology where each computer is connected to a single cable. This implementation turn out in a broadcasting comunication, where all the messages are received by all the computers connected to the network. 
+				</p>
+
+				<p>
+					There are several advantages using this kind of architecture. The network is very cheap and it's possible to connect a new device easily without modifying the entire system, a great plus for a network administrator. On the other hand there are also some problems, two computers could start sending informations through the cable at the same time resulting in a collision that inevitably compromises the messages. 
+				</p>
+
+				<p>
+					The collision issue is solved by a scheme known as Carrier Sense Multiple Access with Collision Detection (CSMA/CD) which govern the way the computers shared the channel. First of all each station ensure that the line is free before starting to send data. If a collision anyway occure both the stations detect it and stop transmitting data, then they wait a random amount of time and after that try to transmit data again. The collisions issue could start being a problem for high traffic networks.
+				</p>
+
+				<p>
+					The files are not delivered completeley in one step but split in several sections called frames. Each frame follow a specific format shown in the figure below. The file contains both the origin and destination address. Since each station receive all the frames delivered in the network it will just check the destination address of them, keep the right frames and get rid of the others. This behaviour could be an issue since a station set in a promiscuous way could just sniff all the frames, even that frames which are not suppose to be delivered to it.
+				</p>
+				<a href="#2">
+				<div class="imgRightWithCaption" style="width: auto;padding-left: 60px;padding-right: 70px;"><img class="captionedImg" src="images/ethernet_frame.png" alt="Ethernet Frame"></div>
+				</a>
+
+				<h3>Star topology</h3>
+				<div id="start_topology" style="padding-bottom: 75px">
+					<a href="#3">
+					<div class="imgRightWithCaption" style="width: 300px;"><img class="captionedImg" src="images/switch.jpg" alt="Switch network"></div>
+					</a>
+					<p>
+						The introducing of hubs and switches was a giant leap for Ethernet networks. A switch is a computer network device that connect stations together using a form of packet switching to deliver datas at the right destination. This mean that every station in connected to the switch only. As soon as the switch receive a frame it analyze the destination address and pass the frame on to the channel connected to the right device. An hub is just a simpler version of the switch where every frame is redirect to all the lines instead of only the right one. The combination of switches and full-duplex connections eliminate the problem of collisions since each Ethernet section is now isolated. 
+					</p>
+				</div>
+
+				<h2>Evolution of Ethernet</h2>
+				<p>
+					During the years the physical layer components such as cable, connectors ecc evolved improving the speed and reliability of Ethernet. <br>
+					An Ethernet controller runs at the speed of the slowest connected device, which is helpful when mixing old and new technology on the same network. <br>
+				</p>
+				<table border="1" >
+					<tr>
+						<th>Name</th>
+						<th>Standard Clause</th>
+						<th>Description</th>
+					</tr>
+					<tr>
+						<td>Experimental Ethernet</td>
+						<td>No Standard</td>
+						<td>The original Ethernet implementation was 2.94 Mbit/s fast and used a coaxial cable.</td>
+					</tr>
+					<tr>
+						<td>Thick Ethernet</td>
+						<td>10BASE5</td>
+						<td>The first standard Ethernet, it used an AMP 228752-1 connector also known as "vampire tap" that literally tap a connection by drilling into the cable. It had a 10 MBit/s speed and used a bus topology with collision detection.</td>
+					</tr>
+					<tr>
+						<td>Fast Ethernet</td>
+						<td>100BASE-T</td>
+						<td>A term that include all the three standards for 100 Mbit/s over twisted pair cable. All of these use a star topology.</td>
+					</tr>
+					<tr>
+						<td>Gigabit Ethernet</td>
+						<td>1000BASE-T</td>
+						<td>Released in June 1999, all the variants and successive Ethernet versions use a star topology. The 1000BASE-X version use fiber optic cable while the other versions still use twisted pair cable.</td>
+					</tr>
+					<tr>
+						<td>10Gbits Ethernet</td>
+						<td>10GBASE-SR</td>
+						<td>Released in 2002 it's ten times faster the the predecessor, most of the versions use fiber optic cable.</td>
+					</tr>
+					<tr>
+						<td>40Gbits Ethernet</td>
+						<td>40GBASE-KR4</td>
+						<td>Released in June 2010, on 2014 it's the latest version of Ethernet.</td>
+					</tr>
+				</table>
+
+				<div class="externalLinks">
+					<h3>External Links</h3>
+					<ol>
+						<li>[Visited on 06/11/14]<a id="1" href="http://upload.wikimedia.org/wikipedia/commons/4/47/BusNetwork.svg">Wikicommon image</a></li>
+						<li>[Visited on 06/11/14]<a id="2" href="http://commons.wikimedia.org/wiki/File:Ethernet_frame.svg">Wikicommon image</a></li>
+						<li>[Visited on 06/11/14]<a id="3" href="http://www.professormarcelomoreira.com.br/arquivos/avancado/avancado_aula02.pdf">Prof. Marcelo Moreira's slides</a></li>
+						<li>[Visited on 06/11/14]<a href="http://www.jdsu.com/ProductLiterature/fundethernet_wp_cpo_tm_ae.pdf">JDSU Fundamentals of Ethernet</a></li>
+						<li>[Visited on 06/11/14]<a href="http://www.britannica.com/EBchecked/topic/194001/Ethernet">Encyclopaedia Britannica</a></li>
+						<li>[Visited on 06/11/14]<a href="http://tech.mattmillman.com/projects/10base5/">A guide for building a thick-Ethernet network... updated 2012.</a></li>
+						<li>[Visited on 06/11/14]<a href="https://www.youtube.com/watch?v=g5MezxMcRmk">Robert Metcalfe's video about the history of Ethernet</a></li>
+						<li>[Visited on 06/11/14]<a href="https://www.youtube.com/watch?v=m_agCPNGOzU">Robert Metcalfe's talking about the first Ethernet LAN</a></li>
+						<!-- REPLACE THESE -->
+						<li><a id="6" href="http://en.wikipedia.org/wiki/File:Apple_Macintosh_Desktop.png">[Visited on 06/11/14] Image taken from Wikimedia Commons. Fair use intended.</a></li>
+					</ol>
+				</div>
+			</div>	
+		</div>
+		<footer>
+		<address>Copyright &copy; Victor Mion</address>
+		</footer>
+	</div>
+</body>
+
+</html>

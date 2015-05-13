@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<!-- 
+
+FOR STYLING:
+<p> - every paragraph NEEDS to be in one of these!
+<h1> - main titles (i.e. The research question)
+<h2> - subheadings
+
+Put your images in the Resources folder of your area, E.G. if you did hardware yours images must be un /html/hardware/Resources/
+
+ -->
+
+
+
+<html>
+
+<head>
+<!-- !!!!CHANGE PAGE TITLE HERE -->
+	<title>BIOS</title>
+	<!-- PUT YOUR NAME HERE AND ALSO NEAR THE BOTTOM OF THE PAGE -->
+	<meta name="author" content="YOUR_NAME">
+	<link rel="stylesheet" type="text/css" href="../../../css/style.css">
+	<meta charset="UTF-8">
+
+	<!-- ADD THIS -->
+	<link rel="shortcut icon" href="../../../favicon.png">
+</head>
+<body>
+	<div id="wrapper">
+		<div id="navigation">
+			<ul>
+			<!-- !!!!FOR YOUR AREA ADD class="selected" TO THE CORRECT <li> E.G IF YOU DID HARDWARE, YOU SHOULD SEE:
+					<li class="selected"><a href="../hardware.html">Hardware</a></li>
+			-->
+				<li><a href="../../../index.html">Home</a></li>
+				<li><a href="../../../html/hardware/index.html">Hardware</a></li>
+				<li class="selected"><a href="../../../html/software/index.html">Software</a></li>
+				<li><a href="../../../html/internet/index.html">Internet</a></li>
+				<li><a href="../../../html/games/index.html">Games</a></li>
+			</ul>
+		</div>
+		<div id="contentContainer" class="clearfix">
+			
+			<div id="content">
+				
+				<!-- !!!!PUT YOUT CONTENT HERE. DO NOT CHANGE ANY OF THE OTHER CODE. -->
+				<h1>BIOS</h1>
+				<h2>About Bios</h2>
+				
+				<a href="#4"><div class="imgRightWithCaption" style="width: 40%">
+				<img class="captionedImg" src="images/bios.png" alt="BIOS Setup Utility">
+				<div class="caption">BIOS Setup Utility</div>
+				</div></a>
+				
+				<p>BIOS stands for the Basic Input/Output System found in Windows computers
+				and unlike operating systems, it is integrated into the computer (i.e.
+				users do not have to install it). The BIOS is the first application to be launched 
+				when the computer starts up and follows a series of steps to check whether
+				all the hardware is functioning properly before loading the 
+				<a href="../../software/os/os.html">operating system</a>.
+				 The very first step is to conduct a power on self test (POST)
+				immediately after the computer is turned on, whereby the BIOS checks the
+				CPU registers, the main memory, itself etc and identifies the devices
+				that need to be booted.</p>
+				
+				<p> In later versions, the BIOS is able to also
+				organise and select which devices needed to be started. After completing
+				the POST, the BIOS is responsible for starting up (initialising) all the 
+				major hardware, such as the CPU and the RAM. The BIOS then passes control
+				over to the operating system of the computer. Unlike operating systems,
+				BIOS is stored on the motherboard as Read Only Memory (ROM). Later,
+				as the hardware of computers developed further, BIOS was stored on 
+				the Electrically Erasable Programmable Read Only Memory (EEPROM), the 
+				first versions of which were used in 1978 for the Intel 2816. </p>
+			
+				
+				<p>The term BIOS was first used in 1975, by Gary Kildall and was used to 
+				depict the part of a computer's hardware that was initialised when the
+				computer was turned on and the operating system was loaded. </p>
+				
+				
+				<!-- CHANGE THE NUMBER IN THE <sup></sup> TAGS EACH TIME -->
+				<h2>Read Only Memory</h2>
+				<a href="#3"><div class="imgLeftWithCaption" style="width: 35%">
+				<img class="captionedImg" src="images/garykildall.jpg" alt=" image of Gary Kildall">
+				<div class="caption">image of Gary Kildall</div>
+				</div></a>
+				<p>A Read Only Memory (ROM) chip is defined as a non-volatile method of
+				storage in a computer as it doe not require power all the time to 
+				retain information, unlike the RAM, where once the computer is
+				disconnected from its power source, the data stored in the RAM is lost.
+				However, writing data to ROM was a slower process than writing to RAM
+				and ROM chips could only store a fraction of the amount of data that RAM 
+				chips could. Hence, the development of BIOS is heavily reliant on the
+				development of Processors at the time. In 1974, the <a href="../../hardware/intel_8008_8080.html">Intel 8080</a>,
+				had an Addressable Memory of 64 Kilobytes. The amount that could be stored
+				on a ROM chip at the time was much less. But within a decade, a rapid 
+				growth in hardware development, allowed Processors to store more data in
+				memory (by 1985, the Intel 80386 had an addressable memory of 4 Gigabytes).
+				As a result, the capacity of the ROM chip also increased.
+				</p>
+				<br> <br> <br> <br>
+				<!-- ADD YOUR EXTERNAL LINKS HERE AS A LIST -->
+				<div class="externalLinks">
+					<h3>External Links</h3>
+					<ol>
+						<!-- REPLACE THESE -->
+						<li>[Visited on 06/11/14] <a id="1" href="http://whatis.techtarget.com/definition/BIOS-basic-input-output-system">About BIOS</a></li>
+						<li>[Visited on 06/11/14] <a id="2" href="http://www.tech-faq.com/bios.html"> BIOS History</a></li>
+						<li>[Visited on 06/11/14] <a id="4" href="http://commons.wikimedia.org/wiki/File:Award_BIOS_setup_utility.png">Image taken from Wikimedia Commons</a></li>
+						<li>[Visited on 06/11/14] <a id="3" href="http://www.tech-faq.com/bios.html">Image taken from Wikipedia. Fair use intended</a></li>
+						<li>[Visited on 06/11/14] <a id="7" href="http://en.wikipedia.org/wiki/BIOS">Brief History of BIOS</a></li>
+						<li>[Visited on 06/11/14] <a id="8" href="http://en.wikipedia.org/wiki/History_of_operating_systems">History of OS</a></li>
+						<li>[Visited on 06/11/14] <a id="5" href="http://www.computerhope.com/issues/ch001361.htm"> ROM versus RAM</a></li>
+						<li>[Visited on 06/11/14] <a id="6" href="http://thestarman.pcministry.com/asm/bios/">Development of Processors</a></li>
+					</ol>
+				</div>
+				<!-- DO NOT CHANGE ANYTHING BELOW THIS LINE -->
+			</div>
+			
+		</div>
+		<footer>
+		<!-- PUT YOUR NAME HERE -->
+		<address>Copyright &copy; Irene Jacob</address>
+		</footer>
+	</div>
+</body>
+
+</html>

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>TCP/IP</title>
+	<meta name="author" content="Sami Rami">
+	<link rel="stylesheet" type="text/css" href="../../css/style.css">
+	<meta charset="UTF-8">
+	<link rel="shortcut icon" href="../../favicon.png">
+</head>
+<body>
+	<div id="wrapper">
+		<div id="navigation">
+			<ul>
+				<li><a href="../../index.html">Home</a></li>
+				<li><a href="../../html/hardware/index.html">Hardware</a></li>
+				<li><a href="../../html/software/index.html">Software</a></li>
+				<li class="selected"><a href="../../html/internet/index.html">Internet</a></li>
+				<li><a href="../../html/games/index.html">Games</a></li>
+			</ul>
+		</div>
+		<div id="contentContainer" class="clearfix">
+			
+			<div id="content">
+
+				<h1>TCP/IP</h1>
+
+				<p>
+				The Transmission Control Protocol (TCP) and the Internet Protocol (IP) were the first networking protocols defined in the Internet Model by DARPA. It is often used to talk about the whole model, even though they only represents 2 layers of it, the transport layer (TCP) and the network layer (IP). TCP is connection-oriented, while IP is connection-less. While IP handles actual delivery of the data, TCP keeps track of the individual units of data transmission. This suite of protocols was officially adopted in January of 1983 replacing ARPANET's IMP subnet.<a href="#1"><sup>1</sup></a>
+				</p>
+				<br>
+				<div class="youvideo"><embed width="560" height="315" src="https://www.youtube.com/v/HOaIqQAeaik"></div>
+				<br>
+				<h2>Transmission Control Protocol</h2>
+
+				<p>
+				TCP was invented in 1973 by <a href="vint_cerf.html">Vint Cerf</a> and <a href="robert_kahn.html">Robert Kahn</a>. Introduced in 1974, it allowed resource sharing between networks other than the ARPANET. Representing <a href="iso_osi.html">OSI</a> layer 4, it allows for ordered and error-checked between programs running on computers connected to a local area network, Intranet or the public Internet. TCP is part of the structure of layers that make a network packet, namely the transfer layer. It allows for multiple applications to use a single network connection simultaneously, each of which is assigned to a different port. The goal of a port is to uniquely identify different applications or processes running on a single computer. The data is divided in small packets, by a process called <a href="packet_switching.html">Packet Switching</a>, so that if one packet is corrupted on the way, the whole data doesn't have to be resent.
+				</p>
+
+				<h2>Internet Protocol</h2>
+
+				<h3 class=“subP”>Functions</h3>
+
+				<p class=“subP”>
+				It separated some of the networking functionality from the simple act of passing packets. IP is <a href="iso_osi.html">OSI</a> layer 3, it controls routing of information to different devices. It deals with IP addresses, subnet masks, default gateways, <a href="DNS.html">DNS</a> and more to figure out where the other one is and start communicating. It is a routable protocol which allows to divide big networks into smaller subnetworks with the use of routers.
+				</p>
+
+				<div class="imgRightWithCaption" style="width: 300px"><a href="#5"><img class="captionedImg" alt= "IP address structure" src="images/ip_address.png"></a></div>
+
+				<h3 class=“subP”>IP Address</h3>
+
+				<p class=“subP”>
+				IP addresses are used to distinguish every computer or device on a network. It comparable to a phone number, the "caller" is the computer that initiates the connection using the IP of the server it wants to reach and the server is "listening" for calls to come in. An IP an address is made of 32 bits which limits the address space to 4294967296 (232) possible unique addresses, but there is sub-netting of those addresses for subnetworks, allowing more uses of those IP addresses.<a href="#2"><sup>2</sup></a>
+				</p>
+
+				<h2>Subnetwork</h2>
+
+				<p>
+				A subnet mask segments a network logically, so that computers and devices on the same network cannot necessarily communicate with each other. Then we have a Default Gateway, which is the router for the subnetwork that the computer is on. So if for instance you are looking for a website, the computer will look of it first in the subnetwork and only when hasn’t found it there, he will use the default gateway to ask the router to find the site on the internet. If you enter the name of the site to find it, it goes through the Domain Name Server (<a href="DNS.html">DNS</a>), to find the IP Address of the site.
+				</p>
+
+				<div class="externalLinks">
+					<h3>External Links</h3>
+					<ol>
+						<li><a id="1" href="http://tools.ietf.org/html/rfc1436">[Visited on 06/11/2014] RFC 1436</a>
+						<li><a id="2" href="http://en.wikipedia.org/wiki/IP_address">[Visited on 06/11/2014] Wikipedia page about IP address</a></li>
+						<li><a id="3" href="https://www.youtube.com/watch?v=EkNq4TrHP_U">[Visited on 06/11/2014] About TCP/IP and subnetworks</a></li>
+						<li><a id="4" href="http://www.tcpipguide.com/free/t_TCPIPArchitectureandtheTCPIPModel.htm">[Visited on 06/11/2014] TCP/IP guide</a></li>
+						<li><a id="5" href="http://commons.wikimedia.org/wiki/File:Ipv4_address.svg">[Visited on 06/11/2014] IP address structure</a></li>
+					</ol>
+				</div>
+			</div>
+		</div>
+		<footer>
+		<address>Copyright &copy; Sami Rami</address>
+		</footer>
+	</div>
+</body>
+
+</html>

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Email Protocols</title>
+	<meta name="author" content="Arda Zaimoglu">
+	<link rel="stylesheet" type="text/css" href="../../css/style.css">
+	<meta charset="UTF-8">
+    <link rel="shortcut icon" href="../../favicon.png">
+</head>
+<body>
+	<div id="wrapper">
+        <!-- NAVIGATION BAR -->
+		<div id="navigation">
+			<ul>
+				<li><a href="../../index.html">Home</a></li>
+				<li><a href="../../html/hardware/index.html">Hardware</a></li>
+				<li><a href="../../html/software/index.html">Software</a></li>
+				<li class="selected"><a href="../../html/internet/index.html">Internet</a></li>
+				<li><a href="../../html/games/index.html">Games</a></li>
+			</ul>
+		</div>
+        
+        <!-- CONTENT -->
+		<div id="contentContainer" class="clearfix">
+			
+			<div id="content">
+				
+				<h1>Email Protocols</h1>
+                
+				<h2>What are Email Protocols?</h2>
+				
+                <p>Email protocols manage the interaction between email servers and clients. They set the rules or procedures for data transmission between machines. To send and receive the data that the emails consist of, there has to be a prior agreement between the computers about how the information is structured and how it will be sent and received. If one side sends 8-bit data packets while the other side expects 16-bit data packets, the transmission can't take place. Email protocols prevent this by setting these types of guidelines on how to send and receive information.</p>
+                <p>The standard internet Protocols are POP, IMAP and SMTP. They are application layer protocols like <a href="DNS.html">DNS</a> and <a href="FTP.html">FTP</a>. There are also non-standard protocols that are specific to their owners. They are used by proprietary systems like IBM Notes or Microsoft Exchange and also by webmail systems such as Gmail, Yahoo! Mail and Hotmail. These use their own protocols to access their own mail servers but they all use SMTP to send and receive email to and from other mail servers that are outside their system.</p>
+                
+                <h2>POP</h2>
+                
+                <!-- IMAGE 1 -->
+                <div class="imgRightWithCaption" style="width: 400px"><a href="#3"><img class="captionedImg" src="images/pop3_image1.jpg" alt="POP3"></a><div class="caption">POP3</div></div>
+                
+                <p>
+                POP stands for Post Office Protocol. It is older than IMAP and was used during the era when the connection to the internet was established through a dial-up modem. POP is currently in its third version and is therefore currently named POP3.
+                </p>
+                
+                <p>
+                In POP, when online, all incoming messages are retrieved and stored on the client machine. Then they are deleted from the server and the client gets disconnected from the server. The email server can be thought of as a mailbox at the Post Office. It is a temporary storage area that is used until the mail arrives at its recipient.
+                </p>
+                    
+                <p>
+                There is an important advantage to using POP. A user doesn't need to be connected to the network all the time. Since there just needs to be a connection while retrieving the incoming email messages but not while acting on them, a user can save on connection costs.
+                </p>
+                
+                <p>
+                Outgoing email messages are created on the client's server and are kept there for being sent to the email server as soon as there is a connection again. When the messages are uploaded to the email server, the server sends the outgoing mail which it received from the client to other email servers until the messages arrive at their recipients.
+                </p>
+                
+                <p>Copies of email messages can also be kept on the server when using POP. There are a lot of POP clients who offer this option. Most POP clients also provide an option to leave copies of email on the server.  Email messages are only removed from the server when they reach a specified age or when they have been removed on the client machine. The copies on the email server are just temporary backups while the messages that are considered "real" are the copies on the client computer.
+                </p>
+                
+                <h2>IMAP</h2>
+                
+                <!-- IMAGE 2 -->
+                <div class="imgRightWithCaption" style="width: 400px"><a href="#3"><img class="captionedImg" src="images/IMAP_image1.jpg" alt="IMAP"></a><div class="caption">IMAP</div></div>
+                
+                <p>
+                IMAP is a protocol which was developed after POP in 1986 at Stanford University as an alternative to POP and uses a newer technology. Mark Crispin is credited for its creation. The abbreviation stands for Internet Message Access Protocol.
+                </p>
+                    
+                <p>
+                IMAP is the newer protocol and benefits from a state of being "always connected". In the IMAP procedure you leave your messages on the server instead of getting copies everytime you want to read them as in POP. In this convention, your email messages are only accessible when you are online.
+                </p>  
+
+                <p>
+                IMAP is useful when you are always connected to the internet, especially to the fast connections offered by broadband mechanisms. Having to be connected to read your email is not an obstacle when the connection is always available. This can be compared to leaving your messages at the Post Office and going back there each time you want to read your messages again.
+                </p>
+
+                <p>
+                Since messages are always on the server unless they are deleted by the user, they can be accessed by more than one client computer. This can be an important benefit when you are using multiple machines to check your email messages.
+                </p>
+
+                <p>
+                IMAP doesn't keep the copies of the messages on the client machine. However, it considers the copies of the messages which are on the server as the "real" messages. This is in a way the opposite of what POP does, since in POP the copies on the client's machine are the "real" messages. The way that IMAP does it brings with itself an advantage in security. Your email messages won't be lost if somehow the files on the client computer's hard drive get lost or corrupted.
+                </p>
+                
+                <h2 id="SMTP">SMTP</h2>
+                
+                <p>
+                A POP or IMAP protocol handles only the incoming mail. Both POP and IMAP clients use the Simple Mail Transfer Protocol (SMTP) for handling outgoing email messages. When setting up an email account with email client software, one has to specify the name of the mail server machine for incoming mail. This will either be using POP or IMAP. One must also write the name of the mail server for outgoing mail. This will be using the SMTP protocol. The names of these servers are usually in the form of web addresses. An example for an incoming mail server is 'imap.gmail.com'.
+                </p>
+                
+                <p>
+                SMTP is a message transfer system. Relaying messages from the sender to the 
+recipient is what a message transfer system does. Establishing a transport connection from the source 
+machine to the destination machine and then just transfering the message is the simplest way to do this.
+                </p>
+                
+                <p>
+                Email messages are delivered by having the machine of the sender establish a <a href="tcp_ip.html">TCP</a> connection to port 25 of the computer of the recipient. There is an email daemon that understands the rules of the SMTP which listens to this port (A daemon<a href="#4"><sup>4</sup></a> is a computer program that runs as a background process, rather than being under the direct control of an interactive user). The daemon accepts incoming connections and copies messages from them into the appropriate mailboxes. When there is a problem while trying to deliver an email message, an error report containing the first part of the undelivered message will be returned to the sender.
+                </p>
+                
+				<!-- EXTERNAL LINKS -->
+				<div class="externalLinks">
+					<h3>External Links</h3>
+                    
+					<ol>
+						<li>[Visited on 1/11/2014] <a href="http://it.med.miami.edu/x1111.xml">University of Miami - IT</a></li>
+                        
+                        <li>[Visited on 1/11/2014] <a id="2" href="http://web.info.uvt.ro/~smihalas/com_net/download/computer_networks_4th_edition.pdf">Literature: "Computer Networks" - by Tanenbaum</a></li>
+                        
+                        <li>[Visited on 5/11/2014] <a id="3" href="http://www.calcouk.com/what_is_imap.html">Image from "Calco UK"</a></li>
+                        
+                        <li>[Visited on 5/11/2014] <a id="4" href="http://en.wikipedia.org/wiki/Daemon_(computing)">Definiton from "Wikipedia"</a></li>
+                        
+					</ol>
+				</div>
+			</div>
+			
+		</div>
+		<footer>
+		  <address>Copyright &copy; Arda Zaimoglu</address>
+		</footer>
+	</div>
+</body>
+
+</html>

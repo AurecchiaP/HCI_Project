@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>The Evolution of GPU</title>
+	<meta name="author" content="Davide Cammarata">
+	<link rel="stylesheet" type="text/css" href="../../css/style.css">
+	<link rel="shortcut icon" href="../../favicon.png">
+	<meta charset="UTF-8">
+</head>
+<body>
+	<div id="wrapper">
+		<div id="navigation">
+			<ul>
+				<li><a href="../../index.html">Home</a></li>
+				<li class='selected'><a href="../hardware/index.html">Hardware</a></li>
+				<li><a href="../software/index.html">Software</a></li>
+				<li><a href="../internet/index.html">Internet</a></li>
+				<li><a href="../games/index.html">Games</a></li>
+			</ul>
+		</div>
+		<div id="contentContainer" class="clearfix">
+			<div id="content">
+
+				<h1>The Evolution of the GPU</h1>
+				<p>
+					The basis of the graphics hardware that we know today were the so called display controllers: this devices were known as video shifter or video address generators and were able to organise the data into serial bitmapped video output such as luminance or color. A first design of such a device arrived in the last part of 1970 and engineers were already talking about a vertical and horizontal synchronisation of the image in term of blanking intervals.
+				</p>
+
+				<h2>Video Shift Register</h2>
+				<p>
+					An example of simple video shift register is the CDP1861 video display chipset, 64x32 monochrome display, used in the RCA Studio II and in the COSMAC VIP in 1977. This device could create a very low quality and resolution monochrome graphic screen. Of the same kind there are also the ULA, inserted in the Sinclair ZX-81. One chip that comes to the eyes among the others developed in those years is the Television Interface Adapter (TIA) used in the <a href="../games/atari.html">Atari 2600</a>, it was also a video shifter but the same chip was responsible as well for sound effects and reading the input from the controller. The creator of the TIA was Jay Miner, who also studied and created the design for the custom chip mounted in the <a href="amiga1000_hw.html">Commodore Amiga</a> computer later on. In 1978 Motorola published his MC6845 video address generator, that became the base of the IBM PC’s monochrome and Color Display Adapter (MDA/CDA) card presented in 1981. The revision of this chip made its way into many first generation personal computers.
+				</p>
+
+				<h2>Cathode Ray Tube Controller</h2>
+				<p>
+					The next step in computer graphics were the CRTC systems (Cathode Ray Tube Controller). One of this chip were able to manage control signals and basic timing and they were supported by a “Video RAM” and more than one logic circuit so that the CPU and the CRTC could share they're memory. Another big change was the creation of a memory system called ROM needed to store bitmap font and text models as well as logic to convert the output from the system into video signal. This solution was used by Intel in they're 82720 graphics chip that was capable of displaying eight colour data at a resolution of 256x256 (or monochrome at 512x512). The details of this card can be read in the <a href='http://www.df.lth.se/~pi/compis/datablad/Intel82720.pdf'>official datasheet</a>.
+				</p>
+
+				<div class="clearfix">
+					<h2>Video Interface controllers</h2>
+					<p>
+						The next step in the history were the Video Interface controllers. This chip were based on the CRTC system but the new idea was to use more than one chart per machine. It was so created some complex system that include many CRTC circuits. One good example of this particular controller was the VIC-II: it was designed at MOS Technology and the fact that it was a very good device derived of the research about the Video Games production and the featured requested to the graphical controllers. This spirit leaded to a powerful Video Interface Controller presented in 1981 at the Consumer Electronics Show<a href="#1"><sup>1</sup></a> and had the following features:
+					</p>
+					<a href="#3">
+						<div class="imgLeftWithCaption" style="width: 150px">
+							<img class="captionedImg" src="images/VIC-II.png" alt='VIC II'>
+							<div class="caption">
+								VIC-II pinout
+							</div>
+						</div>
+					</a>
+					<ul>
+						<li>16 kB address space for screen, character and sprite memory</li>
+						<li>320 × 200 pixels video resolution (160 × 200 in multi-color mode)</li>
+						<li>40 × 25 characters text resolution</li>
+						<li>Three character display modes and two bitmap modes</li>
+						<li>16 colors</li>
+						<li>Concurrent handling of 8 sprites per scanline, each of 24 × 21 pixels (12 × 21 multicolor)</li>
+						<li>Raster interrupt (see details, below)</li>
+						<li>Smooth scrolling</li>
+						<li>Independent dynamic RAM refresh</li>
+						<li>Bus mastering for a 6502-style system bus; CPU and VIC-II accessing the bus during alternating half-clock cycles (the VIC-II will halt the CPU when it needs extra cycles)</li>
+					</ul>
+				</div>
+
+				<h2>Video co-processor</h2>
+				<a href="#4">
+					<div class="imgRightWithCaption" style='width: 400px'>
+						<img class="captionedImg" src="images/ati-ega-wonder.png" alt='EGA Wonder'>
+						<div class="caption">
+							ATI EGA Wonder 800
+						</div>
+					</div>
+				</a>
+				<p>
+					This kind of video hardware are the highest performance chip. The main difference with this devices is that they can manipulate and work directly with the dedicated RAM without intervention of the main CPU. This permit a high flexibility and offer feature with minimal CPU usage or involvement. Two example of machines that uses this kind of high-feature Video chip category were the Atari ANTIC/GTIA and the Amiga OCS/ESC/AGA. An industry that gave a substantially contributed to the graphical hardware innovation was Array Technologies Inc, also known as ATI. Founded in 1985 by Kwon Yuan Ho, Lee Lau and Benny Lau (three Hong Kong immigrants), in Canda. The first product to see the light as an ATI one’s was the OEM Color Emulation Card, a device responsible for the ATI’s CAD $10 million in sales in the company’s first year of operation, in fact they were selling around 7000 chips a week to Commodore Computers. In 1987 ATI expand his list of product inserting the Graphic Solution Plus series, it had 64kb of memory and where released in 1987. Based on this board the factory produced also the EGA Wonder series 1 to 4 that had many implementation and was much more reliable thanks of a 256KB of DRAM as well as compatibility with CGA, EGA and MDA emulation with up to 640x350 resolution and 16 bit colours. Not much time later it comes out an improvement of the EGA: the EGA Wonder 800. This new chip had 16 colour VGA emulation and was able to perform video at a resolution of 800x600!
+				</p>
+
+				<h2>Interesting facts: </h2>
+				<p>
+					GPU as military support: 
+					The Evans &amp; Sutherland was created in 1968 by Dr. Davide Evans and Dr. Ivan Sutherland, both computer science professors at the University of Utah in Salt Lake City. During the 1970s they developed a visual system for Rediffusion’s commercial flight training simulators and in very little time most of the world’s commercial airline pilots were trained using an E&amp;S visual systems. During the next decade E&amp;S became the creator of the most realistic visual system in the world generating simulator not only for the commercial flight pilot but also for the Army to train soldier in simulated war situation.
+				</p>
+				<div class="youvideo">
+					<embed width="640" height="480" src="http://www.youtube.com/embed/7e7_GiCc-HA?rel=0" frameborder="0" allowfullscreen/>
+				</div>
+				<div class="externalLinks">
+					<h3>External Links</h3>
+					<ol>
+						<li>[Visited on 06/11/2014] <a id='1' href="http://en.wikipedia.org/wiki/Consumer_Electronics_Show">Consumer Electronics Show</a></li>
+						<li>[Visited on 06/11/2014] <a id='2' href="http://www.techspot.com/article/650-history-of-the-gpu/">www.techspot.com</a></li>
+						<li>[Visited on 06/11/2014] <a id='3' href="http://en.wikipedia.org/wiki/MOS_Technology_VIC-II#mediaviewer/File:VIC-II.svg">Image "VIC-II pinout" under fair use</a></li>
+						<li>[Visited on 06/11/2014] <a id='4' href="http://www.techspot.com/articles-info/650/images/ega-wonder-350px.jpg">Image "ATI EGA Wonder800" under fair use.</a></li>
+					</ol>
+				</div>
+			</div>
+		</div>
+		<footer>
+			<address>Copyright &copy; Davide Cammarata</address>
+		</footer>
+	</div>
+</body>
+</html>

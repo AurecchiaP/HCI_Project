@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Alohanet</title>
+	<meta name="author" content="Mauro Alerci">
+	<link rel="stylesheet" type="text/css" href="../../css/style.css">
+	<link rel="shortcut icon" href="../../favicon.png">
+	<meta charset="UTF-8">
+</head>
+<body>
+	<div id="wrapper">
+		<div id="navigation">
+			<ul>
+		
+				<li><a href="../../index.html">Home</a></li>
+				<li><a href="../../html/hardware/index.html">Hardware</a></li>
+				<li><a href="../../html/software/index.html">Software</a></li>
+				<li class="selected"><a href="../../html/internet/index.html">Internet</a></li>
+				<li><a href="../../html/games/index.html">Games</a></li>
+			</ul>
+		</div>
+		<div id="contentContainer" class="clearfix">
+			
+			<div id="content">
+				
+            <div class="imgRightWithCaption" style="width: 185px"><img class="captionedImg" src="images/Norman_Abramson.jpg" alt="Norman Abramson."><div class="caption">Norman Abramson.</div></div>
+    
+    <h1>ALOHANET</h1>
+    <h2>New requirements</h2>
+<p>
+In the late 60’s, several attempts were made to provide remote access to computer systems and information progressing systems through the existing worldwide telephone network, but soon it became clear that the network was shaped by the requirements of voice communications and not data networking. And it was there that Norman Abramson<a href="#1"><sup>1</sup></a> had the idea of using radio communications instead of the telephone system.</p>
+                
+<h2>The development</h2>
+    <p>In 1968, at the University of Hawaii, Norman Abramson leaded a group of research to develop ALOHANET<a href="#2"><sup>2</sup></a>, a network which would have connected users from Oahu to all the other Hawaiian islands, and viceversa, all through low-cost equipment. The original version of ALOHA used two distinct frequencies, with the server machine broadcasting packets to everyone on the “outbound” channel, and the client machines sending data to the server on the “inbound” channel. If data was received correctly by the server, an “acknowledgment” packet was sent back to the client, and if the client didn’t receive it, it would have sent again its data, and so on. This mechanism was used to detect and correct conflicts that could occur when two client machines attempted to send data at the same time, and it was needed because unlike the <a href="ARPANET.html">ARPANET</a>, where each node could only talk directly to a node at the other end of a wire or satellite circuit, in ALOHANET all client nodes communicated with the server on the same frequency.</p>
+                
+    <h2>The random-access channel</h2>
+                <a href="https://en.wikipedia.org/wiki/File:ISS038-E-032755_lrg.jpg"> <div class="imgRightWithCaption" style="width: 300px"><img class="captionedImg" src="images/hawaiian_islands.jpg" alt="The Hawaiian Islands."><div class="caption">The Hawaiian Islands.</div></div></a>
+    <p> This solution reduced critically the complexity of the protocol and the networking hardware, and became the basis for subsequent Ethernet development and later Wi-Fi networks. ALOHANET used a random-access channel for communication between users, which was later called “pure ALOHA channel”: this approach gives automatically bandwidth to every user that has some data to send. In later versions of the system, some radio relays<a href="#3"><sup>3</sup></a> were placed in order to connect the main network on the island of Oahu to other islands.</p>
+				
+				<div class="externalLinks">
+					<h3>External Links</h3>
+					<ol>
+                        <li><a id="1" href="https://en.wikipedia.org/wiki/Norman_Abramson">Norman Abramson - Wikipedia</a> [Visited on 06/11/2014]</li>
+						<li><a id="2" href="http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1057021">Norman Abramson's document about ALOHANET.</a> [Visited on 06/11/2014]</li>
+                        <li><a id="3" href="https://en.wikipedia.org/wiki/Radio_relay">Radio Relay - Wikipedia</a> [Visited on 06/11/2014]</li>
+					</ol>
+				</div>
+				
+				
+			</div>
+			
+		</div>
+		<footer>
+		
+		<address>Copyright &copy; Mauro Alerci</address>
+		</footer>
+	</div>
+</body>
+
+</html>

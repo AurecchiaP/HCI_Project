@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Usenet</title>
+	<meta name="author" content="Sami Rami">
+	<link rel="stylesheet" type="text/css" href="../../css/style.css">
+	<meta charset="UTF-8">
+	<link rel="shortcut icon" href="../../favicon.png">
+</head>
+<body>
+	<div id="wrapper">
+		<div id="navigation">
+			<ul>
+				<li><a href="../../index.html">Home</a></li>
+				<li><a href="../../html/hardware/index.html">Hardware</a></li>
+				<li><a href="../../html/software/index.html">Software</a></li>
+				<li class="selected"><a href="../../html/internet/index.html">Internet</a></li>
+				<li><a href="../../html/games/index.html">Games</a></li>
+			</ul>
+		</div>
+		<div id="contentContainer" class="clearfix">
+			
+			<div id="content">
+
+				<h1>Usenet</h1>
+
+				<p>
+				Usenet can be compared to today's internet forums, except the messages are not stored in one server and they are only available for a limited time. In fact, it is considered as the precursor to Internet forums. In many aspects, it is similar to a bulletin board system (<a href="BBS.html">BBS</a>), but without a central server and dedicated administrator. It can be accessed through the Internet or through many online services. It contains more than 14,000 forums with topics of every kind, called newsgroups. Created years before the Web, it is still used daily by millions worldwide.
+				</p>
+
+				<h2>Origins</h2>
+
+				<p>
+				Established in 1980 by two students of Duke University Tom Truscott and Jim Ellis, the goal of was to create a system where students could use UNIX to write and read messages. To share information, messages were to be posted to newsgroups, where any user could have access to read and respond to them. The early versions of the system were known as Network News (Net News) and Usenet (a contraction of User's network). They started with only two computers using the same newsgroups. As more sites and users joined Usenet, more areas of interest were identified, meaning more newsgroups.
+				</p>
+
+				<div class="imgRightWithCaption" style="width: 300px"><a href="#5"><img class="captionedImg" alt= "Usenet servers & clients" src="images/usenet_servers_and_clients.png"></a><div class="caption">Usenet servers & clients</div></div>
+
+				<h2>Communication Process</h2>
+
+				<ol>
+					<li><b>Composition:</b> A Usenet article is made of a header and a body, like a mail the head has the content and the header has information about where to send the article for instance.</li>
+
+					<li><b>Posting and Local Storage:</b> Posting submits the article and a NNTP client software program on the computer transmits the message to the local Usenet server. It is now immediately available to all other users of that server who decide to read where she submitted the article.</li>
+
+					<li><b>Propagation:</b> To sent the article to other sites, the server sends the article to servers that are connected to the local one and those servers will send the data to others.</li>
+
+					<li><b>Access and Retrieval:</b> Other readers can reply to the message, propagating the reply back to the original poster and other readers of the topics.
+					</li>
+				</ol>
+
+				<h2>Transport Method</h2>
+				<p>
+				Usenet messages were originally transported using Unix-to-Unix Copy (UUCP), which was created to let <a href="../software/os/unix.html">UNIX</a> systems communicate directly. In the late 1970s and early 1980s it was either use UUCP over telephone lines, or nothing. When TCP/IP became the norm, it was replaced by the Network News Transfer Protocol (NNTP), which was made to enhance performance with TCP. In many ways, NNTP is similar to the Simple Mail Transfer Protocol (SMTP). Since Usenet was already inspired by the mail format, it made sense to take its transport method. 
+				</p>
+
+				<p>
+				Its most important function is to provide an efficient means of moving large volumes of articles from server to server. That process is called "flooding" because it starts from the top, being the service providers and goes down from there. The article has an ID, in order to avoid duplicate articles being sent from more than one server.
+				</p>
+
+
+				<h2>Structure</h2>
+
+				<p>
+				Similar to the Domain Name System (<a href="DNS.html">DNS</a>), the Usenet system of newsgroups is hierarchical. At the top level, Usenet is made of top-level news hierarchies that represent either a range of topics or even a geographical location. 
+				</p>
+
+				<p><b>Top-Level Usenet Categories or the <i>Big Eight</i>:</b></p> 
+
+				<div class="imgRightWithCaption" style="width: 300px"><a href="#6"><img class="captionedImg" alt= "The Big Eight + alt.*" src="images/usenet_big_nine.png"></a><div class="caption">The Big Eight + alt.*</div></div>
+
+				<table>
+					<tr>
+                        <th>Category</th><th>Description</th>
+                    </tr>
+                    <tr>
+                        <td>humanities.*</td><td>which is a collection of various topics</td>
+                    </tr>
+                    <tr>
+                        <td>comp.*</td><td>Computer-related discussions</td>
+                    </tr>
+                    <tr>
+                        <td>misc.*</td><td>Miscellaneous information</td>
+                    </tr>
+                    <tr>
+                        <td>news.*</td><td>Information about Usenet itself</td>
+                    </tr>
+                    <tr>
+                        <td>rec.*</td><td>Recreational topics such as hobbies and travel</td>
+                    </tr>
+                    <tr>
+                        <td>sci.*</td><td>Scientific issues</td>
+                    </tr>
+                    <tr>
+                        <td>soc.*</td><td>Social issues</td>
+                    </tr>
+                    <tr>
+                        <td>talk.*</td><td>General discussion topics such as politics and religion</td>
+                    </tr>
+                </table>
+
+                <p>
+                There is also the alt.* hierarchy which is a collection of various topics and so it isn't subject to controls like for the Big Eight.
+                </p>
+
+				<div class="externalLinks">
+					<h3>External Links</h3>
+					<ol>
+						<li><a id="1" href="http://www.tcpipguide.com/free/t_UsenetOverviewHistoryandStandards.htm">[Visited on 06/11/2014] History of Usenet</a>
+						<li><a id="2" href="https://tools.ietf.org/html/rfc977">[Visited on 06/11/2014] RFC 977, published in 1986</a></li>
+						<li><a id="3" href="http://www.thenetworkencyclopedia.com/entry/usenet/">[Visited on 06/11/2014] Network Encyclopedia article about Usenet</a></li>
+						<li><a id="4" href="http://en.wikipedia.org/wiki/Usenet">[Visited on 06/11/2014] Wikipedia page about Usenet</a></li>
+						<li><a id="5" href="http://commons.wikimedia.org/wiki/File:Usenet_servers_and_clients.svg">[Visited on 06/11/2014] Usenet servers and clients</a></li>
+						<li><a id="6" href="http://commons.wikimedia.org/wiki/File:Usenet_Big_Nine.svg">[Visited on 06/11/2014] The Big Eight + alt.*</a></li>
+					</ol>
+				</div>
+			</div>
+		</div>
+		<footer>
+		<address>Copyright &copy; Sami Rami</address>
+		</footer>
+	</div>
+</body>
+
+</html>

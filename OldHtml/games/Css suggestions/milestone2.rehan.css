@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* Internal links */
+a[href*="https://www.google.ch"]:link
+{
+	color:gray;
+    text-decoration: none;
+}
+
+a[href*="https://www.google.ch"]:hover
+{
+	color: #1E7AF2;
+    text-decoration: underline;
+}
+
+a[href*="https://www.google.ch"]:visited
+{
+	color:black;
+    text-decoration: none;
+}
+
+/* External links */
+
+a[href*="https://www.google.com"]:link
+{
+	color:#585858;
+    text-decoration: none;
+}
+
+a[href*="https://www.google.com"]:hover
+{
+	color: #1E7AF2;
+    text-decoration: underline;
+}
+
+a[href*="https://www.google.com"]:visited
+{
+	color:black;
+    text-decoration: none;
+}
+

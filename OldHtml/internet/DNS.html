@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<!-- !!!!CHANGE PAGE TITLE HERE -->
+	<title>Domain Name System</title>
+	<!-- PUT YOUR NAME HERE AND ALSO NEAR THE BOTTOM OF THE PAGE -->
+	<meta name="author" content="Arda Zaimoglu">
+	<link rel="stylesheet" type="text/css" href="../../css/style.css">
+	<meta charset="UTF-8">
+    <link rel="shortcut icon" href="../../favicon.png">
+</head>
+<body>
+	<div id="wrapper">
+		<div id="navigation">
+			<ul>
+			<!-- !!!!FOR YOUR AREA ADD class="selected" TO THE CORRECT <li> E.G IF YOU DID HARDWARE, YOU SHOULD SEE:
+					<li class="selected"><a href="../hardware.html">Hardware</a></li>
+			-->
+				<li><a href="../../index.html">Home</a></li>
+				<li><a href="../../html/hardware/index.html">Hardware</a></li>
+				<li><a href="../../html/software/index.html">Software</a></li>
+				<li class="selected"><a href="../../html/internet/index.html">Internet</a></li>
+				<li><a href="../../html/games/index.html">Games</a></li>
+			</ul>
+		</div>
+		<div id="contentContainer" class="clearfix">
+			
+			<div id="content">
+				
+				<!-- !!!!PUT YOUT CONTENT HERE. DO NOT CHANGE ANY OF THE OTHER CODE. -->
+				<h1>Domain Name System</h1>
+                
+				<h2>What is DNS?</h2>
+                
+				<p>
+                DNS is the abbreviation of "Domain Name System". Domain names are the names given to websites which are strings of letters and numbers that are easier to remember by humans. The DNS is like a phonebook of internet addresses which keeps all domain names in a directory and translates them into <a href="tcp_ip.html">Internet Protocol (IP)</a> addresses. In other words, it is a network service that converts between human memory-friendly addresses and numeric Internet addresses. Thanks to DNS, we can type https://www.google.com/ in the address bar of our web browser instead of 74.125.224.72 (IP Address).<!--<a href="#1"><sup>1</sup></a>-->
+                </p>
+                
+                <!-- IMAGE 1 -->
+                <div class="youvideo"><embed width="560" height="315" src="http://www.youtube.com/embed/72snZctFFtA"></div>
+                
+                <h2>Why was DNS created?</h2>
+                
+                <p>Paul Mockapetris is credited for creating the Domain Name System at the University of California in 1983 together with Jon Postel. In the mid 1970s when the first computer networks were present, computers on a network were given unique numbers in order to enable users to identify them. DNS was created out of necessity when it became increasingly difficult to know which number belonged to which computer. A database was developed which translated the numeric adresses of computers into domain names. The Domain Name System was born.<!--<a href="#"><sup>2</sup></a>--></p>
+                
+                <h2>How does DNS work?</h2>
+                
+				<p>In order to access a website using its domain name rather than its numerical IP Address, a DNS server must be present and configured in the network. A group of databases run on servers which are spread around the internet. The DNS has to sort and keep track of domain names. It organizes domain names in a hierarchical way. Two types of DNS servers exist. One of them being the "primary" and the other being the "secondary". The primary DNS server contains the databases while the secondary fetches information from the databases contained in the primary server.<!--<a href="#"><sup>3</sup></a>--></p>
+                
+                <h2>The Structure of DNS</h2>
+                
+                <div class="imgRightWithCaption" style="width: 400px"><a href="#3"><img class="captionedImg" src="images/DNS_hierarchy.png" alt="DNS Hierarchy"></a><div class="caption">DNS Hierarchy</div></div>
+                
+                <h3>The DNS Name Space</h3>
+                
+                <p>
+                The DNS name space has a tree structure. Conceptually, the Internet is divided into over 200 top-level domains, where each domain covers many hosts. Each domain is partitioned into subdomains, and these are further partitioned, and so on. All these domains can be represented by a tree. The leaves of the tree would represent domains that have no subdomains. A leaf domain may contain a single host, or it may represent a company and contain thousands of hosts.<a href="#5"><sup>5</sup></a>
+                </p>
+                
+                <p>
+                The top-level domains come in two types: generic and countries. The original generic 
+domains were com (commercial), edu (educational institutions), gov (the U.S. Federal
+Government), int (certain international organizations), mil (the U.S. armed forces), net
+(network providers), and org (nonprofit organizations). The country domains include one entry 
+for every country, as defined in ISO 3166.<a href="#5"><sup>5</sup></a>
+                </p>
+                
+                <p>
+                In November 2000, ICANN approved four new, general-purpose, top-level domains, namely, 
+biz (businesses), info (information), name (people's names), and pro (professions, such as 
+doctors and lawyers). In addition, three more specialized top-level domains were introduced at
+the request of certain industries. These are aero (aerospace industry), coop (co-operatives), 
+and museum (museums). Other top-level domains will be added in the future.<a href="#5"><sup>5</sup></a>
+                </p>
+                
+                <p>
+                Domain names can be either absolute or relative. An absolute domain name always ends with 
+a period (e.g., eng.sun.com.), whereas a relative one does not. Relative names have to be 
+interpreted in some context to uniquely determine their true meaning. In both cases, a named 
+domain refers to a specific node in the tree and all the nodes under it. In principle, domains can be inserted into the tree in two different ways. For example, cs.yale.edu could equally well be listed under the us country domain as cs.yale.ct.us. In practice, however, most organizations in the United States are under a generic domain, and most outside the United States are under the domain of their country. There is no rule against registering under two top-level domains, but few organizations except multinationals do it 
+(e.g., sony.com and sony.nl).<a href="#5"><sup>5</sup></a>
+                </p>
+                
+                <h3>Name Servers</h3>
+                
+                <p>
+                In theory, a single name server could contain the entire DNS database and respond to all queries about it. In practice, this server would be so overloaded as to be useless. Furthermore, if it ever went down, the entire Internet would be crippled. To avoid the problems associated with having only a single source of information, the DNS name space is divided into non-overlapping zones. Each zone contains some part of the tree and also contains name servers holding the information about that zone. Normally, a zone will have one primary name server, which gets its information from a file on its disk, and one or more secondary name servers, which get their information from the primary name server. To improve reliability, some servers for a zone can be located outside the zone.<a href="#5"><sup>5</sup></a>
+                </p>
+                
+				<!-- EXTERNAL LINKS -->
+				<div class="externalLinks">
+					<h3>External Links</h3>
+                    
+					<ol>
+						<li>[Visited on 2/11/2014] <a href="http://www.networksolutions.com/support/what-is-a-domain-name-server-dns-and-how-does-it-work/">Network Solutions</a></li>
+                        
+                        <li>[Visited on 2/11/2014] <a href="http://www.britannica.com/EBchecked/topic/1473555/DNS">Encyclopaedia Britannica</a></li>
+                        
+                        <li>[Visited on 2/11/2014] <a id="3" href="http://alliedtelesis.com/manuals/AWPLUSV224CLIa1/domain_name_server_overview.html">Image from "Allied Telesis"</a></li>
+                        
+                        <li>[Visited on 2/11/2014] <a href="http://www.youtube.com/watch?v=72snZctFFtA">Youtube</a></li>
+                        
+                        <li>[Visited on 1/11/2014] <a id="5" href="http://web.info.uvt.ro/~smihalas/com_net/download/computer_networks_4th_edition.pdf">Literature: "Computer Networks" - by Tanenbaum</a></li>
+                        
+					</ol>
+				</div>
+			</div>
+			
+		</div>
+		<footer>
+		<!-- PUT YOUR NAME HERE -->
+		<address>Copyright &copy; Arda Zaimoglu</address>
+		</footer>
+	</div>
+</body>
+
+</html>

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+
+<!-- 
+
+FOR STYLING:
+<p> - every paragraph NEEDS to be in one of these!
+<h1> - main titles (i.e. The research question)
+<h2> - subheadings
+
+Put your images in the Resources folder of your area, E.G. if you did hardware yours images must be un /html/hardware/Resources/
+
+ -->
+
+
+<html>
+
+<head>
+<!-- !!!!CHANGE PAGE TITLE HERE -->
+	<title>RISC vs. CISC</title>
+	<!-- PUT YOUR NAME HERE AND ALSO NEAR THE BOTTOM OF THE PAGE -->
+	<meta name="author" content="Prajna Uniyal">
+	<link rel="stylesheet" type="text/css" href="../../css/style.css">
+	<meta charset="UTF-8">
+	<link rel="shortcut icon" href="../../favicon.png">
+</head>
+<body>
+	<div id="wrapper">
+		<div id="navigation">
+			<ul>
+			<!-- !!!!FOR YOUR AREA ADD class="selected" TO THE CORRECT <li> E.G IF YOU DID HARDWARE, YOU SHOULD SEE:
+					<li class="selected"><a href="../hardware.html">Hardware</a></li>
+			-->
+				<li><a href="../../index.html">Home</a></li>
+				<li class="selected"><a href="../../html/hardware/index.html">Hardware</a></li>
+				<li><a href="../../html/software/index.html">Software</a></li>
+				<li><a href="../../html/internet/index.html">Internet</a></li>
+				<li><a href="../../html/games/index.html">Games</a></li>
+			</ul>
+		</div>
+		<div id="contentContainer" class="clearfix">
+			
+			<div id="content">
+				
+				<!-- !!!!PUT YOUT CONTENT HERE. DO NOT CHANGE ANY OF THE OTHER CODE. -->
+				<h1>RISC vs. CISC</h1>
+				<h2>Introduction</h2>
+				<!-- I would remove the image
+				<img style="width: 300px" class="right" src="images/RISC_CISC.png" alt="RISC vs. CISC">
+			-->
+
+				<p>RISC vs CISC is one of the favourite topics for debating among computer science students. Everytime Intel (CISC) or Apple (RISC) introduces a new CPU, the topic pops up again. But what are CISC and RISC exactly, and is one of them really better?</p>
+				
+				<h3>CISC</h3>
+				<p class = 'subP'>
+				CISC stands for <strong>C</strong>omplex <strong>I</strong>nstruction <strong>S</strong>et <strong>C</strong>omputer. The philosophy behind it is that hardware is always faster than software, therefore one should make a powerful instruction set, which provides programmers with assembly instructions to do a lot with short programs.  Intel is the major producer of microprocessors using CISC technology.
+				<!-- CHANGE THE NUMBER IN THE <sup></sup> TAGS EACH TIME -->
+				<h3>RISC</h3>
+				<p class = 'subP'>
+				RISC stands for <strong>R</strong>educed <strong>I</strong>nstruction <strong>S</strong>et <strong>C</strong>omputer. The philosophy behind it is that almost no one uses complex assembly language instructions as used by CISC, and people mostly use compilers which never use complex instructions. Apple, for instance, uses RISC chips. ARM architecture processors in smartphones and tablet computers such as the iPad, Android, and Windows RT tablets provided a wide user base for RISC-based systems.
+				<h2>RISC vs CISC Comparison</h2>
+				<h3>Advantages and disadvantages</h3>
+				<p class = 'subP'>
+				<table>
+				<tr>
+				<th>RISC</th>
+				<th>CISC</th>
+				</tr>
+				<tr>
+				<td> Emphasis on hardware</td>
+				<td> Emphasis on software</td>
+				</tr>
+				<tr>
+				<td> Includes multi-clock complex instructions</td>
+				<td> Single-clock, reduced instructions</td>
+				</tr>
+				<tr>
+				<td> Memory-to-memory: "LOAD" and "STORE" <br> incorporated in instructions</td>
+				<td> Register to register: "LOAD" and "STORE" <br> are independent instructions</td>
+				</tr>
+				<tr>
+				<td> Small code sizes, high cycles per second</td>
+				<td> Low cycles per second, large code sizes</td>
+				</tr>
+				<tr>
+				<td> Transistors used for storing complex instructions</td>
+				<td> Spends more transistors on memory registers</td>
+				</tr>
+				</table>
+				<p>If we talk about the computer's performance ability, CISC improves it by minimizing the number of instructions per program whereas RISC improves it by reducing the cycles per instruction.</p>
+				<h3>Who wins?</h3>
+				<p class = 'subP'>
+				<p>
+				There is still considerable controversy among experts about which architecture is better. Some say that RISC is cheaper and faster and therefore the architecture of the future.
+				Others note that by making the hardware simpler, RISC puts a greater burden on the software. Software needs to become more complex. Software developers need to write more lines for the same tasks.
+				<p>In the end it's not about RISC wins or CISC, as the main factor driving general purpose microprocessor design is the peculiar economics of semiconductor manufacturing. </p>
+
+				<!-- END OF EXAMPLE -->
+				<!-- ADD YOUR EXTERNAL LINKS HERE AS A LIST -->
+				<div class="externalLinks">
+					<h3>External Links</h3>
+					<ol>
+						<!-- REPLACE THESE -->
+						<li>[Visited on 04/11/2014] <a id="stanford" href="http://cs.stanford.edu/people/eroberts/courses/soco/projects/risc/risccisc/">Stanford RISC vs. CISC</a></li>
+						<li>[Visited on 04/11/2014] <a id="wiki_CISC" href="http://en.wikipedia.org/wiki/Complex_instruction_set_computing">Wikipedia CISC</a></li>
+						<li>[Visited on 04/11/2014] <a id="wiki_RISC" href="http://en.wikipedia.org/wiki/Reduced_instruction_set_computing">Wikipedia RISC</a></li>
+					</ol>
+				</div>
+				<!-- DO NOT CHANGE ANYTHING BELOW THIS LINE -->
+			</div>
+			
+		</div>
+		<footer>
+		<!-- PUT YOUR NAME HERE -->
+		<address>Copyright &copy; Prajna Uniyal</address>
+		</footer>
+	</div>
+</body>
+
+</html>

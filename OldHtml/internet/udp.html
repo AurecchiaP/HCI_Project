@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>UPD</title>
+	<meta name="author" content="Sami Rami">
+	<link rel="stylesheet" type="text/css" href="../../css/style.css">
+	<meta charset="UTF-8">
+	<link rel="shortcut icon" href="../../favicon.png">
+</head>
+<body>
+	<div id="wrapper">
+		<div id="navigation">
+			<ul>
+				<li><a href="../../index.html">Home</a></li>
+				<li><a href="../../html/hardware/index.html">Hardware</a></li>
+				<li><a href="../../html/software/index.html">Software</a></li>
+				<li class="selected"><a href="../../html/internet/index.html">Internet</a></li>
+				<li><a href="../../html/games/index.html">Games</a></li>
+			</ul>
+		</div>
+		<div id="contentContainer" class="clearfix">
+			
+			<div id="content">
+
+				<h1>UDP</h1>
+
+				<p>
+				UDP, which stands for "User Datagram Protocol", uses a simple connectionless transmission. It is used for applications that do not require the reliability of <a href="tcp_ip.html">TCP</a>, reducing latency and delivery validation. It also uses uses <a href="tcp_ip.html">IP</a> to actually get the data, for the network layer. UDP is the transport layer instead of <a href="tcp_ip.html">TCP</a> and does not verify the integrity of the data received, which means the application that uses UDP had to check that the data is the correct one. It is especially useful for small data exchanges, like chatting applications. Like <a href="tcp_ip.html">TCP</a> it provides port numbers to help distinguish different user requests and, optionally, a checksum capability to verify that the data arrived intact.
+				</p>
+
+				<br>
+				<div class="youvideo"><embed width="560" height="315" src="https://www.youtube.com/v/Ox8D2YBRIrQ"></div>
+				<br>
+
+				<h2>Origins</h2>
+
+				<p>
+				The protocol was designed by David P. Reed in 1980 and formally defined in RFC 768. The division of <a href="tcp_ip.html">TCP</a>, paved the way for a more efficient way of transmitting data, UDP. The goal was to make it simple and fast, so no checking of packets. Even the checksum, the computer checks if the data is intact, was optional. It doesn't even guaranty the arrival of the message, it is connexion-less, so it just sent packages and hopefully they arrive at destination.
+				</p>
+
+				<div class="imgRightWithCaption" style="width: 400px"><a href="#7"><img class="captionedImg" alt= "IP address structure" src="images/udp.jpg"></a></div>
+
+				<h2>Transmission process</h2>
+
+				<ol>
+					<li><b>Higher-Layer Data:</b> An application sends a message to the UDP software.</li>
+
+					<li><b>UDP Message Encapsulation:</b> The higher-layer message is encapsulated into the Data field of a UDP message. The headers of the UDP message are filled in, including the Source Port of the application that sent the data to UDP, and the Destination Port of the intended recipient. The checksum value may also be calculated.</li>
+
+					<li><b>Transfer Message To IP:</b> The UDP message is passed to IP for transmission.</li>
+				</ol>
+
+				<h2>Format</h2>
+
+				<p>
+				The format of a UPD header is a lot smaller than the TCP headers, that is only eight bytes against 20 bytes or more for TCP headers. A UDP header is divided in four part of 2 bytes each:
+				</p>
+
+				<table>
+					<tr>
+                        <th>Source Port</th><th>Port from which the message is to be sent</th>
+                    </tr>
+                    <tr>
+                        <td>Destination Port</td><td>Port to which the massage is to be sent to</td>
+                    </tr>
+                    <tr>
+                        <td>Length</td><td>Length of the entire UDP datagram, so both header and the Data Field</td>
+                    </tr>
+                    <tr>
+                        <td>Checksum</td><td>Can be optionally used to do a checksum</td>
+                    </tr>
+                </table>
+
+				<div class="externalLinks">
+					<h3>External Links</h3>
+					<ol>
+						<li><a id="1" href="http://tools.ietf.org/html/rfc768">[Visited on 06/11/2014] RFC 768</a>
+						<li><a id="3" href="http://en.wikipedia.org/wiki/User_Datagram_Protocol">[Visited on 06/11/2014] Wikipedia page of UDP</a></li>
+						<li><a id="4" href="http://www.tcpipguide.com/free/t_UDPOverviewHistoryandStandards.htm">[Visited on 06/11/2014] History of UDP</a></li>
+						<li><a id="5" href="http://www.tcpipguide.com/free/t_UDPOperation.htm">[Visited on 06/11/2014] UDP transmission process</a></li>
+						<li><a id="6" href="http://www.tcpipguide.com/free/t_UDPMessageFormat.htm">[Visited on 06/11/2014] UPD message format</a></li>
+						<li><a id="7" href="http://www.thefullwiki.org/Computer_Networks/UDP">[Visited on 06/11/2014] UDP concept (creative common image)</a></li>
+					</ol>
+				</div>
+			</div>
+		</div>
+		<footer>
+		<address>Copyright &copy; Sami Rami</address>
+		</footer>
+	</div>
+</body>
+
+</html>

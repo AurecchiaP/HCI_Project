@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Milestone 2</title>
+	<meta charset="UTF-8">
+	<link rel="shortcut icon" href="../../favicon.png">
+	<style>
+	
+        body {
+            color: black;
+            font-family: arial;
+            font-size: 2em;
+            text-align: center;
+        }
+        a:visited {
+            color: lightgreen;
+        }
+        
+        a[href^="index.html"]:hover{
+            color: magenta;
+        }
+        
+        a[href^="https://en.wikipedia.org/wiki/Charles_Babbage"]:visited{
+            color: cyan;
+        }
+
+        
+        a:link{
+        color: blue;
+        }
+        
+        a[href^="https://"]:not([href*="index.html"]):hover{
+        color: yellow
+        }
+        a[href^="http://"]:not([href*="index.html"]):hover{
+        color:yellow
+        }        
+
+        /* This is an intelligent comment */
+        a.murphy {
+            color: red; /* black tree*/
+        }	
+        
+        /* I am not supposed to do this (just for fun)...
+        instead of doing Java... */
+        a.murphy:hover{
+            color: magenta;
+        }
+        /* Just for the sake of doing something rather than the opposite...*/
+        a.murphy:visited{
+            color: black;
+        }
+        
+        <!--  Insert here your css -->
+
+           
+	</style>
+</head>
+<body>
+    <p>
+    <h1> <a href="index.html">This is an internal link!!!</a></h1>
+    </p>
+<br> <br> <br> <br> <br>
+<p>
+    <h2> <a href="https://en.wikipedia.org/wiki/Charles_Babbage">This is an external link!!!</a></h2>
+</p>
+
+<footer><p><a class="murphy" href="http://en.wikipedia.org/wiki/Murphy's_law">Things will go wrong in any given situation, if you give them a chance.</a></p></footer>
+</body>
+</html>

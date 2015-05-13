@@ -1,0 +1,106 @@
+<!-- 
+
+FOR STYLING:
+<p> - every paragraph NEEDS to be in one of these!
+<h1> - main titles (i.e. The research question)
+<h2> - subheadings
+
+Put your images in the Resources folder of your area, E.G. if you did hardware yours images must be un /html/hardware/Resources/
+
+ -->
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<!-- !!!!CHANGE PAGE TITLE HERE -->
+	<title>Cryptography</title>
+	<!-- PUT YOUR NAME HERE AND ALSO NEAR THE BOTTOM OF THE PAGE -->
+	<meta name="author" content="Tural Aliyev">
+	<link rel="stylesheet" type="text/css" href="../../css/style.css">
+	<meta charset="UTF-8">
+	<link rel="shortcut icon" href="../../favicon.png">
+</head>
+<body>
+	<div id="wrapper">
+		<div id="navigation">
+			<ul>
+			<!-- !!!!FOR YOUR AREA ADD class="selected" TO THE CORRECT <li> E.G IF YOU DID HARDWARE, YOU SHOULD SEE:
+					<li class="selected"><a href="../hardware.html">Hardware</a></li>
+			-->
+				<li><a href="../../index.html">Home</a></li>
+				<li><a href="../../html/hardware/index.html">Hardware</a></li>
+				<li><a href="../../html/software/index.html">Software</a></li>
+				<li class="selected"><a href="../../html/internet/index.html">Internet</a></li>
+				<li><a href="../../html/games/index.html">Games</a></li>
+			</ul>
+		</div>
+		<div id="contentContainer" class="clearfix">
+			
+			<div id="content">
+				
+				<!-- !!!!PUT YOUT CONTENT HERE. DO NOT CHANGE ANY OF THE OTHER CODE. -->
+				<h1>Cryptography</h1>
+				<h2>Data Encryption Standard (DES)</h2>
+				<p>The DES was once a predominant symmetric-key algorithm for the encryption 
+				of electronic data. It was developed in the early 1970s at IBM and 
+				was based on an earlier design by Horst Feistel, this algorithm 
+				was submitted to the National Bureau of Standards (NBS) following the agency’s 
+				invitation to propose a candidate for the protection of sensitive 
+				government data. On 17 March 1975, the proposed DES was published in the 
+				Federal Register. It is now known as the archetypal block-cipher and algorithm 
+				that takes a fixed-length string of plaintext bits and transforms it 
+				through a series of complicated operations into another cipher text bit 
+				string of the same length. In 1976, according to the consultation with the
+				National Security agency (NSA), the NBS eventually selected a modified version, which was published 
+				as an official Federal Information Processing Standard (FIPS) for the 
+				United States in 1977. The DES is now considered to be insecure for many 
+				applications.</p>
+				<!-- CHANGE THE NUMBER IN THE <sup></sup> TAGS EACH TIME -->
+				<h2>Cryptanalysis</h2>
+				<div class="imgRightWithCaption" style="width: 300px"><img class="captionedImg" src="images/Cryptography.png" alt="Public-key Cryptography"><div class="caption">Public-key cryptography</div></div>
+				<p>To break full 16 rounds of DES, with less complexity than a 
+				brute-force search, there are three known attacks: differential 
+				cryptanalysis (DC), linear cryptanalysis (LC), and Davies’ attack. DC 
+				was discovered and made public in the 1980s by Eli Biham and Adi Shamir but was 
+				known earlier and kept secret by IBM and the NSA. LC was discovered and
+				implemented by Mitsuru Matsui, it was the first 
+				experimental cryptanalysis of DES to be reported. Davies’ attack is 
+				different from previous ones because while they were general techniques which 
+				could be applied to a number of schemes, Davies’ attack was a 
+				specialised technique for DES. It takes it's name from Donald Davies who was the first suggesting 
+				it in the eighties but was improved later by Biham and 
+				Biryukov.<a href="#"><sup></sup></a></p>
+				<h2>Public-key cryptography</h2>
+				<p>Public-key cryptography, also known as asymmetric cryptography, is a 
+				class of cryptographic algorithms which required two separate keys. The first 
+				one is a secret (or private) key while the second one is public. The public key 
+				is used to verify a digital signature; whereas the private key is used to 
+				decrypt cipher text or to create a digital signature. Public-key 
+				algorithms are fundamental security parts in crypto systems, protocols 
+				and applications. They underpin various Internet standards, such as PGP 
+				and GPG.<a href="#"><sup></sup></a></p>
+
+				<!-- END OF EXAMPLE -->
+				<!-- ADD YOUR EXTERNAL LINKS HERE AS A LIST -->
+				<div class="externalLinks">
+					<h3>External Links</h3>
+					<ol>
+						<!-- REPLACE THESE -->
+						<li>[Visited on 05/11/2014] <a href="http://en.wikipedia.org/wiki/Data_Encryption_Standard">WIKIPEDIA</a></li>
+						<li>[Visited on 05/11/2014] <a href="http://en.wikipedia.org/wiki/Public-key_cryptography">WIKIPEDIA</a></li>
+					</ol>
+				</div>
+				<!-- DO NOT CHANGE ANYTHING BELOW THIS LINE -->
+			</div>
+			
+		</div>
+		<footer>
+		<!-- PUT YOUR NAME HERE -->
+		<address>Copyright &copy; Tural Aliyev</address>
+		</footer>
+	</div>
+</body>
+
+</html>
