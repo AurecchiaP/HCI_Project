@@ -1,0 +1,36 @@
+/* add your code here /*/
+
+/* 1) Internal Link Hover /*/
+.int:hover {
+    color: blue;
+    font-weight: bold;
+}
+
+/*2) External Link Hover/*/
+.ext:hover {
+    color: #616161;
+    font-weight: bold;
+}
+
+/*3)Internal Link visited/*/
+.int:visited {
+    color: green;
+    font-weight: bold;
+}
+
+/*4)External link visited/*/
+.ext:visited {
+    color: orange;
+    font-weight: bold;
+}
+/*5)Internal link fresh/*/
+.int:link {
+    color: rgb(200,150,5);
+    font-weight: bold;
+}
+
+/*6)external link fresh/*/
+.ext:link {
+    color: rgb(230,50,5);
+    font-weight: bold;
+}

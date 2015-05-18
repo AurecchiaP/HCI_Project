@@ -1,0 +1,35 @@
+/* Internal link hover */
+.int:hover {
+  color: #4098ef;
+  text-decoration: none
+  }
+
+  /* Internal link unvisited */
+.int:link {
+    color: #1713f4;
+    text-decoration: none;
+  }
+
+/* Internal link visited */
+.int:visited {
+    color: #4340ef;
+    text-decoration: none;
+  }
+
+/* external link unvisited */
+.ext:link {
+  color: #f48413;
+  text-decoration: none;
+}
+
+/* External link hover */
+.ext:hover {
+  color: #f41313;
+  text-decoration: none;
+}
+
+/* External link visited */
+.ext:visited {
+  color: #f75d5d;
+  text-decoration: none;
+}

@@ -1,0 +1,40 @@
+/* add your code here */
+
+/*Internal links*/
+.int {
+	font-weight: bold;
+	color: #107EC1;
+	text-decoration: none;
+}
+
+.int:hover {
+	color: #666;
+}
+
+.int:active {
+	color: red;
+}
+
+.int:visited {
+    color: #8FD8D8;
+}
+
+/*External links*/
+
+.ext {
+	font-weight: bold;
+	color: #107EC1;
+	text-decoration: none;
+}
+
+.ext:hover {
+	color: #666;
+}
+
+.ext:active {
+	color: red;
+}
+
+.ext:visited {
+    color: #8FD8D8;
+}
