@@ -96,9 +96,8 @@ div.column#hciIcon:hover::after{
   padding:15px;
   margin: auto;
   color:#000;
-  background:linear-gradient(#f9d835, #f3961c);
+  background:linear-gradient(#00d2ff, #3a7bd5);
   border-radius:25px;
-  background:linear-gradient(#f3961c, #f9d835);
 }
 
 div.column#internetIcon:hover::after{
@@ -107,9 +106,8 @@ div.column#internetIcon:hover::after{
   padding:15px;
   margin: auto;
   color:#000;
-  background:linear-gradient(#f9d835, #f3961c);
+  background:linear-gradient(#00d2ff, #3a7bd5);
   border-radius:25px;
-  background:linear-gradient(#f3961c, #f9d835);
 }
 
 div.column#gamesIcon:hover::after{
@@ -118,9 +116,8 @@ div.column#gamesIcon:hover::after{
   padding:15px;
   margin: auto;
   color:#000;
-  background:linear-gradient(#f9d835, #f3961c);
+  background:linear-gradient(#00d2ff, #3a7bd5);
   border-radius:25px;
-  background:linear-gradient(#f3961c, #f9d835);
 }
 
 div.column#hardwareIcon:hover::after{
@@ -129,9 +126,8 @@ div.column#hardwareIcon:hover::after{
   padding:15px;
   margin: auto;
   color:#000;
-  background:linear-gradient(#f9d835, #f3961c);
+  background:linear-gradient(#00d2ff, #3a7bd5);
   border-radius:25px;
-  background:linear-gradient(#f3961c, #f9d835);
 }
 
 div.column#softwareIcon:hover::after{
@@ -140,9 +136,8 @@ div.column#softwareIcon:hover::after{
   padding:15px;
   margin: auto;
   color:#000;
-  background:linear-gradient(#f9d835, #f3961c);
+  background:linear-gradient(#00d2ff, #3a7bd5);
   border-radius:25px;
-  background:linear-gradient(#f3961c, #f9d835);
 }
 
 /*End bubble effect*/
