@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Usenet</title>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="test.css">
+    <meta charset="UTF-8">
+
+
+
+
+</head>
+
+<body>
+
+    <div id="side_button">
+        <button onclick="show_side_bar"><img id="button_img" src="side_button.png"></button>
+    </div>
+
+
+    <div id="container">
+
+
+
+        <div class="navbar" id="navbar">
+            <div class="column_wrapper"></div>
+            <ul class="buttons_container">
+                <li class="navbar_button">Home</li>
+                <li class="navbar_button">Software</li>
+                <li class="navbar_button">Hardware</li>
+                <li class="navbar_button">Internet</li>
+                <li class="navbar_button">Games</li>
+                <li class="navbar_button">HCI</li>
+                <li id="wrapper_navbar">
+                    <div id="wrap">
+                        <form action="get">
+                            <input id="search" autocomplete="off" name="search" type="text" placeholder="Searach...">
+                            <input id="search_submit" value="Rechercher" type="submit">
+                        </form>
+                    </div>
+
+
+                </li>
+
+            </ul>
+            <div class="column_wrapper"></div>
+        </div>
+
+
+
+
+        <div id="body_container">
+            <div class="column_wrapper"></div>
+            <div id="content">
+
+
+
+                <h1>Lorem vitae elit</h1>
+
+                <p>
+                    Lorem ipsum dolor sit amet, ligula suspendisse nulla pretium, rhoncus tempor fermentum, enim integer ad vestibulum volutpat. Nisl rhoncus turpis est, vel elit, congue wisi enim nunc ultricies sit, magna tincidunt. Maecenas aliquam maecenas ligula nostra, accumsan taciti.<img class="img_right" src="annie.jpg"> Sociis mauris in integer, a dolor netus non dui. aliquet, sagittis felis sodales, dolor sociis mauris, vel eu libero cras. Arcu habitasse elementum est, ipsum purus pede porttitor class, ut adipiscing, aliquet sed auctor, imperdiet arcu per diam dapibus libero duis. Enim eros in vel, volutpat nec pellentesque leo, temporibus scelerisque nec. Ac dolor ac adipiscing amet bibendum nullam, lacus molestie ut libero nec, diam et, pharetra sodales, feugiat ullamcorper id tempor id vitae. Mauris pretium aliquet, lectus tincidunt. Porttitor mollis imperdiet libero senectus pulvinar. Etiam molestie mauris ligula laoreet, vehicula eleifend. Repellat orci erat et, sem cum, ultricies sollicitudin amet eleifend dolor nullam erat, malesuada est leo ac. Varius natoque turpis elementum est. Duis montes, tellus lobortis lacus amet arcu et.
+                </p>
+                <h2>Lorem vitae elit</h2>
+                <p>
+
+                    Arcu habitasse elementum est, ipsum purus pede porttitor class, ut adipiscing, aliquet sed auctor, imperdiet arcu per diam dapibus libero duis. Enim eros in vel, volutpat nec pellentesque leo, temporibus scelerisque nec. Ac dolor ac adipiscing amet bibendum nullam, lacus molestie ut libero nec, diam et, pharetra sodales, feugiat ullamcorper id tempor id vitae. Mauris pretium aliquet, lectus tincidunt. Porttitor mollis imperdiet libero senectus pulvinar. Etiam molestie mauris ligula laoreet, vehicula eleifend. Repellat orci erat et, sem cum, ultricies sollicitudin amet eleifend dolor nullam erat, malesuada est leo ac. Varius natoque turpis elementum est. Duis montes, tellus lobortis lacus amet arcu et.
+                </p>
+                <p>
+
+                    Arcu habitasse elementum est, ipsum purus pede porttitor class, ut adipiscing, aliquet sed auctor, imperdiet arcu per diam dapibus libero duis. Enim eros in vel, volutpat nec pellentesque leo, temporibus scelerisque nec. Ac dolor ac adipiscing amet bibendum nullam, lacus molestie ut libero nec, diam et, pharetra sodales, feugiat ullamcorper id tempor id vitae. Mauris pretium aliquet, lectus tincidunt. Porttitor mollis imperdiet libero senectus pulvinar. Etiam molestie mauris ligula laoreet, vehicula eleifend. Repellat orci erat et, sem cum, ultricies sollicitudin amet eleifend dolor nullam erat, malesuada est leo ac. Varius natoque turpis elementum est. Duis montes, tellus lobortis lacus amet arcu et.
+                </p>
+            </div>
+            <div class="column_wrapper"></div>
+        </div>
+    </div>
+
+    <div id="footer">
+        • Name Surname &copy; All rights reserved •
+    </div>
+</body>
+
+
+<script type="text/javascript">
+    window.onscroll = scroll;
+
+    function scroll() {
+        var height = document.getElementById('content').offsetTop;
+        if (window.pageYOffset > height) {
+            document.getElementById('navbar').classList.add('scrolled');
+            document.getElementById('side_button').classList.add('scrolled_side_button');
+        } else {
+            document.getElementById('navbar').className = 'navbar';
+            document.getElementById('side_button').className = '';
+        }
+    };
+    
+    function show_side_bar(){
+        alert('ciao');
+    }
+</script>
+
+</html>
