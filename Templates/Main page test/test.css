@@ -11,7 +11,11 @@ table{
   margin-right: 10%;
 }
 
-#navbar{
+img{
+  display: block;
+}
+
+#navbar{  
   border:1px solid #ccc;
   border-width:1px 0;
   list-style:none;
@@ -84,3 +88,61 @@ table{
   display: block;
   background-color: blue;
 }
+
+/*Display bubble after hovering on column*/
+div.column#hciIcon:hover::after{
+  content: "HCI";
+  position:relative;
+  padding:15px;
+  margin: auto;
+  color:#000;
+  background:linear-gradient(#f9d835, #f3961c);
+  border-radius:25px;
+  background:linear-gradient(#f3961c, #f9d835);
+}
+
+div.column#internetIcon:hover::after{
+  content: "Internet";
+  position:relative;
+  padding:15px;
+  margin: auto;
+  color:#000;
+  background:linear-gradient(#f9d835, #f3961c);
+  border-radius:25px;
+  background:linear-gradient(#f3961c, #f9d835);
+}
+
+div.column#gamesIcon:hover::after{
+  content: "Games";
+  position:relative;
+  padding:15px;
+  margin: auto;
+  color:#000;
+  background:linear-gradient(#f9d835, #f3961c);
+  border-radius:25px;
+  background:linear-gradient(#f3961c, #f9d835);
+}
+
+div.column#hardwareIcon:hover::after{
+  content: "Hardware";
+  position:relative;
+  padding:15px;
+  margin: auto;
+  color:#000;
+  background:linear-gradient(#f9d835, #f3961c);
+  border-radius:25px;
+  background:linear-gradient(#f3961c, #f9d835);
+}
+
+div.column#softwareIcon:hover::after{
+  content: "Software";
+  position:relative;
+  padding:15px;
+  margin: auto;
+  color:#000;
+  background:linear-gradient(#f9d835, #f3961c);
+  border-radius:25px;
+  background:linear-gradient(#f3961c, #f9d835);
+}
+
+/*End bubble effect*/
