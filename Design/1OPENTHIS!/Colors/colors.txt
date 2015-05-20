@@ -1,0 +1,15 @@
+background-color: #f3f2f7;
+
+navbar-background: #2b568b;
+
+navbar-text: #e5f1fc;
+
+navar-text:hvoer: #8edef9;
+
+footer-background: #2b568b;
+
+text-footer: #e5f1fc;
+
+text-container: #f3f2f7;
+
+
