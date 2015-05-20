@@ -83,7 +83,7 @@ h1{
 #sectionSelector{
   width: 91.6%;
   margin: 0 auto;
-  padding-bottom: 15%;
+  margin-bottom: 15%;
   display: flex;
 /*  justify-content: space-around;*/
 }
@@ -97,21 +97,7 @@ h1{
 
 /*Display bubble :hover*/
 
-#sectionSelector div:hover::after {
-  position: absolute;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  padding-right: 35px;
-  padding-left: 35px;
-  margin-top: 10px;
-  margin-left: -15px;
-  margin-right: -20px;
-  color: #fff;
-  background:linear-gradient(#00d2ff, #3a7bd5);
-  border-radius: 10px;
-}
-
-#hciIcon:hover::after{
+/*#hciIcon:hover::after{
   content: "HCI";
 }
 
@@ -129,7 +115,7 @@ h1{
 
 #softwareIcon:hover::after{
   content: "Software";
-}
+}*/
 
 /*End bubble effect*/
 
