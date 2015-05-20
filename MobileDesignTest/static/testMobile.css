@@ -1,8 +1,7 @@
 /* Portrait */
 @media only screen 
-  and (min-device-width: 375px) 
-  and (max-device-width: 667px) 
-  and (-webkit-min-device-pixel-ratio: 2)
+  and (min-device-width: 320px) 
+  and (max-device-width: 740px)
   and (orientation: portrait) { 
       
       img{
@@ -30,11 +29,11 @@
     }
       
     #sectionSelector div{
-      padding: 50.666px;         
-      margin-bottom: 25px;
-      margin-left: 50px;
-      margin-right: 600.370px;
-      margin-top: 1px;
+      padding: 6.50%;         
+      margin-bottom: 2.75%;
+      margin-left: 6.50%;
+      margin-right: 66.145%;
+      margin-top: 0.15%;
     }
       
     #sectionSelector div:hover::after {
@@ -71,7 +70,54 @@
       content: none;
     }
       
-    
+    /*Display labels*/
+      
+    #hciName{
+        position: absolute;
+        padding: 6.50%;
+        top: 7.01%;
+        right: 25.0%;
+        font-size: 610%;
+        display: block;
+    }
+
+    #internetName{
+        position: absolute;
+        padding: 6.50%;
+        top: 25.01%;
+        right: 18.0%;
+        font-size: 610%;
+        display: block;
+    }
+
+    #gamesName{
+        position: absolute;
+        padding: 6.50%;
+        top: 43.01%;
+        right: -47.0%;
+        font-size: 610%;
+        display: block; 
+    }
+
+    #hardwareName{
+        position: absolute;
+        padding: 6.50%;
+        top: 62.01%;
+        right: -55.0%;
+        font-size: 610%;
+        display: block; 
+    }
+
+    #softwareName{
+        position: absolute;
+        padding: 6.50%;
+        top: 80.03%;
+        right: -52.88%;
+        font-size: 610%;
+        display: block; 
+    }
+
+/*End Display labels*/
 }
 
 /* Landscape */
