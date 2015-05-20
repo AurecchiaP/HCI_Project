@@ -1,0 +1,33 @@
+div.Timeline {
+	overflow-X: scroll;
+	width: 100%;
+	white-space: nowrap;
+	border: 1px solid black;
+}
+
+div.Timeline > a.TimelineEntry {
+	display: inline-block;
+    text-decoration: none;
+    width: 33.3%;
+	white-space: initial;
+	border: 1px solid black;
+	margin: 1em 2em;
+	color:black;
+
+    
+}	
+
+div.Timeline > a.TimelineEntry > img.EntryImage {
+	max-height: 50%;
+	max-width: 100%;
+	border: 1px solid black;
+}
+
+div.Timeline > a.TimelineEntry > h1.EntryDateAndTitle {
+	border: 1px solid black;
+
+}
+ 
+div.Timeline > a.TimelineEntry > p.EntryDescription {
+	border: 1px solid black;
+}
