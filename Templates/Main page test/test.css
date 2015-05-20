@@ -3,6 +3,8 @@
 .row {
     display: inline-block;
     flex-basis: none;
+    -webkit-align-items: center;
+    -ms-align-items: center;
     align-items: center;
 }
 
@@ -91,12 +93,14 @@ h1 {
 #sectionSelector {
     width: 91.6%;
     margin-bottom: 15%;
+    display: -webkit-flex;
+    display: -ms-flex;
     display: flex;
+    -webkit-flex-basis: 100%;
+    -ms-flex-basis: 100%;
     flex-basis: 100%;
-    /*	-webkit-flex-basis: 100%;
-*/
-    
     -webkit-justify-content: space-between;
+    -ms-justify-content: space-between;
     justify-content: space-between;
     /*  justify-content: space-around;*/
 }
