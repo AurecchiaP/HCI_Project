@@ -9,13 +9,13 @@
 
 
 
-
 </head>
 
 <body>
 
     <div id="side_button">
-        <button onclick="show_side_bar"><img id="button_img" src="side_button.png"></button>
+        <button onclick="show_side_bar"><img id="button_img" src="side_button.png">
+        </button>
     </div>
 
 
@@ -59,7 +59,14 @@
                 <h1>Lorem vitae elit</h1>
 
                 <p>
-                    Lorem ipsum dolor sit amet, ligula suspendisse nulla pretium, rhoncus tempor fermentum, enim integer ad vestibulum volutpat. Nisl rhoncus turpis est, vel elit, congue wisi enim nunc ultricies sit, magna tincidunt. Maecenas aliquam maecenas ligula nostra, accumsan taciti.<img class="img_right" src="annie.jpg"> Sociis mauris in integer, a dolor netus non dui. aliquet, sagittis felis sodales, dolor sociis mauris, vel eu libero cras. Arcu habitasse elementum est, ipsum purus pede porttitor class, ut adipiscing, aliquet sed auctor, imperdiet arcu per diam dapibus libero duis. Enim eros in vel, volutpat nec pellentesque leo, temporibus scelerisque nec. Ac dolor ac adipiscing amet bibendum nullam, lacus molestie ut libero nec, diam et, pharetra sodales, feugiat ullamcorper id tempor id vitae. Mauris pretium aliquet, lectus tincidunt. Porttitor mollis imperdiet libero senectus pulvinar. Etiam molestie mauris ligula laoreet, vehicula eleifend. Repellat orci erat et, sem cum, ultricies sollicitudin amet eleifend dolor nullam erat, malesuada est leo ac. Varius natoque turpis elementum est. Duis montes, tellus lobortis lacus amet arcu et.
+                    Lorem ipsum dolor sit amet, ligula suspendisse nulla pretium, rhoncus tempor fermentum, enim integer ad vestibulum volutpat. Nisl rhoncus turpis est, vel elit, congue wisi enim nunc ultricies sit, magna tincidunt. Maecenas aliquam maecenas ligula nostra, accumsan taciti.
+                    <a href="#img1">
+                        <img src="annie.jpg" class="img_right">
+                    </a>
+                    <a href="#_" class="lightbox" id="img1">
+                        <img src="annie.jpg">
+                    </a>
+                    Sociis mauris in integer, a dolor netus non dui. aliquet, sagittis felis sodales, dolor sociis mauris, vel eu libero cras. Arcu habitasse elementum est, ipsum purus pede porttitor class, ut adipiscing, aliquet sed auctor, imperdiet arcu per diam dapibus libero duis. Enim eros in vel, volutpat nec pellentesque leo, temporibus scelerisque nec. Ac dolor ac adipiscing amet bibendum nullam, lacus molestie ut libero nec, diam et, pharetra sodales, feugiat ullamcorper id tempor id vitae. Mauris pretium aliquet, lectus tincidunt. Porttitor mollis imperdiet libero senectus pulvinar. Etiam molestie mauris ligula laoreet, vehicula eleifend. Repellat orci erat et, sem cum, ultricies sollicitudin amet eleifend dolor nullam erat, malesuada est leo ac. Varius natoque turpis elementum est. Duis montes, tellus lobortis lacus amet arcu et.
                 </p>
                 <h2>Lorem vitae elit</h2>
                 <p>
@@ -94,8 +101,8 @@
             document.getElementById('side_button').className = '';
         }
     };
-    
-    function show_side_bar(){
+
+    function show_side_bar() {
         alert('ciao');
     }
 </script>
