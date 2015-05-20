@@ -1,0 +1,53 @@
+/* Portrait */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) { 
+      img{
+          margin: 20px;
+          padding: 5px;
+      }
+      
+      #sectionSelector div{
+          padding-top: 10px;
+          padding-bottom: 10px;
+          padding-right: 35px;
+          padding-left: 35px;
+          margin-top: 10px;
+          margin-left: -15px;
+          margin-right: -20px;
+          color: #fff;
+          background:linear-gradient(#00d2ff, #3a7bd5);
+          border-radius: 10px;
+        }
+      #hciIcon{
+          content: "";
+        }
+
+        #internetIcon{
+          content: "Internet";
+        }
+
+        #gamesIcon{
+          content: "Games";
+        }
+
+        #hardwareIcon{
+          content: "Hardware";
+        }
+
+        #softwareIcon{
+          content: "Software";
+        }
+
+}
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: landscape) { 
+
+}
