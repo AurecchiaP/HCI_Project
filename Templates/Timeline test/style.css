@@ -113,25 +113,32 @@ body{
 /* ----- Begin timeline ------ */
 
 div.Timeline {
+	display: flex;
+	flex-flow: row nowrap;
 	overflow-X: scroll;
 	width: 100%;
-	white-space: nowrap;
+	justify-content: flex-start;
+	align-items: flex-start;
 }
 
 div.Timeline > a.TimelineEntry {
-	display: inline-block;
+	flex: 1 0 33.333%;
+	display: inline-flex;
     text-decoration: none;
-    width: 33.3%;
 	white-space: initial;
-	margin: 0 1em;
-	color: black;
-	background-color: lightgrey;
+	margin: .5em 1em;
+	color: inherit;
+	background-color: rgb(234, 234, 234);
 	padding: 1em;
 	border-radius: 2px;
 	transition: background-color .5s;
 	font-size: initial;
+	flex-flow: column nowrap;
+	justify-content: center;
+	align-items: flex-start;
 }
 
+/*
 div.Timeline > a.TimelineEntry:hover {
 	background-color: lightblue;
 }	
@@ -143,27 +150,53 @@ div.Timeline > a.TimelineEntry:active {
 div.Timeline > a.TimelineEntry:visited {
 	background-color: darkgrey;
 }	
+*/
 
 div.Timeline > a.TimelineEntry > * {
+	flex-grow: 1;
+	flex-shrink: 1;
 	display: block;
 	margin: .2em 0;
 }
 
 div.Timeline > a.TimelineEntry > img.EntryImage {
+	flex-basis: 60%;
 	margin: 0 auto;
-	max-height: 50%;
 	max-width: 100%;
 }
 
-div.Timeline > a.TimelineEntry > h1.EntryDateAndTitle {
-    color: tomato;
+div.Timeline > a.TimelineEntry > div.EntryDateAndTitle {
+	flex-basis: auto;
+	display: inline-flex;
+	flex-flow: row nowrap;
+	justify-content: space-between;
+	align-items: center;
+	width: 100%;
+}
+
+div.Timeline > a.TimelineEntry > div.EntryDateAndTitle  > h1.EntryTitle, h2.EntryDate {
+	flex-grow: 1;
+	flex-shrink: 1;
+	flex-basis: auto;
+    color: rgb(219, 86, 89);
     font-size: larger;
+}
+
+div.Timeline > a.TimelineEntry > div.EntryDateAndTitle  > h1.EntryTitle {
+	order: 1;
     text-align: left;
 }
- 
+
+div.Timeline > a.TimelineEntry > div.EntryDateAndTitle  > h2.EntryDate {
+	order: 2;
+    text-align: right;
+    font-size: inherit;
+}
+
 div.Timeline > a.TimelineEntry > p.EntryDescription {
-	display: inline-block;
-    text-align: left;
+	flex-basis: auto;
+    text-align: justify;
+	width: 100%;
     
 }
 
