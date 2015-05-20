@@ -1,0 +1,169 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+#main{
+    width: 95%;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    
+    -webkit-flex-flow: row nowrap;
+    -webkit-box-flex-flow: row nowrap;    
+    flex-flow: row nowrap;  
+}
+#content{
+    background-color: white;
+    box-shadow: 0px 0px 8px #EEE;
+    margin: 0;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 80px;
+    text-align: justify;
+    padding: 30px;
+    font-family: "Arial";
+    font-size: 20px;
+    width: 70%;
+}
+/*.wrapper {
+    width: 100%;
+    margin-bottom: 10px;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+
+    -webkit-flex-flow: row wrap;
+    -webkit-box-flex-flow: row wrap;    
+    flex-flow: row wrap;
+}*/
+header {
+    padding: 20px;
+    margin-bottom: 50px;
+}
+footer {
+    padding: 20px;
+    margin-top: 50px;
+}
+
+.img img{
+    width: 200px;
+}
+.img{
+    padding: 10px;
+    float: right;
+}
+
+
+#button{
+    border: 2px solid black;
+    width: 50px;
+    height: 50px;
+    background: white;
+    border-radius: 27px;
+}
+
+#navbar{
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+#navbar ul{
+    
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;  
+    
+    -webkit-flex-flow: row;
+    -webkit-box-flex-flow: row;    
+    flex-flow: row;  
+
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    width: 60%;
+    min-width: 450px;
+}
+#navbar li{
+    text-align: center;
+
+    flex: 1;
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+}
+.text {
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding: 10px;
+
+}
+body{
+    background-color: #f3f2f7;
+}
+
+/* ----- Begin timeline ------ */
+
+div.Timeline {
+	overflow-X: scroll;
+	width: 100%;
+	white-space: nowrap;
+	height: 70%;
+}
+
+div.Timeline > a.TimelineEntry {
+	display: inline-block;
+    text-decoration: none;
+    width: 33.3%;
+	white-space: initial;
+	margin: 0 1em;
+	color: black;
+	background-color: lightgrey;
+	padding: 1em;
+	text-align: center;
+	border-radius: 2px;
+	transition: background-color .5s;
+	font-size: initial;
+	height: 90%;
+}
+
+div.Timeline > a.TimelineEntry:hover {
+	background-color: lightblue;
+}	
+
+div.Timeline > a.TimelineEntry:active {
+	background-color: DodgerBlue;
+}	
+
+div.Timeline > a.TimelineEntry:visited {
+	background-color: darkgrey;
+}	
+
+div.Timeline > a.TimelineEntry > img.EntryImage {
+	display: inline-block;
+	max-height: 50%;
+	max-width: 100%;
+}
+
+div.Timeline > a.TimelineEntry > h1.EntryDateAndTitle {
+	display: inline-block;
+    text-align: left;
+    color: tomato;
+    font-size: larger;
+}
+ 
+div.Timeline > a.TimelineEntry > p.EntryDescription {
+	display: inline-block;
+    text-align: left;
+    
+}
+
+/* ----- End timeline ------ */
