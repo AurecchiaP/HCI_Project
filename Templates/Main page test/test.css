@@ -132,3 +132,26 @@ h1{
 }
 
 /*End bubble effect*/
+
+/*NOT Display labels*/
+#hciName{
+    display: none; 
+}
+
+#internetName{
+    display: none; 
+}
+
+#gamesName{
+    display: none; 
+}
+
+#hardwareName{
+    display: none; 
+}
+
+#softwareName{
+    display: none; 
+}
+
+/*End NOT Display labels*/
