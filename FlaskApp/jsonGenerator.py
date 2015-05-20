@@ -41,7 +41,11 @@ for section in range(0, len(sectionFolders)):
             break
 
         # Actual content of the HTML.
+        # Just until the begin of the external links
         mainContent = str(mainBody.find("div", attrs = {"id": "content"})).rsplit('<div class="externalLinks">',1)[0]
+
+
+        # Manually added to content an empty div for the external links
         mainContent += '\n<div class="externalLinks">' \
                        '\n<!-- External links go here -->' \
                        '\n</div>' \
