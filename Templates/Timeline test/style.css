@@ -136,6 +136,28 @@ body{
 	flex-flow: column nowrap;
 	justify-content: center;
 	align-items: flex-start;
+	border-top-style: solid;
+	border-top-width: 2px;
+}
+
+.Software > .TimelineEntry {
+	border-top-color: #fe466c;
+}
+
+.Internet > .TimelineEntry {
+	border-top-color:  #67d0f0;
+}
+
+.Games > .TimelineEntry {
+	border-top-color:  #cde855;
+}
+
+.HCI > .TimelineEntry {
+	border-top-color:  #ff8a9d;
+}
+
+.Hardware > .TimelineEntry {
+	border-top-color:  #ff893b;
 }
 
 /*
@@ -178,7 +200,7 @@ body{
 	flex-grow: 1;
 	flex-shrink: 1;
 	flex-basis: auto;
-    color: rgb(219, 86, 89);
+    color: #DB5659;
     font-size: larger;
 }
 
