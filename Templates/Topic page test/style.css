@@ -101,6 +101,7 @@ footer {
 #navbar li{
     min-width: 70px;
     padding-top: 15px;
+    padding-bottom: 10px;
     text-decoration: none;
     text-align: center;
     background-color: #292929;
@@ -111,6 +112,9 @@ footer {
     flex: 1;
 
     margin-right: 1px;
+}
+#navbar li:hover{
+    color: white;
 }
 #navbar .selected{
     border-bottom: 3px solid #ff893b;
