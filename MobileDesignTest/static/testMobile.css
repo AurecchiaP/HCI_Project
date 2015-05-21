@@ -240,6 +240,11 @@
     #softwareIcon:hover::after {
         content: none;
     }
+
+    #sectionSelector div div{
+        -webkit-border-radius: 50%;
+    }
+
     span {
         /*-webkit-flex-basis: 50%;
         ms-flex-basis: 50%;*/
@@ -248,10 +253,12 @@
 */        font-size: 150%;
         font-weight: 700;
     }
+
     .di_o {
        /* -webkit-flex-basis: 50%;
         ms-flex-basis: 50%;*/
         flex-basis: 50%;
+        height:12vw;
     }
     #sectionSelector {
         -webkit-flex-direction: row;
