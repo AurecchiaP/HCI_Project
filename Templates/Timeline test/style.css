@@ -112,7 +112,7 @@ body{
 
 /* ----- Begin timeline ------ */
 
-div.Timeline {
+.Timeline {
 	display: flex;
 	flex-flow: row nowrap;
 	overflow-X: scroll;
@@ -121,14 +121,14 @@ div.Timeline {
 	align-items: flex-start;
 }
 
-div.Timeline > a.TimelineEntry {
+.TimelineEntry {
 	flex: 1 0 33.333%;
 	display: inline-flex;
     text-decoration: none;
 	white-space: initial;
 	margin: .5em 1em;
 	color: inherit;
-	background-color: rgb(234, 234, 234);
+	background-color: #f3f2f7;
 	padding: 1em;
 	border-radius: 2px;
 	transition: background-color .5s;
@@ -139,33 +139,33 @@ div.Timeline > a.TimelineEntry {
 }
 
 /*
-div.Timeline > a.TimelineEntry:hover {
+.TimelineEntry:hover {
 	background-color: lightblue;
 }	
 
-div.Timeline > a.TimelineEntry:active {
+.TimelineEntry:active {
 	background-color: DodgerBlue;
 }	
 
-div.Timeline > a.TimelineEntry:visited {
+.TimelineEntry:visited {
 	background-color: darkgrey;
 }	
 */
 
-div.Timeline > a.TimelineEntry > * {
+.TimelineEntry > * {
 	flex-grow: 1;
 	flex-shrink: 1;
 	display: block;
 	margin: .2em 0;
 }
 
-div.Timeline > a.TimelineEntry > img.EntryImage {
+.EntryImage {
 	flex-basis: 60%;
 	margin: 0 auto;
 	max-width: 100%;
 }
 
-div.Timeline > a.TimelineEntry > div.EntryDateAndTitle {
+.EntryDateAndTitle {
 	flex-basis: auto;
 	display: inline-flex;
 	flex-flow: row nowrap;
@@ -174,7 +174,7 @@ div.Timeline > a.TimelineEntry > div.EntryDateAndTitle {
 	width: 100%;
 }
 
-div.Timeline > a.TimelineEntry > div.EntryDateAndTitle  > h1.EntryTitle, h2.EntryDate {
+.EntryTitle, .EntryDate {
 	flex-grow: 1;
 	flex-shrink: 1;
 	flex-basis: auto;
@@ -182,18 +182,18 @@ div.Timeline > a.TimelineEntry > div.EntryDateAndTitle  > h1.EntryTitle, h2.Entr
     font-size: larger;
 }
 
-div.Timeline > a.TimelineEntry > div.EntryDateAndTitle  > h1.EntryTitle {
+.EntryTitle {
 	order: 1;
     text-align: left;
 }
 
-div.Timeline > a.TimelineEntry > div.EntryDateAndTitle  > h2.EntryDate {
+.EntryDate {
 	order: 2;
     text-align: right;
     font-size: inherit;
 }
 
-div.Timeline > a.TimelineEntry > p.EntryDescription {
+.EntryDescription {
 	flex-basis: auto;
     text-align: justify;
 	width: 100%;
