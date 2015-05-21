@@ -119,7 +119,7 @@
     .di_o {
         -webkit-flex-basis: 25%;
         -moz-flex-basis: 25%;
-        ms-flex-basis: 25%;
+        -ms-flex-basis: 25%;
         flex-basis: 25%;
 
     }
