@@ -9,10 +9,9 @@ body {
     min-height: 100vh;
 }
 #main{
-    border: 1px solid black;
     width: 95%;
     margin: 0 auto;
-    margin-bottom: 10px;
+    min-height: 85vh;
     
     display: -webkit-box;
     display: -moz-box;
@@ -20,14 +19,16 @@ body {
     display: -webkit-flex;
     display: flex;  
     
-    -webkit-flex-flow: row wrap;
-    -webkit-box-flex-flow: row wrap;    
-    flex-flow: row wrap;  
+    -webkit-flex-flow: row nowrap;
+    -webkit-box-flex-flow: row nowrap;    
+    flex-flow: row nowrap;  
+
 }
 #content{
     padding: 25px;
     width: 81.6%;
     margin: 0 auto;
+    margin-bottom: 85px;
     display: inline-block;
 
     background: rgb(255,255,255); /* Old browsers */
@@ -42,9 +43,9 @@ body {
 footer {
     color: #ddddda;
     background-color: #292929;
-    padding: 20px;
     width:100%;
-    margin-top: 100%;
+    padding: 20px;
+    margin-top: -60px;
 }
 .text{
     text-align: justify;
@@ -57,14 +58,20 @@ footer {
     float: right;
 }
 #button{
-    /*border: 2px solid black;*/
-    position: relative;
-    bottom: 50%;
     width: 50px;
     height: 50px;
-    background: white;
-    /*border-radius: 27px;*/
+    margin-top: 50vh;
+    transform: translateY(-180%);
 }
-#button .bRight{
-    left: -50px;
+.bLeft{
+    background-image: url("../img/arrowleft.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.bRight{
+    background-image: url("../img/arrowright.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
 }
