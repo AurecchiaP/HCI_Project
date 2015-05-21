@@ -1,143 +1,233 @@
+body {
+    margin: 0px;
+    padding: 0px;
 
-/*Navbar start*/
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
 
-#navbar{  
-  border:1px solid #ccc;
-  border-width:1px 0;
-  list-style:none;
-  margin:0;
-  padding:0;
-  text-align:center;
-  background-color: #82CACF;
+    background: rgb(226,226,226);
 }
 
-#navbar li{
-  display:inline;
+.row {
+    display: inline-block;
+    flex-basis: none;
+    -webkit-align-items: center;
+    -ms-align-items: center;
+    align-items: center;
 }
 
-#nav a{
-  display:inline-block;
-  padding: 10px;
+.di_o {
+    width: 100%;
+    height: 100%;
 }
 
-/*Navbar end*/
-
-body{
-  background-color: #CACDCF;
+h1 {
+    text-align: center;
+    margin-bottom: 10%;
 }
 
-h1{
-  text-align: center;
-  margin-bottom: 10%;
-}
-
-#sectionSelector img{
-  width: 100%;
+#sectionSelector img {
+    width: 100%;
 }
 
 #hciIcon {
-  background-color: orange;
+    background-color: orange;
 }
 
 #internetIcon {
-  background-color: lightblue;
+    background-color: lightblue;
 }
 
 #gamesIcon {
-  background-color: lightgreen;
+    background-color: lightgreen;
 }
 
 #hardwareIcon {
-  background-color: yellow;
+    background-color: yellow;
 }
 
 #softwareIcon {
-  background-color: magenta;
+    background-color: magenta;
 }
-
 /*All content*/
-#wrapper{
-  min-height: 100%
-  background-color: #CACDCF;
-}
 
+#wrapper {
+    min-height: 100% background-color: #CACDCF;
+}
 /*Content excluding navbar*/
-#externalContainer{
-  background-color: #CACDCF;
-  width: 100%;
-  height: 88%%;
-}
 
+#externalContainer {
+    background-color: #CACDCF;
+    width: 100%;
+    height: 88%%;
+}
 /*Content in white box*/
-#contentContainer{
-  margin-top: 6.6%;
-  margin-bottom: 3.96%;
-  margin-left: 14.2%;
-  margin-right: 14.2%;
-  background-color: white;
-  width: 71.6%;
-  height: 66.88%;
-}
 
+#contentContainer {
+    margin-top: 6.6%;
+    margin-bottom: 3.96%;
+    margin-left: 14.2%;
+    margin-right: 14.2%;
+    background-color: white;
+    width: 71.6%;
+    height: 66.88%;
+}
 /*Sections*/
-#sectionSelector{
-  width: 91.6%;
-  margin: 0 auto;
-  margin-bottom: 15%;
-  display: flex;
-/*  justify-content: space-around;*/
-}
 
+#sectionSelector {
+    width: 91.6%;
+    margin-bottom: 15%;
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    -webkit-flex-basis: 100%;
+    -ms-flex-basis: 100%;
+    flex-basis: 100%;
+    -webkit-justify-content: space-between;
+    -ms-justify-content: space-between;
+    justify-content: space-between;
+    /*  justify-content: space-around;*/
+}
 /*Individual sections*/
-#sectionSelector div{
-  padding: 20px;
-  border-radius: 50%;
-  margin: 10px;
-}
 
+#sectionSelector div {
+    padding: 20px;
+    border-radius: 50%;
+    margin: 10px;
+}
 /*Display bubble :hover*/
 
-/*#hciIcon:hover::after{
-  content: "HCI";
+#sectionSelector div:hover::after {
+    position: absolute;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 35px;
+    padding-left: 35px;
+    margin-top: 10px;
+    margin-left: -15px;
+    margin-right: -20px;
+    color: #fff;
+    background: linear-gradient(#00d2ff, #3a7bd5);
+    border-radius: 10px;
 }
 
-#internetIcon:hover::after{
-  content: "Internet";
+#hciIcon:hover::after {
+    content: "HCI";
 }
 
-#gamesIcon:hover::after{
-  content: "Games";
+#internetIcon:hover::after {
+    content: "Internet";
 }
 
-#hardwareIcon:hover::after{
-  content: "Hardware";
+#gamesIcon:hover::after {
+    content: "Games";
 }
 
-#softwareIcon:hover::after{
-  content: "Software";
-}*/
+#hardwareIcon:hover::after {
+    content: "Hardware";
+}
 
+#softwareIcon:hover::after {
+    content: "Software";
+}
 /*End bubble effect*/
-
 /*NOT Display labels*/
-#hciName{
-    display: none; 
+
+#hciName {
+    display: none;
 }
 
-#internetName{
-    display: none; 
+#internetName {
+    display: none;
 }
 
-#gamesName{
-    display: none; 
+#gamesName {
+    display: none;
 }
 
-#hardwareName{
-    display: none; 
+#hardwareName {
+    display: none;
 }
 
-#softwareName{
-    display: none; 
+#softwareName {
+    display: none;
 }
-
 /*End NOT Display labels*/
+
+
+#navbar{
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    color: #ddddda;
+    background-color: #292929;
+}
+#navbar ul{
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;  
+    
+    -webkit-flex-flow: row;
+    -webkit-box-flex-flow: row;    
+    flex-flow: row;  
+
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    width: 75%;
+    min-width: 450px;
+
+    background: -moz-linear-gradient(top,  rgba(226,226,226,0) 0%, rgba(222,222,222,1) 26%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(229,229,229,1) 73%, rgba(254,254,254,0) 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(226,226,226,0)), color-stop(26%,rgba(222,222,222,1)), color-stop(50%,rgba(219,219,219,1)), color-stop(51%,rgba(209,209,209,1)), color-stop(73%,rgba(229,229,229,1)), color-stop(100%,rgba(254,254,254,0))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  rgba(226,226,226,0) 0%,rgba(222,222,222,1) 26%,rgba(219,219,219,1) 50%,rgba(209,209,209,1) 51%,rgba(229,229,229,1) 73%,rgba(254,254,254,0) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  rgba(226,226,226,0) 0%,rgba(222,222,222,1) 26%,rgba(219,219,219,1) 50%,rgba(209,209,209,1) 51%,rgba(229,229,229,1) 73%,rgba(254,254,254,0) 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  rgba(226,226,226,0) 0%,rgba(222,222,222,1) 26%,rgba(219,219,219,1) 50%,rgba(209,209,209,1) 51%,rgba(229,229,229,1) 73%,rgba(254,254,254,0) 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  rgba(226,226,226,0) 0%,rgba(222,222,222,1) 26%,rgba(219,219,219,1) 50%,rgba(209,209,209,1) 51%,rgba(229,229,229,1) 73%,rgba(254,254,254,0) 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00e2e2e2', endColorstr='#00fefefe',GradientType=0 ); /* IE6-9 */
+}
+#navbar li{
+    min-width: 70px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    text-align: center;
+    background-color: #292929;
+
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    -moz-flex: 1;
+    flex: 1;
+
+    margin-right: 1px;
+}
+#navbar li:hover{
+    color: white;
+}
+#navbar .selected{
+    border-bottom: 3px solid #ff893b;
+    color: #FFFFFA;
+    background-color: #3d3d3d;
+}
+#nav_search{
+    padding-left: 10px;
+    margin-left: -1px; 
+    background-color: #292929;
+}
+#nav_search form{
+    display: inline-block;
+}
+#search_field{
+    margin-top: 8px;
+    padding: 5px;
+    min-width: 200px;
+}
+#search_submit {
+    float: right;
+    margin-top: 9px;
+    padding: 2px;
+    width: 21px;
+    background-color: white;
+}
