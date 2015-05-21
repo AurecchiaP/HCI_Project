@@ -13,6 +13,7 @@ body {
     display: inline-block;
     flex-basis: none;
     -webkit-align-items: center;
+    -moz-align-items: center;
     -ms-align-items: center;
     align-items: center;
 }
@@ -80,12 +81,15 @@ h1 {
     margin-bottom: 15%;
     display: -webkit-flex;
     display: -ms-flex;
+    display: -moz-flex;
     display: flex;
     -webkit-flex-basis: 100%;
     -ms-flex-basis: 100%;
+    -moz-flex-basis: 100%;
     flex-basis: 100%;
     -webkit-justify-content: space-between;
     -ms-justify-content: space-between;
+    -moz-justify-content: space-between;
     justify-content: space-between;
     /*  justify-content: space-around;*/
 }

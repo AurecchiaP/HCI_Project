@@ -16,11 +16,13 @@
     .row {
         display: -webkit-flex;
         display: -ms-flex;
+        display: -moz-flex;
         display: flex;
         /*-webkit-flex-basis: 100%;
         ms-flex-basis: 100%;*/
         flex-basis: 100%;
         -webkit-align-items: center;
+        -moz-align-items: center;
         -ms-align-items: center;
         align-items: center;
     }
@@ -39,6 +41,7 @@
     }
     #sectionSelector {
         -webkit-flex-direction: column;
+        -moz-flex-direction: column;
         -ms-flex-direction: column;
         flex-direction: column;
     }
@@ -102,22 +105,27 @@
     }
     .row {
         display: -webkit-flex;
+        display: -moz-flex
         display: -ms-flex;
         display: flex;
         -webkit-align-items: center;
+        -moz-align-items: center;
         -ms-align-items: center;
-        ms-flex-basis: 100%;
+        -ms-flex-basis: 100%;
+        -moz-flex-basis: 100%;
         flex-basis: 100%;
         align-items: center;
     }
     .di_o {
         -webkit-flex-basis: 25%;
+        -moz-flex-basis: 25%;
         ms-flex-basis: 25%;
         flex-basis: 25%;
 
     }
     span {
         -webkit-flex-basis: 75%;
+        -moz-flex-basis: 75%;
         ms-flex-basis: 75%;
         flex-basis: 75%;
         text-align: center;
@@ -127,6 +135,7 @@
     #sectionSelector {
         -webkit-flex-direction: column;
         -ms-flex-direction: column;
+        -moz-flex-direction: column;
         flex-direction: column;
     }
     #sectionSelector div:hover::after {
@@ -247,22 +256,26 @@
     #sectionSelector {
         -webkit-flex-direction: row;
         -ms-flex-direction: row;
+        -moz-flex-direction: row;
         flex-direction: row;
     }
     .row {
         display: -webkit-flex;
         display: -ms-flex;
+        display: -moz-flex;
         display: flex;
         /*-webkit-flex-basis: 100%;
         ms-flex-basis: 100%;*/
         flex-basis: 100%;
         -webkit-flex-direction:column;
         -ms-flex-direction:column;
+        -moz-flex-direction: column;
         /*-webkit-flex-wrap: wrap;
         -ms-flex-wrap:wrap;
         flex-wrap: wrap;*/
         flex-direction: column;
         -webkit-align-items: center;
+        -moz-align-items: center;
         -ms-align-items: center;
         align-items: center;
     }
