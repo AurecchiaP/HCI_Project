@@ -1,0 +1,33 @@
+<!DOCTYPE> 
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <meta http-equiv="content-type" content="application/vnd.ms-excel" charset="UTF-8">
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <div id="navbar">
+            <ul>
+                {{ navbarList}}
+                <div id="nav_search">
+                    <form action="get">
+                        <input id="search_field" autocomplete="off" name="search" type="text" placeholder="Search...">
+                        <input id="search_submit" value="" type="image" src="img/search.png">
+                    </form>
+                </div>
+            </ul>
+        </div>
+
+        <div id="main">
+            <div id="button" class="bLeft"></div>
+            <div id="content">
+                <h1>{{ title }}</h1>
+                <div class="text">
+                    {{ text }}
+                </div>
+            </div>
+            <div id="button" class="bRight"></div>
+        </div>
+        <footer>{{ footer}}</footer>
+    </body>
+</html>
