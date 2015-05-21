@@ -30,6 +30,9 @@
         /*-webkit-flex-basis: 50%;
         ms-flex-basis: 50%;*/
         flex-basis: 50%;
+        border-radius: 100%;
+        height: auto;
+        width: auto;
     }
     span {
         /*-webkit-flex-basis: 50%;
