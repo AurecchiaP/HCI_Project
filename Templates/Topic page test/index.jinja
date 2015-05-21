@@ -1,30 +1,33 @@
 <!DOCTYPE> 
 <html>
-<head>
-    <meta charset="UTF-8">
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <script src="script.js"></script>
-</head>
-<body>
-    <div id="navbar">
-        <ul>
-            <li>Home</li>
-            <li>Software</li>
-            <li>Hardware</li>
-            <li>Internet</li>
-            <li>Games</li>
-            <li>HCI</li>
-        </ul>
-    </div>
-    <div id="main">
-        <div id="button" class="bLeft"></div>
-        <div id="content">
-            <div class="text text1">
-                {{ articleText }}
-            </div>
+    <head>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <meta http-equiv="content-type" content="application/vnd.ms-excel" charset="UTF-8">
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <div id="navbar">
+            <ul>
+                {{ navbarList}}
+                <div id="nav_search">
+                    <form action="get">
+                        <input id="search_field" autocomplete="off" name="search" type="text" placeholder="Search...">
+                        <input id="search_submit" value="" type="image" src="img/search.png">
+                    </form>
+                </div>
+            </ul>
         </div>
-    </div>
-    <div id="button" class="bRight"></div>
-    <footer>Footer</footer>
-</body>
+
+        <div id="main">
+            <div id="button" class="bLeft"></div>
+            <div id="content">
+                <h1>{{ title }}</h1>
+                <div class="text">
+                    {{ text }}
+                </div>
+            </div>
+            <div id="button" class="bRight"></div>
+        </div>
+        <footer>{{ footer}}</footer>
+    </body>
 </html>
