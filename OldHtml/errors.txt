@@ -7,15 +7,15 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:17:31+002
+Start checking at 2015-05-21 16:05:56+002
 
 Statistics:
-Downloaded: 308.57KB.
-Content types: 143 image, 607 text, 0 video, 0 audio, 0 application, 0 mail and 508 other.
+Downloaded: 353.05KB.
+Content types: 172 image, 675 text, 0 video, 0 audio, 0 application, 0 mail and 577 other.
 URL lengths: min=23, max=136, avg=79.
 
-That's it. 1258 links in 155 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:17:32+002 (0.87 seconds)
+That's it. 1424 links in 155 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:05:57+002 (0.98 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -25,295 +25,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:17:33+002
-
-Statistics:
-Downloaded: 352.50KB.
-Content types: 169 image, 690 text, 0 video, 0 audio, 0 application, 0 mail and 566 other.
-URL lengths: min=23, max=136, avg=79.
-
-That's it. 1425 links in 155 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:17:34+002 (0.99 seconds)
-LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
-LinkChecker comes with ABSOLUTELY NO WARRANTY!
-This is free software, and you are welcome to redistribute it
-under certain conditions. Look at the file `LICENSE' within this
-distribution.
-Get the newest version at http://wummel.github.io/linkchecker/
-Write comments and bugs to https://github.com/wummel/linkchecker/issues
-Support this project at http://wummel.github.io/linkchecker/donations.html
-
-Start checking at 2015-05-21 15:17:35+002
-
-Statistics:
-Downloaded: 346.45KB.
-Content types: 171 image, 693 text, 0 video, 0 audio, 0 application, 0 mail and 571 other.
-URL lengths: min=23, max=136, avg=79.
-
-That's it. 1435 links in 155 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:17:36+002 (0.98 seconds)
-LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
-LinkChecker comes with ABSOLUTELY NO WARRANTY!
-This is free software, and you are welcome to redistribute it
-under certain conditions. Look at the file `LICENSE' within this
-distribution.
-Get the newest version at http://wummel.github.io/linkchecker/
-Write comments and bugs to https://github.com/wummel/linkchecker/issues
-Support this project at http://wummel.github.io/linkchecker/donations.html
-
-Start checking at 2015-05-21 15:17:37+002
-
-Statistics:
-Downloaded: 382.61KB.
-Content types: 184 image, 798 text, 0 video, 0 audio, 0 application, 0 mail and 665 other.
-URL lengths: min=23, max=136, avg=79.
-
-That's it. 1647 links in 155 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:17:38+002 (1 seconds)
-LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
-LinkChecker comes with ABSOLUTELY NO WARRANTY!
-This is free software, and you are welcome to redistribute it
-under certain conditions. Look at the file `LICENSE' within this
-distribution.
-Get the newest version at http://wummel.github.io/linkchecker/
-Write comments and bugs to https://github.com/wummel/linkchecker/issues
-Support this project at http://wummel.github.io/linkchecker/donations.html
-
-Start checking at 2015-05-21 15:17:40+002
-
-Statistics:
-Downloaded: 315.92KB.
-Content types: 152 image, 625 text, 0 video, 0 audio, 0 application, 0 mail and 530 other.
-URL lengths: min=23, max=136, avg=79.
-
-That's it. 1307 links in 155 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:17:40+002 (0.94 seconds)
-LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
-LinkChecker comes with ABSOLUTELY NO WARRANTY!
-This is free software, and you are welcome to redistribute it
-under certain conditions. Look at the file `LICENSE' within this
-distribution.
-Get the newest version at http://wummel.github.io/linkchecker/
-Write comments and bugs to https://github.com/wummel/linkchecker/issues
-Support this project at http://wummel.github.io/linkchecker/donations.html
-
-Start checking at 2015-05-21 15:17:42+002
-
-Statistics:
-Downloaded: 335.61KB.
-Content types: 168 image, 658 text, 0 video, 0 audio, 0 application, 0 mail and 559 other.
-URL lengths: min=23, max=136, avg=79.
-
-That's it. 1385 links in 155 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:17:43+002 (1.00 seconds)
-LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
-LinkChecker comes with ABSOLUTELY NO WARRANTY!
-This is free software, and you are welcome to redistribute it
-under certain conditions. Look at the file `LICENSE' within this
-distribution.
-Get the newest version at http://wummel.github.io/linkchecker/
-Write comments and bugs to https://github.com/wummel/linkchecker/issues
-Support this project at http://wummel.github.io/linkchecker/donations.html
-
-Start checking at 2015-05-21 15:17:44+002
-
-Statistics:
-Downloaded: 320.97KB.
-Content types: 154 image, 631 text, 0 video, 0 audio, 0 application, 0 mail and 538 other.
-URL lengths: min=23, max=136, avg=79.
-
-That's it. 1323 links in 155 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:17:45+002 (0.94 seconds)
-LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
-LinkChecker comes with ABSOLUTELY NO WARRANTY!
-This is free software, and you are welcome to redistribute it
-under certain conditions. Look at the file `LICENSE' within this
-distribution.
-Get the newest version at http://wummel.github.io/linkchecker/
-Write comments and bugs to https://github.com/wummel/linkchecker/issues
-Support this project at http://wummel.github.io/linkchecker/donations.html
-
-Start checking at 2015-05-21 15:17:46+002
-
-Statistics:
-Downloaded: 339.01KB.
-Content types: 167 image, 673 text, 0 video, 0 audio, 0 application, 0 mail and 561 other.
-URL lengths: min=23, max=136, avg=79.
-
-That's it. 1401 links in 155 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:17:47+002 (1 seconds)
-LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
-LinkChecker comes with ABSOLUTELY NO WARRANTY!
-This is free software, and you are welcome to redistribute it
-under certain conditions. Look at the file `LICENSE' within this
-distribution.
-Get the newest version at http://wummel.github.io/linkchecker/
-Write comments and bugs to https://github.com/wummel/linkchecker/issues
-Support this project at http://wummel.github.io/linkchecker/donations.html
-
-Start checking at 2015-05-21 15:17:48+002
-
-Statistics:
-Downloaded: 319.44KB.
-Content types: 157 image, 631 text, 0 video, 0 audio, 0 application, 0 mail and 526 other.
-URL lengths: min=23, max=136, avg=79.
-
-That's it. 1314 links in 155 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:17:49+002 (0.95 seconds)
-LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
-LinkChecker comes with ABSOLUTELY NO WARRANTY!
-This is free software, and you are welcome to redistribute it
-under certain conditions. Look at the file `LICENSE' within this
-distribution.
-Get the newest version at http://wummel.github.io/linkchecker/
-Write comments and bugs to https://github.com/wummel/linkchecker/issues
-Support this project at http://wummel.github.io/linkchecker/donations.html
-
-Start checking at 2015-05-21 15:17:50+002
-
-Statistics:
-Downloaded: 323.04KB.
-Content types: 145 image, 609 text, 0 video, 0 audio, 0 application, 0 mail and 520 other.
-URL lengths: min=23, max=136, avg=79.
-
-That's it. 1274 links in 155 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:17:51+002 (0.93 seconds)
-LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
-LinkChecker comes with ABSOLUTELY NO WARRANTY!
-This is free software, and you are welcome to redistribute it
-under certain conditions. Look at the file `LICENSE' within this
-distribution.
-Get the newest version at http://wummel.github.io/linkchecker/
-Write comments and bugs to https://github.com/wummel/linkchecker/issues
-Support this project at http://wummel.github.io/linkchecker/donations.html
-
-Start checking at 2015-05-21 15:17:52+002
-
-Statistics:
-Downloaded: 12.01KB.
-Content types: 8 image, 25 text, 0 video, 0 audio, 0 application, 0 mail and 28 other.
-URL lengths: min=33, max=93, avg=75.
-
-That's it. 61 links in 9 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:17:52+002 (0.08 seconds)
-LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
-LinkChecker comes with ABSOLUTELY NO WARRANTY!
-This is free software, and you are welcome to redistribute it
-under certain conditions. Look at the file `LICENSE' within this
-distribution.
-Get the newest version at http://wummel.github.io/linkchecker/
-Write comments and bugs to https://github.com/wummel/linkchecker/issues
-Support this project at http://wummel.github.io/linkchecker/donations.html
-
-Start checking at 2015-05-21 15:17:54+002
-
-Statistics:
-Downloaded: 315.00KB.
-Content types: 150 image, 621 text, 0 video, 0 audio, 0 application, 0 mail and 516 other.
-URL lengths: min=23, max=136, avg=79.
-
-That's it. 1287 links in 155 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:17:55+002 (0.95 seconds)
-LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
-LinkChecker comes with ABSOLUTELY NO WARRANTY!
-This is free software, and you are welcome to redistribute it
-under certain conditions. Look at the file `LICENSE' within this
-distribution.
-Get the newest version at http://wummel.github.io/linkchecker/
-Write comments and bugs to https://github.com/wummel/linkchecker/issues
-Support this project at http://wummel.github.io/linkchecker/donations.html
-
-Start checking at 2015-05-21 15:17:56+002
-
-Statistics:
-Downloaded: 324.72KB.
-Content types: 160 image, 643 text, 0 video, 0 audio, 0 application, 0 mail and 530 other.
-URL lengths: min=23, max=136, avg=79.
-
-That's it. 1333 links in 155 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:17:57+002 (0.93 seconds)
-LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
-LinkChecker comes with ABSOLUTELY NO WARRANTY!
-This is free software, and you are welcome to redistribute it
-under certain conditions. Look at the file `LICENSE' within this
-distribution.
-Get the newest version at http://wummel.github.io/linkchecker/
-Write comments and bugs to https://github.com/wummel/linkchecker/issues
-Support this project at http://wummel.github.io/linkchecker/donations.html
-
-Start checking at 2015-05-21 15:17:58+002
-
-Statistics:
-Downloaded: 307.90KB.
-Content types: 152 image, 615 text, 0 video, 0 audio, 0 application, 0 mail and 504 other.
-URL lengths: min=23, max=136, avg=79.
-
-That's it. 1271 links in 155 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:17:59+002 (1.00 seconds)
-LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
-LinkChecker comes with ABSOLUTELY NO WARRANTY!
-This is free software, and you are welcome to redistribute it
-under certain conditions. Look at the file `LICENSE' within this
-distribution.
-Get the newest version at http://wummel.github.io/linkchecker/
-Write comments and bugs to https://github.com/wummel/linkchecker/issues
-Support this project at http://wummel.github.io/linkchecker/donations.html
-
-Start checking at 2015-05-21 15:18:00+002
-
-Statistics:
-Downloaded: 311.46KB.
-Content types: 152 image, 614 text, 0 video, 0 audio, 0 application, 0 mail and 509 other.
-URL lengths: min=23, max=136, avg=79.
-
-That's it. 1275 links in 155 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:18:01+002 (0.99 seconds)
-LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
-LinkChecker comes with ABSOLUTELY NO WARRANTY!
-This is free software, and you are welcome to redistribute it
-under certain conditions. Look at the file `LICENSE' within this
-distribution.
-Get the newest version at http://wummel.github.io/linkchecker/
-Write comments and bugs to https://github.com/wummel/linkchecker/issues
-Support this project at http://wummel.github.io/linkchecker/donations.html
-
-Start checking at 2015-05-21 15:18:02+002
-
-Statistics:
-Downloaded: 297.71KB.
-Content types: 139 image, 603 text, 0 video, 0 audio, 0 application, 0 mail and 495 other.
-URL lengths: min=23, max=136, avg=79.
-
-That's it. 1237 links in 155 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:18:03+002 (0.94 seconds)
-LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
-LinkChecker comes with ABSOLUTELY NO WARRANTY!
-This is free software, and you are welcome to redistribute it
-under certain conditions. Look at the file `LICENSE' within this
-distribution.
-Get the newest version at http://wummel.github.io/linkchecker/
-Write comments and bugs to https://github.com/wummel/linkchecker/issues
-Support this project at http://wummel.github.io/linkchecker/donations.html
-
-Start checking at 2015-05-21 15:18:04+002
-
-Statistics:
-Downloaded: 314.13KB.
-Content types: 151 image, 630 text, 0 video, 0 audio, 0 application, 0 mail and 523 other.
-URL lengths: min=23, max=136, avg=79.
-
-That's it. 1304 links in 155 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:18:05+002 (0.90 seconds)
-LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
-LinkChecker comes with ABSOLUTELY NO WARRANTY!
-This is free software, and you are welcome to redistribute it
-under certain conditions. Look at the file `LICENSE' within this
-distribution.
-Get the newest version at http://wummel.github.io/linkchecker/
-Write comments and bugs to https://github.com/wummel/linkchecker/issues
-Support this project at http://wummel.github.io/linkchecker/donations.html
-
-Start checking at 2015-05-21 15:18:06+002
+Start checking at 2015-05-21 16:05:58+002
 
 Statistics:
 Downloaded: 303.91KB.
@@ -321,7 +33,7 @@ Content types: 144 image, 601 text, 0 video, 0 audio, 0 application, 0 mail and 
 URL lengths: min=23, max=136, avg=79.
 
 That's it. 1247 links in 155 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:18:07+002 (0.88 seconds)
+Stopped checking at 2015-05-21 16:05:59+002 (0.88 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -331,15 +43,15 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:18:08+002
+Start checking at 2015-05-21 16:06:00+002
 
 Statistics:
-Downloaded: 318.85KB.
-Content types: 145 image, 611 text, 0 video, 0 audio, 0 application, 0 mail and 517 other.
+Downloaded: 340.05KB.
+Content types: 168 image, 675 text, 0 video, 0 audio, 0 application, 0 mail and 561 other.
 URL lengths: min=23, max=136, avg=79.
 
-That's it. 1273 links in 155 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:18:09+002 (0.88 seconds)
+That's it. 1404 links in 155 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:06:01+002 (0.98 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -349,15 +61,15 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:18:10+002
+Start checking at 2015-05-21 16:06:03+002
 
 Statistics:
-Downloaded: 309.13KB.
-Content types: 149 image, 611 text, 0 video, 0 audio, 0 application, 0 mail and 507 other.
+Downloaded: 327.64KB.
+Content types: 152 image, 647 text, 0 video, 0 audio, 0 application, 0 mail and 544 other.
 URL lengths: min=23, max=136, avg=79.
 
-That's it. 1267 links in 155 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:18:11+002 (0.93 seconds)
+That's it. 1343 links in 155 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:06:04+002 (0.94 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -367,7 +79,79 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:18:12+002
+Start checking at 2015-05-21 16:06:05+002
+
+Statistics:
+Downloaded: 303.91KB.
+Content types: 144 image, 601 text, 0 video, 0 audio, 0 application, 0 mail and 502 other.
+URL lengths: min=23, max=136, avg=79.
+
+That's it. 1247 links in 155 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:06:06+002 (0.88 seconds)
+LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it
+under certain conditions. Look at the file `LICENSE' within this
+distribution.
+Get the newest version at http://wummel.github.io/linkchecker/
+Write comments and bugs to https://github.com/wummel/linkchecker/issues
+Support this project at http://wummel.github.io/linkchecker/donations.html
+
+Start checking at 2015-05-21 16:06:07+002
+
+Statistics:
+Downloaded: 313.69KB.
+Content types: 149 image, 628 text, 0 video, 0 audio, 0 application, 0 mail and 530 other.
+URL lengths: min=23, max=136, avg=79.
+
+That's it. 1307 links in 155 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:06:08+002 (0.88 seconds)
+LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it
+under certain conditions. Look at the file `LICENSE' within this
+distribution.
+Get the newest version at http://wummel.github.io/linkchecker/
+Write comments and bugs to https://github.com/wummel/linkchecker/issues
+Support this project at http://wummel.github.io/linkchecker/donations.html
+
+Start checking at 2015-05-21 16:06:09+002
+
+Statistics:
+Downloaded: 303.91KB.
+Content types: 144 image, 601 text, 0 video, 0 audio, 0 application, 0 mail and 502 other.
+URL lengths: min=23, max=136, avg=79.
+
+That's it. 1247 links in 155 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:06:10+002 (0.88 seconds)
+LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it
+under certain conditions. Look at the file `LICENSE' within this
+distribution.
+Get the newest version at http://wummel.github.io/linkchecker/
+Write comments and bugs to https://github.com/wummel/linkchecker/issues
+Support this project at http://wummel.github.io/linkchecker/donations.html
+
+Start checking at 2015-05-21 16:06:11+002
+
+Statistics:
+Downloaded: 320.99KB.
+Content types: 152 image, 638 text, 0 video, 0 audio, 0 application, 0 mail and 534 other.
+URL lengths: min=23, max=136, avg=79.
+
+That's it. 1324 links in 155 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:06:12+002 (0.94 seconds)
+LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it
+under certain conditions. Look at the file `LICENSE' within this
+distribution.
+Get the newest version at http://wummel.github.io/linkchecker/
+Write comments and bugs to https://github.com/wummel/linkchecker/issues
+Support this project at http://wummel.github.io/linkchecker/donations.html
+
+Start checking at 2015-05-21 16:06:13+002
 
 Statistics:
 Downloaded: 293.92KB.
@@ -375,7 +159,7 @@ Content types: 136 image, 582 text, 0 video, 0 audio, 0 application, 0 mail and 
 URL lengths: min=23, max=136, avg=79.
 
 That's it. 1203 links in 155 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:18:13+002 (0.83 seconds)
+Stopped checking at 2015-05-21 16:06:14+002 (0.84 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -385,15 +169,15 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:18:14+002
+Start checking at 2015-05-21 16:06:15+002
 
 Statistics:
-Downloaded: 313.71KB.
-Content types: 146 image, 609 text, 0 video, 0 audio, 0 application, 0 mail and 514 other.
+Downloaded: 311.12KB.
+Content types: 151 image, 618 text, 0 video, 0 audio, 0 application, 0 mail and 521 other.
 URL lengths: min=23, max=136, avg=79.
 
-That's it. 1269 links in 155 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:18:15+002 (0.88 seconds)
+That's it. 1290 links in 155 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:06:16+002 (0.89 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -403,15 +187,15 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:18:16+002
+Start checking at 2015-05-21 16:06:17+002
 
 Statistics:
-Downloaded: 358.48KB.
-Content types: 179 image, 673 text, 0 video, 0 audio, 0 application, 0 mail and 570 other.
-URL lengths: min=23, max=136, avg=79.
+Downloaded: 12.01KB.
+Content types: 8 image, 25 text, 0 video, 0 audio, 0 application, 0 mail and 28 other.
+URL lengths: min=33, max=93, avg=75.
 
-That's it. 1422 links in 155 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:18:17+002 (0.98 seconds)
+That's it. 61 links in 9 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:06:17+002 (0.08 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -421,15 +205,15 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:18:19+002
+Start checking at 2015-05-21 16:06:18+002
 
 Statistics:
-Downloaded: 304.83KB.
-Content types: 140 image, 605 text, 0 video, 0 audio, 0 application, 0 mail and 503 other.
+Downloaded: 314.08KB.
+Content types: 154 image, 617 text, 0 video, 0 audio, 0 application, 0 mail and 515 other.
 URL lengths: min=23, max=136, avg=79.
 
-That's it. 1248 links in 155 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:18:19+002 (0.88 seconds)
+That's it. 1286 links in 155 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:06:19+002 (0.92 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -439,15 +223,15 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:18:21+002
+Start checking at 2015-05-21 16:06:20+002
 
 Statistics:
-Downloaded: 324.53KB.
-Content types: 155 image, 645 text, 0 video, 0 audio, 0 application, 0 mail and 526 other.
+Downloaded: 337.90KB.
+Content types: 168 image, 664 text, 0 video, 0 audio, 0 application, 0 mail and 561 other.
 URL lengths: min=23, max=136, avg=79.
 
-That's it. 1326 links in 155 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:18:22+002 (0.93 seconds)
+That's it. 1393 links in 155 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:06:21+002 (0.94 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -457,7 +241,43 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:18:23+002
+Start checking at 2015-05-21 16:06:22+002
+
+Statistics:
+Downloaded: 301.47KB.
+Content types: 144 image, 595 text, 0 video, 0 audio, 0 application, 0 mail and 492 other.
+URL lengths: min=23, max=136, avg=79.
+
+That's it. 1231 links in 155 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:06:23+002 (0.85 seconds)
+LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it
+under certain conditions. Look at the file `LICENSE' within this
+distribution.
+Get the newest version at http://wummel.github.io/linkchecker/
+Write comments and bugs to https://github.com/wummel/linkchecker/issues
+Support this project at http://wummel.github.io/linkchecker/donations.html
+
+Start checking at 2015-05-21 16:06:24+002
+
+Statistics:
+Downloaded: 318.22KB.
+Content types: 154 image, 624 text, 0 video, 0 audio, 0 application, 0 mail and 518 other.
+URL lengths: min=23, max=136, avg=79.
+
+That's it. 1296 links in 155 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:06:25+002 (0.93 seconds)
+LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it
+under certain conditions. Look at the file `LICENSE' within this
+distribution.
+Get the newest version at http://wummel.github.io/linkchecker/
+Write comments and bugs to https://github.com/wummel/linkchecker/issues
+Support this project at http://wummel.github.io/linkchecker/donations.html
+
+Start checking at 2015-05-21 16:06:26+002
 
 Statistics:
 Downloaded: 305.93KB.
@@ -465,7 +285,7 @@ Content types: 144 image, 606 text, 0 video, 0 audio, 0 application, 0 mail and 
 URL lengths: min=23, max=136, avg=79.
 
 That's it. 1263 links in 155 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:18:24+002 (0.89 seconds)
+Stopped checking at 2015-05-21 16:06:27+002 (0.88 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -475,7 +295,205 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:18:25+002
+Start checking at 2015-05-21 16:06:28+002
+
+Statistics:
+Downloaded: 330.41KB.
+Content types: 148 image, 700 text, 0 video, 0 audio, 0 application, 0 mail and 567 other.
+URL lengths: min=23, max=136, avg=79.
+
+That's it. 1415 links in 155 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:06:29+002 (0.99 seconds)
+LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it
+under certain conditions. Look at the file `LICENSE' within this
+distribution.
+Get the newest version at http://wummel.github.io/linkchecker/
+Write comments and bugs to https://github.com/wummel/linkchecker/issues
+Support this project at http://wummel.github.io/linkchecker/donations.html
+
+Start checking at 2015-05-21 16:06:31+002
+
+Statistics:
+Downloaded: 324.34KB.
+Content types: 154 image, 640 text, 0 video, 0 audio, 0 application, 0 mail and 543 other.
+URL lengths: min=23, max=136, avg=79.
+
+That's it. 1337 links in 155 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:06:31+002 (0.93 seconds)
+LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it
+under certain conditions. Look at the file `LICENSE' within this
+distribution.
+Get the newest version at http://wummel.github.io/linkchecker/
+Write comments and bugs to https://github.com/wummel/linkchecker/issues
+Support this project at http://wummel.github.io/linkchecker/donations.html
+
+Start checking at 2015-05-21 16:06:33+002
+
+Statistics:
+Downloaded: 324.71KB.
+Content types: 161 image, 646 text, 0 video, 0 audio, 0 application, 0 mail and 541 other.
+URL lengths: min=23, max=136, avg=79.
+
+That's it. 1348 links in 155 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:06:34+002 (0.95 seconds)
+LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it
+under certain conditions. Look at the file `LICENSE' within this
+distribution.
+Get the newest version at http://wummel.github.io/linkchecker/
+Write comments and bugs to https://github.com/wummel/linkchecker/issues
+Support this project at http://wummel.github.io/linkchecker/donations.html
+
+Start checking at 2015-05-21 16:06:35+002
+
+Statistics:
+Downloaded: 298.63KB.
+Content types: 140 image, 586 text, 0 video, 0 audio, 0 application, 0 mail and 487 other.
+URL lengths: min=23, max=136, avg=79.
+
+That's it. 1213 links in 155 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:06:36+002 (0.88 seconds)
+LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it
+under certain conditions. Look at the file `LICENSE' within this
+distribution.
+Get the newest version at http://wummel.github.io/linkchecker/
+Write comments and bugs to https://github.com/wummel/linkchecker/issues
+Support this project at http://wummel.github.io/linkchecker/donations.html
+
+Start checking at 2015-05-21 16:06:37+002
+
+Statistics:
+Downloaded: 309.28KB.
+Content types: 142 image, 620 text, 0 video, 0 audio, 0 application, 0 mail and 513 other.
+URL lengths: min=23, max=136, avg=79.
+
+That's it. 1275 links in 155 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:06:38+002 (0.93 seconds)
+LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it
+under certain conditions. Look at the file `LICENSE' within this
+distribution.
+Get the newest version at http://wummel.github.io/linkchecker/
+Write comments and bugs to https://github.com/wummel/linkchecker/issues
+Support this project at http://wummel.github.io/linkchecker/donations.html
+
+Start checking at 2015-05-21 16:06:39+002
+
+Statistics:
+Downloaded: 301.13KB.
+Content types: 143 image, 599 text, 0 video, 0 audio, 0 application, 0 mail and 504 other.
+URL lengths: min=23, max=136, avg=79.
+
+That's it. 1246 links in 155 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:06:40+002 (0.88 seconds)
+LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it
+under certain conditions. Look at the file `LICENSE' within this
+distribution.
+Get the newest version at http://wummel.github.io/linkchecker/
+Write comments and bugs to https://github.com/wummel/linkchecker/issues
+Support this project at http://wummel.github.io/linkchecker/donations.html
+
+Start checking at 2015-05-21 16:06:41+002
+
+Statistics:
+Downloaded: 308.68KB.
+Content types: 151 image, 612 text, 0 video, 0 audio, 0 application, 0 mail and 511 other.
+URL lengths: min=23, max=136, avg=79.
+
+That's it. 1274 links in 155 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:06:42+002 (0.94 seconds)
+LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it
+under certain conditions. Look at the file `LICENSE' within this
+distribution.
+Get the newest version at http://wummel.github.io/linkchecker/
+Write comments and bugs to https://github.com/wummel/linkchecker/issues
+Support this project at http://wummel.github.io/linkchecker/donations.html
+
+Start checking at 2015-05-21 16:06:43+002
+
+Statistics:
+Downloaded: 342.65KB.
+Content types: 169 image, 669 text, 0 video, 0 audio, 0 application, 0 mail and 563 other.
+URL lengths: min=23, max=136, avg=79.
+
+That's it. 1401 links in 155 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:06:44+002 (1 seconds)
+LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it
+under certain conditions. Look at the file `LICENSE' within this
+distribution.
+Get the newest version at http://wummel.github.io/linkchecker/
+Write comments and bugs to https://github.com/wummel/linkchecker/issues
+Support this project at http://wummel.github.io/linkchecker/donations.html
+
+Start checking at 2015-05-21 16:06:45+002
+
+Statistics:
+Downloaded: 339.12KB.
+Content types: 162 image, 676 text, 0 video, 0 audio, 0 application, 0 mail and 560 other.
+URL lengths: min=23, max=136, avg=79.
+
+That's it. 1398 links in 155 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:06:46+002 (0.99 seconds)
+LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it
+under certain conditions. Look at the file `LICENSE' within this
+distribution.
+Get the newest version at http://wummel.github.io/linkchecker/
+Write comments and bugs to https://github.com/wummel/linkchecker/issues
+Support this project at http://wummel.github.io/linkchecker/donations.html
+
+Start checking at 2015-05-21 16:06:47+002
+
+Statistics:
+Downloaded: 313.71KB.
+Content types: 146 image, 609 text, 0 video, 0 audio, 0 application, 0 mail and 514 other.
+URL lengths: min=23, max=136, avg=79.
+
+That's it. 1269 links in 155 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:06:48+002 (0.88 seconds)
+LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it
+under certain conditions. Look at the file `LICENSE' within this
+distribution.
+Get the newest version at http://wummel.github.io/linkchecker/
+Write comments and bugs to https://github.com/wummel/linkchecker/issues
+Support this project at http://wummel.github.io/linkchecker/donations.html
+
+Start checking at 2015-05-21 16:06:49+002
+
+Statistics:
+Downloaded: 303.49KB.
+Content types: 144 image, 585 text, 0 video, 0 audio, 0 application, 0 mail and 491 other.
+URL lengths: min=23, max=136, avg=79.
+
+That's it. 1220 links in 155 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:06:50+002 (0.89 seconds)
+LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it
+under certain conditions. Look at the file `LICENSE' within this
+distribution.
+Get the newest version at http://wummel.github.io/linkchecker/
+Write comments and bugs to https://github.com/wummel/linkchecker/issues
+Support this project at http://wummel.github.io/linkchecker/donations.html
+
+Start checking at 2015-05-21 16:06:51+002
 
 Statistics:
 Downloaded: 289.11KB.
@@ -483,7 +501,7 @@ Content types: 135 image, 575 text, 0 video, 0 audio, 0 application, 0 mail and 
 URL lengths: min=23, max=136, avg=79.
 
 That's it. 1186 links in 155 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:18:26+002 (0.83 seconds)
+Stopped checking at 2015-05-21 16:06:52+002 (0.84 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -493,15 +511,15 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:18:27+002
+Start checking at 2015-05-21 16:06:53+002
 
 Statistics:
-Downloaded: 320.39KB.
-Content types: 152 image, 633 text, 0 video, 0 audio, 0 application, 0 mail and 531 other.
+Downloaded: 333.77KB.
+Content types: 152 image, 655 text, 0 video, 0 audio, 0 application, 0 mail and 550 other.
 URL lengths: min=23, max=136, avg=79.
 
-That's it. 1316 links in 155 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:18:28+002 (0.93 seconds)
+That's it. 1357 links in 155 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:06:54+002 (0.95 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -511,15 +529,15 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:18:29+002
+Start checking at 2015-05-21 16:06:55+002
 
 Statistics:
-Downloaded: 334.82KB.
-Content types: 154 image, 633 text, 0 video, 0 audio, 0 application, 0 mail and 540 other.
+Downloaded: 312.96KB.
+Content types: 146 image, 604 text, 0 video, 0 audio, 0 application, 0 mail and 507 other.
 URL lengths: min=23, max=136, avg=79.
 
-That's it. 1327 links in 155 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:18:30+002 (0.92 seconds)
+That's it. 1257 links in 155 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:06:56+002 (0.88 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -529,15 +547,15 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:18:31+002
+Start checking at 2015-05-21 16:06:57+002
 
 Statistics:
-Downloaded: 330.31KB.
-Content types: 161 image, 635 text, 0 video, 0 audio, 0 application, 0 mail and 545 other.
+Downloaded: 351.22KB.
+Content types: 176 image, 692 text, 0 video, 0 audio, 0 application, 0 mail and 581 other.
 URL lengths: min=23, max=136, avg=79.
 
-That's it. 1341 links in 155 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:18:32+002 (0.93 seconds)
+That's it. 1449 links in 155 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:06:58+002 (0.98 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -547,15 +565,15 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:18:33+002
+Start checking at 2015-05-21 16:07:00+002
 
 Statistics:
-Downloaded: 364.43KB.
-Content types: 182 image, 703 text, 0 video, 0 audio, 0 application, 0 mail and 588 other.
+Downloaded: 354.41KB.
+Content types: 176 image, 688 text, 0 video, 0 audio, 0 application, 0 mail and 583 other.
 URL lengths: min=23, max=136, avg=79.
 
-That's it. 1473 links in 155 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:18:34+002 (1 seconds)
+That's it. 1447 links in 155 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:07:01+002 (0.99 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -565,15 +583,15 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:18:35+002
+Start checking at 2015-05-21 16:07:02+002
 
 Statistics:
-Downloaded: 325.19KB.
-Content types: 159 image, 627 text, 0 video, 0 audio, 0 application, 0 mail and 533 other.
+Downloaded: 332.19KB.
+Content types: 159 image, 646 text, 0 video, 0 audio, 0 application, 0 mail and 558 other.
 URL lengths: min=23, max=136, avg=79.
 
-That's it. 1319 links in 155 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:18:36+002 (0.92 seconds)
+That's it. 1363 links in 155 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:07:03+002 (0.93 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -583,25 +601,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:18:37+002
-
-Statistics:
-Downloaded: 369.12KB.
-Content types: 184 image, 696 text, 0 video, 0 audio, 0 application, 0 mail and 587 other.
-URL lengths: min=23, max=136, avg=79.
-
-That's it. 1467 links in 155 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:18:38+002 (1 seconds)
-LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
-LinkChecker comes with ABSOLUTELY NO WARRANTY!
-This is free software, and you are welcome to redistribute it
-under certain conditions. Look at the file `LICENSE' within this
-distribution.
-Get the newest version at http://wummel.github.io/linkchecker/
-Write comments and bugs to https://github.com/wummel/linkchecker/issues
-Support this project at http://wummel.github.io/linkchecker/donations.html
-
-Start checking at 2015-05-21 15:18:39+002
+Start checking at 2015-05-21 16:07:04+002
 
 Statistics:
 Downloaded: 7KB.
@@ -609,7 +609,7 @@ Content types: 3 image, 9 text, 0 video, 0 audio, 0 application, 0 mail and 19 o
 URL lengths: min=40, max=95, avg=79.
 
 That's it. 31 links in 5 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:18:39+002 (0.04 seconds)
+Stopped checking at 2015-05-21 16:07:04+002 (0.04 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -619,7 +619,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:18:41+002
+Start checking at 2015-05-21 16:07:05+002
 
 Statistics:
 Downloaded: 13.20KB.
@@ -627,7 +627,7 @@ Content types: 5 image, 5 text, 0 video, 0 audio, 0 application, 0 mail and 37 o
 URL lengths: min=39, max=113, avg=78.
 
 That's it. 47 links in 8 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:18:41+002 (0.08 seconds)
+Stopped checking at 2015-05-21 16:07:05+002 (0.07 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -637,7 +637,43 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:18:42+002
+Start checking at 2015-05-21 16:07:06+002
+
+Statistics:
+Downloaded: 149.27KB.
+Content types: 36 image, 127 text, 0 video, 0 audio, 0 application, 0 mail and 350 other.
+URL lengths: min=29, max=274, avg=76.
+
+That's it. 513 links in 55 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:07:07+002 (0.37 seconds)
+LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it
+under certain conditions. Look at the file `LICENSE' within this
+distribution.
+Get the newest version at http://wummel.github.io/linkchecker/
+Write comments and bugs to https://github.com/wummel/linkchecker/issues
+Support this project at http://wummel.github.io/linkchecker/donations.html
+
+Start checking at 2015-05-21 16:07:08+002
+
+Statistics:
+Downloaded: 146.11KB.
+Content types: 36 image, 126 text, 0 video, 0 audio, 0 application, 0 mail and 336 other.
+URL lengths: min=29, max=274, avg=76.
+
+That's it. 498 links in 55 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:07:08+002 (0.38 seconds)
+LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it
+under certain conditions. Look at the file `LICENSE' within this
+distribution.
+Get the newest version at http://wummel.github.io/linkchecker/
+Write comments and bugs to https://github.com/wummel/linkchecker/issues
+Support this project at http://wummel.github.io/linkchecker/donations.html
+
+Start checking at 2015-05-21 16:07:09+002
 
 Statistics:
 Downloaded: 122.08KB.
@@ -645,7 +681,7 @@ Content types: 34 image, 99 text, 0 video, 0 audio, 0 application, 0 mail and 28
 URL lengths: min=29, max=274, avg=76.
 
 That's it. 417 links in 55 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:18:42+002 (0.33 seconds)
+Stopped checking at 2015-05-21 16:07:10+002 (0.33 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -655,43 +691,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:18:43+002
-
-Statistics:
-Downloaded: 134.09KB.
-Content types: 36 image, 105 text, 0 video, 0 audio, 0 application, 0 mail and 305 other.
-URL lengths: min=29, max=274, avg=76.
-
-That's it. 446 links in 55 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:18:44+002 (0.33 seconds)
-LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
-LinkChecker comes with ABSOLUTELY NO WARRANTY!
-This is free software, and you are welcome to redistribute it
-under certain conditions. Look at the file `LICENSE' within this
-distribution.
-Get the newest version at http://wummel.github.io/linkchecker/
-Write comments and bugs to https://github.com/wummel/linkchecker/issues
-Support this project at http://wummel.github.io/linkchecker/donations.html
-
-Start checking at 2015-05-21 15:18:45+002
-
-Statistics:
-Downloaded: 126.46KB.
-Content types: 34 image, 99 text, 0 video, 0 audio, 0 application, 0 mail and 295 other.
-URL lengths: min=29, max=274, avg=76.
-
-That's it. 428 links in 55 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:18:45+002 (0.34 seconds)
-LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
-LinkChecker comes with ABSOLUTELY NO WARRANTY!
-This is free software, and you are welcome to redistribute it
-under certain conditions. Look at the file `LICENSE' within this
-distribution.
-Get the newest version at http://wummel.github.io/linkchecker/
-Write comments and bugs to https://github.com/wummel/linkchecker/issues
-Support this project at http://wummel.github.io/linkchecker/donations.html
-
-Start checking at 2015-05-21 15:18:46+002
+Start checking at 2015-05-21 16:07:11+002
 
 URL        `css/satish_video.css'
 Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/hardware/apple_lisaMOD.html, line 7, col 2
@@ -700,12 +700,12 @@ Check time 0.001 seconds
 Result     Error: URLError: <urlopen error [Errno 2] No such file or directory: '/Users/piermarco/Documents/Repository/HCI_Project/OldHtml/hardware/css/satish_video.css'>
 
 Statistics:
-Downloaded: 155.09KB.
-Content types: 37 image, 133 text, 0 video, 0 audio, 0 application, 0 mail and 365 other.
+Downloaded: 133.12KB.
+Content types: 37 image, 110 text, 0 video, 0 audio, 0 application, 0 mail and 310 other.
 URL lengths: min=29, max=274, avg=76.
 
-That's it. 535 links in 57 URLs checked. 0 warnings found. 1 error found.
-Stopped checking at 2015-05-21 15:18:47+002 (0.39 seconds)
+That's it. 457 links in 57 URLs checked. 0 warnings found. 1 error found.
+Stopped checking at 2015-05-21 16:07:11+002 (0.33 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -715,7 +715,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:18:48+002
+Start checking at 2015-05-21 16:07:12+002
 
 Statistics:
 Downloaded: 127.31KB.
@@ -723,7 +723,7 @@ Content types: 36 image, 104 text, 0 video, 0 audio, 0 application, 0 mail and 2
 URL lengths: min=29, max=274, avg=76.
 
 That's it. 435 links in 55 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:18:48+002 (0.33 seconds)
+Stopped checking at 2015-05-21 16:07:13+002 (0.33 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -733,7 +733,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:18:50+002
+Start checking at 2015-05-21 16:07:14+002
 
 Statistics:
 Downloaded: 122.08KB.
@@ -741,7 +741,7 @@ Content types: 34 image, 99 text, 0 video, 0 audio, 0 application, 0 mail and 28
 URL lengths: min=29, max=274, avg=76.
 
 That's it. 417 links in 55 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:18:50+002 (0.34 seconds)
+Stopped checking at 2015-05-21 16:07:14+002 (0.33 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -751,15 +751,15 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:18:51+002
+Start checking at 2015-05-21 16:07:15+002
 
 Statistics:
-Downloaded: 122.08KB.
-Content types: 34 image, 99 text, 0 video, 0 audio, 0 application, 0 mail and 284 other.
+Downloaded: 146.11KB.
+Content types: 36 image, 126 text, 0 video, 0 audio, 0 application, 0 mail and 336 other.
 URL lengths: min=29, max=274, avg=76.
 
-That's it. 417 links in 55 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:18:51+002 (0.33 seconds)
+That's it. 498 links in 55 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:07:16+002 (0.39 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -769,7 +769,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:18:53+002
+Start checking at 2015-05-21 16:07:17+002
 
 Statistics:
 Downloaded: 23.79KB.
@@ -777,7 +777,7 @@ Content types: 7 image, 11 text, 0 video, 0 audio, 0 application, 0 mail and 58 
 URL lengths: min=39, max=113, avg=78.
 
 That's it. 76 links in 12 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:18:53+002 (0.07 seconds)
+Stopped checking at 2015-05-21 16:07:17+002 (0.07 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -787,7 +787,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:18:54+002
+Start checking at 2015-05-21 16:07:18+002
 
 Statistics:
 Downloaded: 20.41KB.
@@ -795,7 +795,7 @@ Content types: 2 image, 28 text, 0 video, 0 audio, 0 application, 0 mail and 56 
 URL lengths: min=37, max=124, avg=76.
 
 That's it. 86 links in 5 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:18:54+002 (0.07 seconds)
+Stopped checking at 2015-05-21 16:07:18+002 (0.07 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -805,15 +805,15 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:18:55+002
+Start checking at 2015-05-21 16:07:19+002
 
 Statistics:
-Downloaded: 122.08KB.
-Content types: 34 image, 99 text, 0 video, 0 audio, 0 application, 0 mail and 284 other.
+Downloaded: 127.31KB.
+Content types: 36 image, 104 text, 0 video, 0 audio, 0 application, 0 mail and 295 other.
 URL lengths: min=29, max=274, avg=76.
 
-That's it. 417 links in 55 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:18:55+002 (0.33 seconds)
+That's it. 435 links in 55 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:07:20+002 (0.34 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -823,7 +823,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:18:57+002
+Start checking at 2015-05-21 16:07:21+002
 
 Statistics:
 Downloaded: 2KB.
@@ -831,7 +831,7 @@ Content types: 0 image, 2 text, 0 video, 0 audio, 0 application, 0 mail and 8 ot
 URL lengths: min=67, max=88, avg=79.
 
 That's it. 10 links in 1 URL checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:18:57+002 (0.02 seconds)
+Stopped checking at 2015-05-21 16:07:21+002 (0.02 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -841,7 +841,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:18:58+002
+Start checking at 2015-05-21 16:07:22+002
 
 Statistics:
 Downloaded: 21.42KB.
@@ -849,7 +849,7 @@ Content types: 6 image, 14 text, 0 video, 0 audio, 0 application, 0 mail and 45 
 URL lengths: min=39, max=106, avg=73.
 
 That's it. 65 links in 10 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:18:58+002 (0.07 seconds)
+Stopped checking at 2015-05-21 16:07:22+002 (0.07 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -859,7 +859,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:18:59+002
+Start checking at 2015-05-21 16:07:23+002
 
 URL        `css/satishFlex.css'
 Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/hardware/Intel_8008_8080MOD.html, line 17, col 2
@@ -873,7 +873,7 @@ Content types: 8 image, 19 text, 0 video, 0 audio, 0 application, 0 mail and 56 
 URL lengths: min=39, max=106, avg=74.
 
 That's it. 83 links in 12 URLs checked. 0 warnings found. 1 error found.
-Stopped checking at 2015-05-21 15:18:59+002 (0.13 seconds)
+Stopped checking at 2015-05-21 16:07:23+002 (0.07 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -883,7 +883,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:19:00+002
+Start checking at 2015-05-21 16:07:24+002
 
 Statistics:
 Downloaded: 26.65KB.
@@ -891,7 +891,7 @@ Content types: 8 image, 19 text, 0 video, 0 audio, 0 application, 0 mail and 56 
 URL lengths: min=39, max=106, avg=74.
 
 That's it. 83 links in 10 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:19:00+002 (0.08 seconds)
+Stopped checking at 2015-05-21 16:07:25+002 (0.08 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -901,7 +901,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:19:02+002
+Start checking at 2015-05-21 16:07:26+002
 
 Statistics:
 Downloaded: 122.08KB.
@@ -909,7 +909,7 @@ Content types: 34 image, 99 text, 0 video, 0 audio, 0 application, 0 mail and 28
 URL lengths: min=29, max=274, avg=76.
 
 That's it. 417 links in 55 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:19:02+002 (0.33 seconds)
+Stopped checking at 2015-05-21 16:07:26+002 (0.33 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -919,7 +919,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:19:03+002
+Start checking at 2015-05-21 16:07:27+002
 
 Statistics:
 Downloaded: 5KB.
@@ -927,7 +927,7 @@ Content types: 4 image, 10 text, 0 video, 0 audio, 0 application, 0 mail and 12 
 URL lengths: min=33, max=101, avg=76.
 
 That's it. 26 links in 5 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:19:03+002 (0.04 seconds)
+Stopped checking at 2015-05-21 16:07:27+002 (0.04 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -937,7 +937,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:19:04+002
+Start checking at 2015-05-21 16:07:28+002
 
 Statistics:
 Downloaded: 122.08KB.
@@ -945,7 +945,7 @@ Content types: 34 image, 99 text, 0 video, 0 audio, 0 application, 0 mail and 28
 URL lengths: min=29, max=274, avg=76.
 
 That's it. 417 links in 55 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:19:05+002 (0.34 seconds)
+Stopped checking at 2015-05-21 16:07:29+002 (0.33 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -955,7 +955,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:19:06+002
+Start checking at 2015-05-21 16:07:30+002
 
 URL        `css/foxtrot_aurecchia.css'
 Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/hardware/link_testpage.html, line 7, col 2
@@ -966,7 +966,7 @@ Result     Error: URLError: <urlopen error [Errno 2] No such file or directory: 
 URL        `css/foxtrot_calzam.css'
 Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/hardware/link_testpage.html, line 8, col 2
 Real URL   file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/hardware/css/foxtrot_calzam.css
-Check time 0.001 seconds
+Check time 0.000 seconds
 Result     Error: URLError: <urlopen error [Errno 2] No such file or directory: '/Users/piermarco/Documents/Repository/HCI_Project/OldHtml/hardware/css/foxtrot_calzam.css'>
 
 Statistics:
@@ -975,7 +975,7 @@ Content types: 1 image, 3 text, 0 video, 0 audio, 0 application, 0 mail and 18 o
 URL lengths: min=18, max=99, avg=77.
 
 That's it. 22 links in 5 URLs checked. 0 warnings found. 2 errors found.
-Stopped checking at 2015-05-21 15:19:06+002 (0.04 seconds)
+Stopped checking at 2015-05-21 16:07:30+002 (0.04 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -985,205 +985,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:19:07+002
-
-Statistics:
-Downloaded: 127.31KB.
-Content types: 36 image, 104 text, 0 video, 0 audio, 0 application, 0 mail and 295 other.
-URL lengths: min=29, max=274, avg=76.
-
-That's it. 435 links in 55 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:19:07+002 (0.32 seconds)
-LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
-LinkChecker comes with ABSOLUTELY NO WARRANTY!
-This is free software, and you are welcome to redistribute it
-under certain conditions. Look at the file `LICENSE' within this
-distribution.
-Get the newest version at http://wummel.github.io/linkchecker/
-Write comments and bugs to https://github.com/wummel/linkchecker/issues
-Support this project at http://wummel.github.io/linkchecker/donations.html
-
-Start checking at 2015-05-21 15:19:08+002
-
-Statistics:
-Downloaded: 4KB.
-Content types: 0 image, 1 text, 0 video, 0 audio, 0 application, 0 mail and 11 other.
-URL lengths: min=40, max=95, avg=66.
-
-That's it. 12 links in 1 URL checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:19:09+002 (0.02 seconds)
-LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
-LinkChecker comes with ABSOLUTELY NO WARRANTY!
-This is free software, and you are welcome to redistribute it
-under certain conditions. Look at the file `LICENSE' within this
-distribution.
-Get the newest version at http://wummel.github.io/linkchecker/
-Write comments and bugs to https://github.com/wummel/linkchecker/issues
-Support this project at http://wummel.github.io/linkchecker/donations.html
-
-Start checking at 2015-05-21 15:19:10+002
-
-Statistics:
-Downloaded: 132.96KB.
-Content types: 34 image, 101 text, 0 video, 0 audio, 0 application, 0 mail and 304 other.
-URL lengths: min=29, max=274, avg=76.
-
-That's it. 439 links in 56 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:19:10+002 (0.33 seconds)
-LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
-LinkChecker comes with ABSOLUTELY NO WARRANTY!
-This is free software, and you are welcome to redistribute it
-under certain conditions. Look at the file `LICENSE' within this
-distribution.
-Get the newest version at http://wummel.github.io/linkchecker/
-Write comments and bugs to https://github.com/wummel/linkchecker/issues
-Support this project at http://wummel.github.io/linkchecker/donations.html
-
-Start checking at 2015-05-21 15:19:11+002
-
-Statistics:
-Downloaded: 4KB.
-Content types: 0 image, 1 text, 0 video, 0 audio, 0 application, 0 mail and 13 other.
-URL lengths: min=40, max=113, avg=76.
-
-That's it. 14 links in 1 URL checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:19:11+002 (0.02 seconds)
-LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
-LinkChecker comes with ABSOLUTELY NO WARRANTY!
-This is free software, and you are welcome to redistribute it
-under certain conditions. Look at the file `LICENSE' within this
-distribution.
-Get the newest version at http://wummel.github.io/linkchecker/
-Write comments and bugs to https://github.com/wummel/linkchecker/issues
-Support this project at http://wummel.github.io/linkchecker/donations.html
-
-Start checking at 2015-05-21 15:19:12+002
-
-Statistics:
-Downloaded: 28.49KB.
-Content types: 10 image, 13 text, 0 video, 0 audio, 0 application, 0 mail and 70 other.
-URL lengths: min=39, max=113, avg=78.
-
-That's it. 93 links in 16 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:19:12+002 (0.08 seconds)
-LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
-LinkChecker comes with ABSOLUTELY NO WARRANTY!
-This is free software, and you are welcome to redistribute it
-under certain conditions. Look at the file `LICENSE' within this
-distribution.
-Get the newest version at http://wummel.github.io/linkchecker/
-Write comments and bugs to https://github.com/wummel/linkchecker/issues
-Support this project at http://wummel.github.io/linkchecker/donations.html
-
-Start checking at 2015-05-21 15:19:14+002
-
-Statistics:
-Downloaded: 133.92KB.
-Content types: 39 image, 110 text, 0 video, 0 audio, 0 application, 0 mail and 311 other.
-URL lengths: min=27, max=274, avg=76.
-
-That's it. 460 links in 58 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:19:14+002 (0.33 seconds)
-LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
-LinkChecker comes with ABSOLUTELY NO WARRANTY!
-This is free software, and you are welcome to redistribute it
-under certain conditions. Look at the file `LICENSE' within this
-distribution.
-Get the newest version at http://wummel.github.io/linkchecker/
-Write comments and bugs to https://github.com/wummel/linkchecker/issues
-Support this project at http://wummel.github.io/linkchecker/donations.html
-
-Start checking at 2015-05-21 15:19:15+002
-
-Statistics:
-Downloaded: 132.53KB.
-Content types: 38 image, 113 text, 0 video, 0 audio, 0 application, 0 mail and 306 other.
-URL lengths: min=29, max=274, avg=76.
-
-That's it. 457 links in 58 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:19:15+002 (0.32 seconds)
-LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
-LinkChecker comes with ABSOLUTELY NO WARRANTY!
-This is free software, and you are welcome to redistribute it
-under certain conditions. Look at the file `LICENSE' within this
-distribution.
-Get the newest version at http://wummel.github.io/linkchecker/
-Write comments and bugs to https://github.com/wummel/linkchecker/issues
-Support this project at http://wummel.github.io/linkchecker/donations.html
-
-Start checking at 2015-05-21 15:19:17+002
-
-Statistics:
-Downloaded: 27.19KB.
-Content types: 2 image, 29 text, 0 video, 0 audio, 0 application, 0 mail and 66 other.
-URL lengths: min=37, max=124, avg=76.
-
-That's it. 97 links in 6 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:19:17+002 (0.07 seconds)
-LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
-LinkChecker comes with ABSOLUTELY NO WARRANTY!
-This is free software, and you are welcome to redistribute it
-under certain conditions. Look at the file `LICENSE' within this
-distribution.
-Get the newest version at http://wummel.github.io/linkchecker/
-Write comments and bugs to https://github.com/wummel/linkchecker/issues
-Support this project at http://wummel.github.io/linkchecker/donations.html
-
-Start checking at 2015-05-21 15:19:18+002
-
-Statistics:
-Downloaded: 8KB.
-Content types: 2 image, 7 text, 0 video, 0 audio, 0 application, 0 mail and 25 other.
-URL lengths: min=37, max=95, avg=74.
-
-That's it. 34 links in 4 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:19:18+002 (0.04 seconds)
-LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
-LinkChecker comes with ABSOLUTELY NO WARRANTY!
-This is free software, and you are welcome to redistribute it
-under certain conditions. Look at the file `LICENSE' within this
-distribution.
-Get the newest version at http://wummel.github.io/linkchecker/
-Write comments and bugs to https://github.com/wummel/linkchecker/issues
-Support this project at http://wummel.github.io/linkchecker/donations.html
-
-Start checking at 2015-05-21 15:19:19+002
-
-Statistics:
-Downloaded: 5KB.
-Content types: 0 image, 1 text, 0 video, 0 audio, 0 application, 0 mail and 10 other.
-URL lengths: min=62, max=88, avg=73.
-
-That's it. 11 links in 1 URL checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:19:19+002 (0.02 seconds)
-LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
-LinkChecker comes with ABSOLUTELY NO WARRANTY!
-This is free software, and you are welcome to redistribute it
-under certain conditions. Look at the file `LICENSE' within this
-distribution.
-Get the newest version at http://wummel.github.io/linkchecker/
-Write comments and bugs to https://github.com/wummel/linkchecker/issues
-Support this project at http://wummel.github.io/linkchecker/donations.html
-
-Start checking at 2015-05-21 15:19:20+002
-
-Statistics:
-Downloaded: 5KB.
-Content types: 0 image, 1 text, 0 video, 0 audio, 0 application, 0 mail and 10 other.
-URL lengths: min=42, max=92, avg=73.
-
-That's it. 11 links in 1 URL checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:19:20+002 (0.02 seconds)
-LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
-LinkChecker comes with ABSOLUTELY NO WARRANTY!
-This is free software, and you are welcome to redistribute it
-under certain conditions. Look at the file `LICENSE' within this
-distribution.
-Get the newest version at http://wummel.github.io/linkchecker/
-Write comments and bugs to https://github.com/wummel/linkchecker/issues
-Support this project at http://wummel.github.io/linkchecker/donations.html
-
-Start checking at 2015-05-21 15:19:22+002
+Start checking at 2015-05-21 16:07:31+002
 
 Statistics:
 Downloaded: 122.08KB.
@@ -1191,7 +993,7 @@ Content types: 34 image, 99 text, 0 video, 0 audio, 0 application, 0 mail and 28
 URL lengths: min=29, max=274, avg=76.
 
 That's it. 417 links in 55 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:19:22+002 (0.33 seconds)
+Stopped checking at 2015-05-21 16:07:31+002 (0.33 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -1201,15 +1003,15 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:19:23+002
+Start checking at 2015-05-21 16:07:33+002
 
 Statistics:
-Downloaded: 140.88KB.
-Content types: 34 image, 121 text, 0 video, 0 audio, 0 application, 0 mail and 325 other.
-URL lengths: min=29, max=274, avg=76.
+Downloaded: 4KB.
+Content types: 0 image, 1 text, 0 video, 0 audio, 0 application, 0 mail and 11 other.
+URL lengths: min=40, max=95, avg=66.
 
-That's it. 480 links in 55 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:19:23+002 (0.33 seconds)
+That's it. 12 links in 1 URL checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:07:33+002 (0.02 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -1219,7 +1021,205 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:19:24+002
+Start checking at 2015-05-21 16:07:34+002
+
+Statistics:
+Downloaded: 140.53KB.
+Content types: 36 image, 107 text, 0 video, 0 audio, 0 application, 0 mail and 323 other.
+URL lengths: min=29, max=274, avg=76.
+
+That's it. 466 links in 56 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:07:34+002 (0.37 seconds)
+LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it
+under certain conditions. Look at the file `LICENSE' within this
+distribution.
+Get the newest version at http://wummel.github.io/linkchecker/
+Write comments and bugs to https://github.com/wummel/linkchecker/issues
+Support this project at http://wummel.github.io/linkchecker/donations.html
+
+Start checking at 2015-05-21 16:07:35+002
+
+Statistics:
+Downloaded: 4KB.
+Content types: 0 image, 1 text, 0 video, 0 audio, 0 application, 0 mail and 13 other.
+URL lengths: min=40, max=113, avg=76.
+
+That's it. 14 links in 1 URL checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:07:35+002 (0.02 seconds)
+LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it
+under certain conditions. Look at the file `LICENSE' within this
+distribution.
+Get the newest version at http://wummel.github.io/linkchecker/
+Write comments and bugs to https://github.com/wummel/linkchecker/issues
+Support this project at http://wummel.github.io/linkchecker/donations.html
+
+Start checking at 2015-05-21 16:07:36+002
+
+Statistics:
+Downloaded: 28.49KB.
+Content types: 10 image, 13 text, 0 video, 0 audio, 0 application, 0 mail and 70 other.
+URL lengths: min=39, max=113, avg=78.
+
+That's it. 93 links in 16 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:07:37+002 (0.07 seconds)
+LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it
+under certain conditions. Look at the file `LICENSE' within this
+distribution.
+Get the newest version at http://wummel.github.io/linkchecker/
+Write comments and bugs to https://github.com/wummel/linkchecker/issues
+Support this project at http://wummel.github.io/linkchecker/donations.html
+
+Start checking at 2015-05-21 16:07:38+002
+
+Statistics:
+Downloaded: 133.08KB.
+Content types: 37 image, 105 text, 0 video, 0 audio, 0 application, 0 mail and 311 other.
+URL lengths: min=27, max=274, avg=76.
+
+That's it. 453 links in 58 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:07:38+002 (0.33 seconds)
+LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it
+under certain conditions. Look at the file `LICENSE' within this
+distribution.
+Get the newest version at http://wummel.github.io/linkchecker/
+Write comments and bugs to https://github.com/wummel/linkchecker/issues
+Support this project at http://wummel.github.io/linkchecker/donations.html
+
+Start checking at 2015-05-21 16:07:39+002
+
+Statistics:
+Downloaded: 127.30KB.
+Content types: 36 image, 108 text, 0 video, 0 audio, 0 application, 0 mail and 295 other.
+URL lengths: min=29, max=274, avg=76.
+
+That's it. 439 links in 58 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:07:40+002 (0.33 seconds)
+LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it
+under certain conditions. Look at the file `LICENSE' within this
+distribution.
+Get the newest version at http://wummel.github.io/linkchecker/
+Write comments and bugs to https://github.com/wummel/linkchecker/issues
+Support this project at http://wummel.github.io/linkchecker/donations.html
+
+Start checking at 2015-05-21 16:07:41+002
+
+Statistics:
+Downloaded: 27.19KB.
+Content types: 2 image, 29 text, 0 video, 0 audio, 0 application, 0 mail and 66 other.
+URL lengths: min=37, max=124, avg=76.
+
+That's it. 97 links in 6 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:07:41+002 (0.08 seconds)
+LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it
+under certain conditions. Look at the file `LICENSE' within this
+distribution.
+Get the newest version at http://wummel.github.io/linkchecker/
+Write comments and bugs to https://github.com/wummel/linkchecker/issues
+Support this project at http://wummel.github.io/linkchecker/donations.html
+
+Start checking at 2015-05-21 16:07:42+002
+
+Statistics:
+Downloaded: 8KB.
+Content types: 2 image, 7 text, 0 video, 0 audio, 0 application, 0 mail and 25 other.
+URL lengths: min=37, max=95, avg=74.
+
+That's it. 34 links in 4 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:07:42+002 (0.04 seconds)
+LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it
+under certain conditions. Look at the file `LICENSE' within this
+distribution.
+Get the newest version at http://wummel.github.io/linkchecker/
+Write comments and bugs to https://github.com/wummel/linkchecker/issues
+Support this project at http://wummel.github.io/linkchecker/donations.html
+
+Start checking at 2015-05-21 16:07:43+002
+
+Statistics:
+Downloaded: 5KB.
+Content types: 0 image, 1 text, 0 video, 0 audio, 0 application, 0 mail and 10 other.
+URL lengths: min=62, max=88, avg=73.
+
+That's it. 11 links in 1 URL checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:07:43+002 (0.02 seconds)
+LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it
+under certain conditions. Look at the file `LICENSE' within this
+distribution.
+Get the newest version at http://wummel.github.io/linkchecker/
+Write comments and bugs to https://github.com/wummel/linkchecker/issues
+Support this project at http://wummel.github.io/linkchecker/donations.html
+
+Start checking at 2015-05-21 16:07:44+002
+
+Statistics:
+Downloaded: 5KB.
+Content types: 0 image, 1 text, 0 video, 0 audio, 0 application, 0 mail and 10 other.
+URL lengths: min=42, max=92, avg=73.
+
+That's it. 11 links in 1 URL checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:07:44+002 (0.02 seconds)
+LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it
+under certain conditions. Look at the file `LICENSE' within this
+distribution.
+Get the newest version at http://wummel.github.io/linkchecker/
+Write comments and bugs to https://github.com/wummel/linkchecker/issues
+Support this project at http://wummel.github.io/linkchecker/donations.html
+
+Start checking at 2015-05-21 16:07:46+002
+
+Statistics:
+Downloaded: 127.31KB.
+Content types: 36 image, 104 text, 0 video, 0 audio, 0 application, 0 mail and 295 other.
+URL lengths: min=29, max=274, avg=76.
+
+That's it. 435 links in 55 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:07:46+002 (0.33 seconds)
+LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it
+under certain conditions. Look at the file `LICENSE' within this
+distribution.
+Get the newest version at http://wummel.github.io/linkchecker/
+Write comments and bugs to https://github.com/wummel/linkchecker/issues
+Support this project at http://wummel.github.io/linkchecker/donations.html
+
+Start checking at 2015-05-21 16:07:47+002
+
+Statistics:
+Downloaded: 163.26KB.
+Content types: 38 image, 132 text, 0 video, 0 audio, 0 application, 0 mail and 383 other.
+URL lengths: min=29, max=274, avg=75.
+
+That's it. 553 links in 55 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:07:47+002 (0.38 seconds)
+LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it
+under certain conditions. Look at the file `LICENSE' within this
+distribution.
+Get the newest version at http://wummel.github.io/linkchecker/
+Write comments and bugs to https://github.com/wummel/linkchecker/issues
+Support this project at http://wummel.github.io/linkchecker/donations.html
+
+Start checking at 2015-05-21 16:07:49+002
 
 Statistics:
 Downloaded: 4KB.
@@ -1227,7 +1227,7 @@ Content types: 2 image, 3 text, 0 video, 0 audio, 0 application, 0 mail and 14 o
 URL lengths: min=41, max=101, avg=80.
 
 That's it. 19 links in 3 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:19:25+002 (0.02 seconds)
+Stopped checking at 2015-05-21 16:07:49+002 (0.04 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -1237,7 +1237,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:19:26+002
+Start checking at 2015-05-21 16:07:50+002
 
 Statistics:
 Downloaded: 14.46KB.
@@ -1245,7 +1245,7 @@ Content types: 0 image, 29 text, 0 video, 0 audio, 0 application, 0 mail and 35 
 URL lengths: min=35, max=109, avg=80.
 
 That's it. 64 links in 1 URL checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:19:26+002 (0.08 seconds)
+Stopped checking at 2015-05-21 16:07:50+002 (0.08 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -1255,7 +1255,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:19:27+002
+Start checking at 2015-05-21 16:07:51+002
 
 Statistics:
 Downloaded: 3KB.
@@ -1263,7 +1263,7 @@ Content types: 0 image, 1 text, 0 video, 0 audio, 0 application, 0 mail and 13 o
 URL lengths: min=39, max=89, avg=72.
 
 That's it. 14 links in 1 URL checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:19:27+002 (0.02 seconds)
+Stopped checking at 2015-05-21 16:07:51+002 (0.02 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -1273,7 +1273,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:19:28+002
+Start checking at 2015-05-21 16:07:52+002
 
 Statistics:
 Downloaded: 28.81KB.
@@ -1281,7 +1281,7 @@ Content types: 6 image, 16 text, 0 video, 0 audio, 0 application, 0 mail and 56 
 URL lengths: min=19, max=106, avg=72.
 
 That's it. 78 links in 11 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:19:28+002 (0.08 seconds)
+Stopped checking at 2015-05-21 16:07:52+002 (0.07 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -1291,7 +1291,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:19:29+002
+Start checking at 2015-05-21 16:07:53+002
 
 Statistics:
 Downloaded: 10.76KB.
@@ -1299,7 +1299,7 @@ Content types: 2 image, 2 text, 0 video, 0 audio, 0 application, 0 mail and 20 o
 URL lengths: min=34, max=113, avg=78.
 
 That's it. 24 links in 3 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:19:29+002 (0.04 seconds)
+Stopped checking at 2015-05-21 16:07:53+002 (0.04 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -1309,7 +1309,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:19:31+002
+Start checking at 2015-05-21 16:07:55+002
 
 URL        `../hardware/Xerox_alto.html'
 Name       ` Xerox Alto'
@@ -1350,12 +1350,12 @@ Check time 0.001 seconds
 Result     Error: URLError: <urlopen error [Errno 2] No such file or directory: '/Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip'>
 
 Statistics:
-Downloaded: 107.37KB.
-Content types: 30 image, 100 text, 0 video, 0 audio, 0 application, 0 mail and 228 other.
-URL lengths: min=25, max=131, avg=75.
+Downloaded: 106.80KB.
+Content types: 30 image, 114 text, 0 video, 0 audio, 0 application, 0 mail and 214 other.
+URL lengths: min=25, max=131, avg=76.
 
 That's it. 358 links in 51 URLs checked. 3 warnings found. 1 error found.
-Stopped checking at 2015-05-21 15:19:31+002 (0.28 seconds)
+Stopped checking at 2015-05-21 16:07:55+002 (0.28 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -1365,7 +1365,63 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:19:32+002
+Start checking at 2015-05-21 16:07:56+002
+
+URL        `../hardware/Xerox_alto.html'
+Name       ` Xerox Alto'
+Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/xerox_parc.html, line 55, col 17
+Real URL   file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/hardware/Xerox_alto.html
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Warning    [url-whitespace] Leading or trailing whitespace in URL
+           `../hardware/Xerox_alto.html '.
+Result     Valid: filtered
+
+URL        `http://www.digibarn.com/notice/notice.cc.html'
+Name       ` www.digibarn.com '
+Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/xerox_parc.html, line 103, col 52
+Real URL   http://www.digibarn.com/notice/notice.cc.html
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Warning    [url-whitespace] Leading or trailing whitespace in URL
+           ` http://www.digibarn.com/notice/notice.cc.html'.
+Result     Valid: filtered
+
+URL        `http://en.wikipedia.org/wiki/Xerox_Star#mediaviewer/File:Rank_Xerox_8010%2B40_brochure_front.jpg'
+Name       ` www.wikipedia.com '
+Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/xerox_parc.html, line 105, col 39
+Real URL   http://en.wikipedia.org/wiki/Xerox_Star#mediaviewer/File%3ARank_Xerox_8010%2B40_brochure_front.jpg
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Warning    [url-whitespace] Leading or trailing whitespace in URL
+           `
+           http://en.wikipedia.org/wiki/Xerox_Star#mediaviewer/File:Rank_Xerox_8010%2B40_brochure_front.jpg'.
+Result     Valid: filtered
+
+URL        `tcp_ip'
+Name       `Internet protocols'
+Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/cyclades.html, line 34, col 261
+Real URL   file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip
+Check time 0.001 seconds
+Result     Error: URLError: <urlopen error [Errno 2] No such file or directory: '/Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip'>
+
+Statistics:
+Downloaded: 106.80KB.
+Content types: 30 image, 114 text, 0 video, 0 audio, 0 application, 0 mail and 214 other.
+URL lengths: min=25, max=131, avg=76.
+
+That's it. 358 links in 51 URLs checked. 3 warnings found. 1 error found.
+Stopped checking at 2015-05-21 16:07:56+002 (0.28 seconds)
+LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it
+under certain conditions. Look at the file `LICENSE' within this
+distribution.
+Get the newest version at http://wummel.github.io/linkchecker/
+Write comments and bugs to https://github.com/wummel/linkchecker/issues
+Support this project at http://wummel.github.io/linkchecker/donations.html
+
+Start checking at 2015-05-21 16:07:57+002
 
 URL        `../hardware/Xerox_alto.html'
 Name       ` Xerox Alto'
@@ -1406,12 +1462,12 @@ Check time 0.000 seconds
 Result     Error: URLError: <urlopen error [Errno 2] No such file or directory: '/Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip'>
 
 Statistics:
-Downloaded: 107.37KB.
-Content types: 30 image, 100 text, 0 video, 0 audio, 0 application, 0 mail and 228 other.
-URL lengths: min=25, max=131, avg=75.
+Downloaded: 106.80KB.
+Content types: 30 image, 114 text, 0 video, 0 audio, 0 application, 0 mail and 214 other.
+URL lengths: min=25, max=131, avg=76.
 
 That's it. 358 links in 51 URLs checked. 3 warnings found. 1 error found.
-Stopped checking at 2015-05-21 15:19:32+002 (0.28 seconds)
+Stopped checking at 2015-05-21 16:07:58+002 (0.27 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -1421,71 +1477,15 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:19:33+002
-
-URL        `http://www.digibarn.com/notice/notice.cc.html'
-Name       ` www.digibarn.com '
-Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/xerox_parc.html, line 103, col 52
-Real URL   http://www.digibarn.com/notice/notice.cc.html
-Info       The URL is outside of the domain filter, checked only
-           syntax.
-Warning    [url-whitespace] Leading or trailing whitespace in URL
-           ` http://www.digibarn.com/notice/notice.cc.html'.
-Result     Valid: filtered
-
-URL        `http://en.wikipedia.org/wiki/Xerox_Star#mediaviewer/File:Rank_Xerox_8010%2B40_brochure_front.jpg'
-Name       ` www.wikipedia.com '
-Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/xerox_parc.html, line 105, col 39
-Real URL   http://en.wikipedia.org/wiki/Xerox_Star#mediaviewer/File%3ARank_Xerox_8010%2B40_brochure_front.jpg
-Info       The URL is outside of the domain filter, checked only
-           syntax.
-Warning    [url-whitespace] Leading or trailing whitespace in URL
-           `
-           http://en.wikipedia.org/wiki/Xerox_Star#mediaviewer/File:Rank_Xerox_8010%2B40_brochure_front.jpg'.
-Result     Valid: filtered
-
-URL        `../hardware/Xerox_alto.html'
-Name       ` Xerox Alto'
-Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/xerox_parc.html, line 55, col 17
-Real URL   file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/hardware/Xerox_alto.html
-Info       The URL is outside of the domain filter, checked only
-           syntax.
-Warning    [url-whitespace] Leading or trailing whitespace in URL
-           `../hardware/Xerox_alto.html '.
-Result     Valid: filtered
-
-URL        `tcp_ip'
-Name       `Internet protocols'
-Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/cyclades.html, line 34, col 261
-Real URL   file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip
-Check time 0.001 seconds
-Result     Error: URLError: <urlopen error [Errno 2] No such file or directory: '/Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip'>
+Start checking at 2015-05-21 16:07:59+002
 
 Statistics:
-Downloaded: 115.71KB.
-Content types: 31 image, 107 text, 0 video, 0 audio, 0 application, 0 mail and 241 other.
-URL lengths: min=25, max=131, avg=75.
-
-That's it. 379 links in 51 URLs checked. 3 warnings found. 1 error found.
-Stopped checking at 2015-05-21 15:19:34+002 (0.28 seconds)
-LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
-LinkChecker comes with ABSOLUTELY NO WARRANTY!
-This is free software, and you are welcome to redistribute it
-under certain conditions. Look at the file `LICENSE' within this
-distribution.
-Get the newest version at http://wummel.github.io/linkchecker/
-Write comments and bugs to https://github.com/wummel/linkchecker/issues
-Support this project at http://wummel.github.io/linkchecker/donations.html
-
-Start checking at 2015-05-21 15:19:35+002
-
-Statistics:
-Downloaded: 4KB.
-Content types: 1 image, 3 text, 0 video, 0 audio, 0 application, 0 mail and 9 other.
+Downloaded: 7KB.
+Content types: 1 image, 4 text, 0 video, 0 audio, 0 application, 0 mail and 16 other.
 URL lengths: min=52, max=97, avg=77.
 
-That's it. 13 links in 2 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:19:35+002 (0.02 seconds)
+That's it. 21 links in 3 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:07:59+002 (0.04 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -1495,13 +1495,13 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:19:36+002
+Start checking at 2015-05-21 16:08:00+002
 
 URL        `tcp_ip'
 Name       `Internet protocols'
 Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/cyclades.html, line 34, col 261
 Real URL   file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip
-Check time 0.001 seconds
+Check time 0.000 seconds
 Result     Error: URLError: <urlopen error [Errno 2] No such file or directory: '/Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip'>
 
 URL        `../hardware/Xerox_alto.html'
@@ -1512,6 +1512,16 @@ Info       The URL is outside of the domain filter, checked only
            syntax.
 Warning    [url-whitespace] Leading or trailing whitespace in URL
            `../hardware/Xerox_alto.html '.
+Result     Valid: filtered
+
+URL        `http://www.digibarn.com/notice/notice.cc.html'
+Name       ` www.digibarn.com '
+Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/xerox_parc.html, line 103, col 52
+Real URL   http://www.digibarn.com/notice/notice.cc.html
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Warning    [url-whitespace] Leading or trailing whitespace in URL
+           ` http://www.digibarn.com/notice/notice.cc.html'.
 Result     Valid: filtered
 
 URL        `http://en.wikipedia.org/wiki/Xerox_Star#mediaviewer/File:Rank_Xerox_8010%2B40_brochure_front.jpg'
@@ -1525,23 +1535,13 @@ Warning    [url-whitespace] Leading or trailing whitespace in URL
            http://en.wikipedia.org/wiki/Xerox_Star#mediaviewer/File:Rank_Xerox_8010%2B40_brochure_front.jpg'.
 Result     Valid: filtered
 
-URL        `http://www.digibarn.com/notice/notice.cc.html'
-Name       ` www.digibarn.com '
-Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/xerox_parc.html, line 103, col 52
-Real URL   http://www.digibarn.com/notice/notice.cc.html
-Info       The URL is outside of the domain filter, checked only
-           syntax.
-Warning    [url-whitespace] Leading or trailing whitespace in URL
-           ` http://www.digibarn.com/notice/notice.cc.html'.
-Result     Valid: filtered
-
 Statistics:
-Downloaded: 107.37KB.
-Content types: 30 image, 100 text, 0 video, 0 audio, 0 application, 0 mail and 228 other.
-URL lengths: min=25, max=131, avg=75.
+Downloaded: 106.80KB.
+Content types: 30 image, 114 text, 0 video, 0 audio, 0 application, 0 mail and 214 other.
+URL lengths: min=25, max=131, avg=76.
 
 That's it. 358 links in 51 URLs checked. 3 warnings found. 1 error found.
-Stopped checking at 2015-05-21 15:19:36+002 (0.28 seconds)
+Stopped checking at 2015-05-21 16:08:00+002 (0.28 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -1551,7 +1551,14 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:19:37+002
+Start checking at 2015-05-21 16:08:02+002
+
+URL        `tcp_ip'
+Name       `Internet protocols'
+Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/cyclades.html, line 34, col 261
+Real URL   file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip
+Check time 0.001 seconds
+Result     Error: URLError: <urlopen error [Errno 2] No such file or directory: '/Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip'>
 
 URL        `tcp_ip'
 Name       `Internet protocols'
@@ -1592,12 +1599,12 @@ Warning    [url-whitespace] Leading or trailing whitespace in URL
 Result     Valid: filtered
 
 Statistics:
-Downloaded: 110.99KB.
-Content types: 32 image, 103 text, 0 video, 0 audio, 0 application, 0 mail and 240 other.
+Downloaded: 148.29KB.
+Content types: 41 image, 171 text, 0 video, 0 audio, 0 application, 0 mail and 303 other.
 URL lengths: min=25, max=131, avg=75.
 
-That's it. 375 links in 54 URLs checked. 3 warnings found. 1 error found.
-Stopped checking at 2015-05-21 15:19:38+002 (0.28 seconds)
+That's it. 515 links in 54 URLs checked. 3 warnings found. 2 errors found.
+Stopped checking at 2015-05-21 16:08:02+002 (0.39 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -1607,7 +1614,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:19:39+002
+Start checking at 2015-05-21 16:08:03+002
 
 URL        `tcp_ip'
 Name       `Internet protocols'
@@ -1648,12 +1655,12 @@ Warning    [url-whitespace] Leading or trailing whitespace in URL
 Result     Valid: filtered
 
 Statistics:
-Downloaded: 107.37KB.
-Content types: 30 image, 100 text, 0 video, 0 audio, 0 application, 0 mail and 228 other.
-URL lengths: min=25, max=131, avg=75.
+Downloaded: 106.80KB.
+Content types: 30 image, 114 text, 0 video, 0 audio, 0 application, 0 mail and 214 other.
+URL lengths: min=25, max=131, avg=76.
 
 That's it. 358 links in 51 URLs checked. 3 warnings found. 1 error found.
-Stopped checking at 2015-05-21 15:19:39+002 (0.28 seconds)
+Stopped checking at 2015-05-21 16:08:03+002 (0.29 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -1663,7 +1670,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:19:40+002
+Start checking at 2015-05-21 16:08:05+002
 
 URL        `../hardware/Xerox_alto.html'
 Name       ` Xerox Alto'
@@ -1703,20 +1710,13 @@ Real URL   file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/inte
 Check time 0.001 seconds
 Result     Error: URLError: <urlopen error [Errno 2] No such file or directory: '/Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip'>
 
-URL        `tcp_ip'
-Name       `Internet protocols'
-Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/cyclades.html, line 34, col 261
-Real URL   file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip
-Check time 0.001 seconds
-Result     Error: URLError: <urlopen error [Errno 2] No such file or directory: '/Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip'>
-
 Statistics:
-Downloaded: 155.83KB.
-Content types: 40 image, 150 text, 0 video, 0 audio, 0 application, 0 mail and 331 other.
+Downloaded: 136.83KB.
+Content types: 37 image, 148 text, 0 video, 0 audio, 0 application, 0 mail and 269 other.
 URL lengths: min=25, max=131, avg=75.
 
-That's it. 521 links in 57 URLs checked. 3 warnings found. 2 errors found.
-Stopped checking at 2015-05-21 15:19:41+002 (0.38 seconds)
+That's it. 454 links in 57 URLs checked. 3 warnings found. 1 error found.
+Stopped checking at 2015-05-21 16:08:05+002 (0.33 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -1726,7 +1726,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:19:42+002
+Start checking at 2015-05-21 16:08:06+002
 
 URL        `tcp_ip'
 Name       `Internet protocols'
@@ -1767,12 +1767,12 @@ Warning    [url-whitespace] Leading or trailing whitespace in URL
 Result     Valid: filtered
 
 Statistics:
-Downloaded: 107.37KB.
-Content types: 30 image, 100 text, 0 video, 0 audio, 0 application, 0 mail and 228 other.
-URL lengths: min=25, max=131, avg=75.
+Downloaded: 106.80KB.
+Content types: 30 image, 114 text, 0 video, 0 audio, 0 application, 0 mail and 214 other.
+URL lengths: min=25, max=131, avg=76.
 
 That's it. 358 links in 51 URLs checked. 3 warnings found. 1 error found.
-Stopped checking at 2015-05-21 15:19:42+002 (0.28 seconds)
+Stopped checking at 2015-05-21 16:08:06+002 (0.27 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -1782,7 +1782,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:19:43+002
+Start checking at 2015-05-21 16:08:07+002
 
 URL        `../hardware/Xerox_alto.html'
 Name       ` Xerox Alto'
@@ -1823,12 +1823,12 @@ Check time 0.001 seconds
 Result     Error: URLError: <urlopen error [Errno 2] No such file or directory: '/Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip'>
 
 Statistics:
-Downloaded: 107.37KB.
-Content types: 30 image, 100 text, 0 video, 0 audio, 0 application, 0 mail and 228 other.
-URL lengths: min=25, max=131, avg=75.
+Downloaded: 106.80KB.
+Content types: 30 image, 114 text, 0 video, 0 audio, 0 application, 0 mail and 214 other.
+URL lengths: min=25, max=131, avg=76.
 
 That's it. 358 links in 51 URLs checked. 3 warnings found. 1 error found.
-Stopped checking at 2015-05-21 15:19:44+002 (0.33 seconds)
+Stopped checking at 2015-05-21 16:08:08+002 (0.27 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -1838,15 +1838,15 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:19:45+002
+Start checking at 2015-05-21 16:08:09+002
 
 Statistics:
-Downloaded: 5KB.
-Content types: 1 image, 4 text, 0 video, 0 audio, 0 application, 0 mail and 11 other.
-URL lengths: min=33, max=88, avg=70.
+Downloaded: 8KB.
+Content types: 1 image, 5 text, 0 video, 0 audio, 0 application, 0 mail and 18 other.
+URL lengths: min=33, max=88, avg=73.
 
-That's it. 16 links in 2 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:19:45+002 (0.02 seconds)
+That's it. 24 links in 3 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:08:09+002 (0.04 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -1856,7 +1856,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:19:46+002
+Start checking at 2015-05-21 16:08:10+002
 
 URL        `tcp_ip'
 Name       `Internet protocols'
@@ -1897,12 +1897,12 @@ Warning    [url-whitespace] Leading or trailing whitespace in URL
 Result     Valid: filtered
 
 Statistics:
-Downloaded: 128.38KB.
-Content types: 36 image, 129 text, 0 video, 0 audio, 0 application, 0 mail and 269 other.
-URL lengths: min=25, max=131, avg=75.
+Downloaded: 136.02KB.
+Content types: 37 image, 153 text, 0 video, 0 audio, 0 application, 0 mail and 265 other.
+URL lengths: min=25, max=131, avg=76.
 
-That's it. 434 links in 60 URLs checked. 3 warnings found. 1 error found.
-Stopped checking at 2015-05-21 15:19:46+002 (0.33 seconds)
+That's it. 455 links in 60 URLs checked. 3 warnings found. 1 error found.
+Stopped checking at 2015-05-21 16:08:10+002 (0.32 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -1912,15 +1912,15 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:19:48+002
+Start checking at 2015-05-21 16:08:12+002
 
 Statistics:
-Downloaded: 10.77KB.
-Content types: 0 image, 2 text, 0 video, 0 audio, 0 application, 0 mail and 8 other.
+Downloaded: 13.07KB.
+Content types: 0 image, 3 text, 0 video, 0 audio, 0 application, 0 mail and 15 other.
 URL lengths: min=52, max=108, avg=79.
 
-That's it. 10 links in 1 URL checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:19:48+002 (0.02 seconds)
+That's it. 18 links in 2 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:08:12+002 (0.02 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -1930,7 +1930,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:19:49+002
+Start checking at 2015-05-21 16:08:13+002
 
 URL        `tcp_ip'
 Name       `Internet protocols'
@@ -1949,6 +1949,16 @@ Warning    [url-whitespace] Leading or trailing whitespace in URL
            `../hardware/Xerox_alto.html '.
 Result     Valid: filtered
 
+URL        `http://www.digibarn.com/notice/notice.cc.html'
+Name       ` www.digibarn.com '
+Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/xerox_parc.html, line 103, col 52
+Real URL   http://www.digibarn.com/notice/notice.cc.html
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Warning    [url-whitespace] Leading or trailing whitespace in URL
+           ` http://www.digibarn.com/notice/notice.cc.html'.
+Result     Valid: filtered
+
 URL        `http://en.wikipedia.org/wiki/Xerox_Star#mediaviewer/File:Rank_Xerox_8010%2B40_brochure_front.jpg'
 Name       ` www.wikipedia.com '
 Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/xerox_parc.html, line 105, col 39
@@ -1960,23 +1970,13 @@ Warning    [url-whitespace] Leading or trailing whitespace in URL
            http://en.wikipedia.org/wiki/Xerox_Star#mediaviewer/File:Rank_Xerox_8010%2B40_brochure_front.jpg'.
 Result     Valid: filtered
 
-URL        `http://www.digibarn.com/notice/notice.cc.html'
-Name       ` www.digibarn.com '
-Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/xerox_parc.html, line 103, col 52
-Real URL   http://www.digibarn.com/notice/notice.cc.html
-Info       The URL is outside of the domain filter, checked only
-           syntax.
-Warning    [url-whitespace] Leading or trailing whitespace in URL
-           ` http://www.digibarn.com/notice/notice.cc.html'.
-Result     Valid: filtered
-
 Statistics:
-Downloaded: 107.37KB.
-Content types: 30 image, 100 text, 0 video, 0 audio, 0 application, 0 mail and 228 other.
+Downloaded: 136.52KB.
+Content types: 39 image, 140 text, 0 video, 0 audio, 0 application, 0 mail and 271 other.
 URL lengths: min=25, max=131, avg=75.
 
-That's it. 358 links in 51 URLs checked. 3 warnings found. 1 error found.
-Stopped checking at 2015-05-21 15:19:49+002 (0.28 seconds)
+That's it. 450 links in 51 URLs checked. 3 warnings found. 1 error found.
+Stopped checking at 2015-05-21 16:08:13+002 (0.33 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -1986,22 +1986,22 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:19:50+002
+Start checking at 2015-05-21 16:08:14+002
 
 URL        `tcp_ip'
 Name       `Protocol'
 Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/ietf.html, line 48, col 12
 Real URL   file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip
-Check time 0.001 seconds
+Check time 0.000 seconds
 Result     Error: URLError: <urlopen error [Errno 2] No such file or directory: '/Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip'>
 
 Statistics:
-Downloaded: 7KB.
-Content types: 1 image, 8 text, 0 video, 0 audio, 0 application, 0 mail and 23 other.
-URL lengths: min=18, max=94, avg=69.
+Downloaded: 10.25KB.
+Content types: 1 image, 9 text, 0 video, 0 audio, 0 application, 0 mail and 30 other.
+URL lengths: min=18, max=94, avg=71.
 
-That's it. 32 links in 4 URLs checked. 0 warnings found. 1 error found.
-Stopped checking at 2015-05-21 15:19:50+002 (0.04 seconds)
+That's it. 40 links in 4 URLs checked. 0 warnings found. 1 error found.
+Stopped checking at 2015-05-21 16:08:14+002 (0.04 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -2011,7 +2011,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:19:51+002
+Start checking at 2015-05-21 16:08:16+002
 
 Statistics:
 Downloaded: 0B.
@@ -2019,7 +2019,7 @@ Content types: 1 image, 0 text, 0 video, 0 audio, 0 application, 0 mail and 0 ot
 URL lengths: min=89, max=89, avg=89.
 
 That's it. 1 link in 1 URL checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:19:51+002 (0.01 seconds)
+Stopped checking at 2015-05-21 16:08:16+002 (0.01 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -2029,7 +2029,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:19:53+002
+Start checking at 2015-05-21 16:08:17+002
 
 Statistics:
 Downloaded: 0B.
@@ -2037,7 +2037,7 @@ Content types: 1 image, 0 text, 0 video, 0 audio, 0 application, 0 mail and 0 ot
 URL lengths: min=94, max=94, avg=94.
 
 That's it. 1 link in 1 URL checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:19:53+002 (0.01 seconds)
+Stopped checking at 2015-05-21 16:08:17+002 (0.02 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -2047,7 +2047,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:19:54+002
+Start checking at 2015-05-21 16:08:18+002
 
 Statistics:
 Downloaded: 2KB.
@@ -2055,7 +2055,7 @@ Content types: 0 image, 1 text, 0 video, 0 audio, 0 application, 0 mail and 8 ot
 URL lengths: min=67, max=88, avg=78.
 
 That's it. 9 links in 1 URL checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:19:54+002 (0.02 seconds)
+Stopped checking at 2015-05-21 16:08:18+002 (0.02 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -2065,7 +2065,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:19:55+002
+Start checking at 2015-05-21 16:08:19+002
 
 Statistics:
 Downloaded: 3KB.
@@ -2073,7 +2073,7 @@ Content types: 0 image, 1 text, 0 video, 0 audio, 0 application, 0 mail and 7 ot
 URL lengths: min=67, max=82, avg=76.
 
 That's it. 8 links in 1 URL checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:19:55+002 (0.02 seconds)
+Stopped checking at 2015-05-21 16:08:19+002 (0.02 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -2083,15 +2083,15 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:19:56+002
+Start checking at 2015-05-21 16:08:20+002
 
 Statistics:
-Downloaded: 5KB.
-Content types: 1 image, 4 text, 0 video, 0 audio, 0 application, 0 mail and 10 other.
-URL lengths: min=39, max=105, avg=78.
+Downloaded: 7KB.
+Content types: 1 image, 5 text, 0 video, 0 audio, 0 application, 0 mail and 17 other.
+URL lengths: min=39, max=105, avg=79.
 
-That's it. 15 links in 2 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:19:56+002 (0.02 seconds)
+That's it. 23 links in 3 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:08:20+002 (0.04 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -2101,7 +2101,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:19:57+002
+Start checking at 2015-05-21 16:08:22+002
 
 Statistics:
 Downloaded: 5KB.
@@ -2109,7 +2109,7 @@ Content types: 1 image, 3 text, 0 video, 0 audio, 0 application, 0 mail and 10 o
 URL lengths: min=47, max=94, avg=75.
 
 That's it. 14 links in 2 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:19:57+002 (0.02 seconds)
+Stopped checking at 2015-05-21 16:08:22+002 (0.02 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -2119,7 +2119,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:19:59+002
+Start checking at 2015-05-21 16:08:23+002
 
 URL        `../hardware/Xerox_alto.html'
 Name       ` Xerox Alto'
@@ -2160,12 +2160,12 @@ Check time 0.001 seconds
 Result     Error: URLError: <urlopen error [Errno 2] No such file or directory: '/Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip'>
 
 Statistics:
-Downloaded: 114.29KB.
-Content types: 32 image, 107 text, 0 video, 0 audio, 0 application, 0 mail and 240 other.
-URL lengths: min=25, max=131, avg=75.
+Downloaded: 113.71KB.
+Content types: 32 image, 121 text, 0 video, 0 audio, 0 application, 0 mail and 226 other.
+URL lengths: min=25, max=131, avg=76.
 
 That's it. 379 links in 54 URLs checked. 3 warnings found. 1 error found.
-Stopped checking at 2015-05-21 15:19:59+002 (0.27 seconds)
+Stopped checking at 2015-05-21 16:08:23+002 (0.28 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -2175,7 +2175,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:00+002
+Start checking at 2015-05-21 16:08:24+002
 
 URL        `tcp_ip'
 Name       `Internet protocols'
@@ -2216,12 +2216,12 @@ Warning    [url-whitespace] Leading or trailing whitespace in URL
 Result     Valid: filtered
 
 Statistics:
-Downloaded: 117.40KB.
-Content types: 32 image, 106 text, 0 video, 0 audio, 0 application, 0 mail and 248 other.
-URL lengths: min=25, max=131, avg=75.
+Downloaded: 111.78KB.
+Content types: 31 image, 118 text, 0 video, 0 audio, 0 application, 0 mail and 223 other.
+URL lengths: min=25, max=131, avg=76.
 
-That's it. 386 links in 51 URLs checked. 3 warnings found. 1 error found.
-Stopped checking at 2015-05-21 15:20:00+002 (0.28 seconds)
+That's it. 372 links in 51 URLs checked. 3 warnings found. 1 error found.
+Stopped checking at 2015-05-21 16:08:24+002 (0.28 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -2231,7 +2231,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:02+002
+Start checking at 2015-05-21 16:08:26+002
 
 URL        `../hardware/Xerox_alto.html'
 Name       ` Xerox Alto'
@@ -2272,12 +2272,12 @@ Check time 0.001 seconds
 Result     Error: URLError: <urlopen error [Errno 2] No such file or directory: '/Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip'>
 
 Statistics:
-Downloaded: 116.37KB.
-Content types: 33 image, 105 text, 0 video, 0 audio, 0 application, 0 mail and 245 other.
+Downloaded: 115.79KB.
+Content types: 33 image, 119 text, 0 video, 0 audio, 0 application, 0 mail and 231 other.
 URL lengths: min=25, max=131, avg=75.
 
 That's it. 383 links in 52 URLs checked. 3 warnings found. 1 error found.
-Stopped checking at 2015-05-21 15:20:02+002 (0.28 seconds)
+Stopped checking at 2015-05-21 16:08:26+002 (0.28 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -2287,7 +2287,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:03+002
+Start checking at 2015-05-21 16:08:27+002
 
 URL        `../hardware/Xerox_alto.html'
 Name       ` Xerox Alto'
@@ -2298,6 +2298,13 @@ Info       The URL is outside of the domain filter, checked only
 Warning    [url-whitespace] Leading or trailing whitespace in URL
            `../hardware/Xerox_alto.html '.
 Result     Valid: filtered
+
+URL        `tcp_ip'
+Name       `Internet protocols'
+Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/cyclades.html, line 34, col 261
+Real URL   file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip
+Check time 0.001 seconds
+Result     Error: URLError: <urlopen error [Errno 2] No such file or directory: '/Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip'>
 
 URL        `http://www.digibarn.com/notice/notice.cc.html'
 Name       ` www.digibarn.com '
@@ -2320,27 +2327,13 @@ Warning    [url-whitespace] Leading or trailing whitespace in URL
            http://en.wikipedia.org/wiki/Xerox_Star#mediaviewer/File:Rank_Xerox_8010%2B40_brochure_front.jpg'.
 Result     Valid: filtered
 
-URL        `tcp_ip'
-Name       `Internet protocols'
-Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/cyclades.html, line 34, col 261
-Real URL   file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip
-Check time 0.001 seconds
-Result     Error: URLError: <urlopen error [Errno 2] No such file or directory: '/Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip'>
-
-URL        `tcp_ip'
-Name       `Internet protocols'
-Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/cyclades.html, line 34, col 261
-Real URL   file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip
-Check time 0.001 seconds
-Result     Error: URLError: <urlopen error [Errno 2] No such file or directory: '/Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip'>
-
 Statistics:
-Downloaded: 135.45KB.
-Content types: 34 image, 132 text, 0 video, 0 audio, 0 application, 0 mail and 290 other.
+Downloaded: 114.35KB.
+Content types: 31 image, 124 text, 0 video, 0 audio, 0 application, 0 mail and 235 other.
 URL lengths: min=25, max=131, avg=75.
 
-That's it. 456 links in 51 URLs checked. 3 warnings found. 2 errors found.
-Stopped checking at 2015-05-21 15:20:03+002 (0.39 seconds)
+That's it. 390 links in 51 URLs checked. 3 warnings found. 1 error found.
+Stopped checking at 2015-05-21 16:08:27+002 (0.28 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -2350,7 +2343,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:04+002
+Start checking at 2015-05-21 16:08:29+002
 
 Statistics:
 Downloaded: 3KB.
@@ -2358,7 +2351,7 @@ Content types: 0 image, 3 text, 0 video, 0 audio, 0 application, 0 mail and 8 ot
 URL lengths: min=47, max=86, avg=74.
 
 That's it. 11 links in 1 URL checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:20:05+002 (0.02 seconds)
+Stopped checking at 2015-05-21 16:08:29+002 (0.02 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -2368,13 +2361,13 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:06+002
+Start checking at 2015-05-21 16:08:30+002
 
 URL        `tcp_ip'
 Name       `Internet protocols'
 Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/cyclades.html, line 34, col 261
 Real URL   file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip
-Check time 0.002 seconds
+Check time 0.001 seconds
 Result     Error: URLError: <urlopen error [Errno 2] No such file or directory: '/Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip'>
 
 URL        `../hardware/Xerox_alto.html'
@@ -2409,12 +2402,12 @@ Warning    [url-whitespace] Leading or trailing whitespace in URL
 Result     Valid: filtered
 
 Statistics:
-Downloaded: 107.37KB.
-Content types: 30 image, 100 text, 0 video, 0 audio, 0 application, 0 mail and 228 other.
-URL lengths: min=25, max=131, avg=75.
+Downloaded: 109.13KB.
+Content types: 30 image, 114 text, 0 video, 0 audio, 0 application, 0 mail and 222 other.
+URL lengths: min=25, max=131, avg=76.
 
-That's it. 358 links in 51 URLs checked. 3 warnings found. 1 error found.
-Stopped checking at 2015-05-21 15:20:06+002 (0.39 seconds)
+That's it. 366 links in 51 URLs checked. 3 warnings found. 1 error found.
+Stopped checking at 2015-05-21 16:08:30+002 (0.28 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -2424,7 +2417,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:07+002
+Start checking at 2015-05-21 16:08:31+002
 
 Statistics:
 Downloaded: 4KB.
@@ -2432,7 +2425,7 @@ Content types: 1 image, 3 text, 0 video, 0 audio, 0 application, 0 mail and 8 ot
 URL lengths: min=34, max=124, avg=75.
 
 That's it. 12 links in 2 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:20:07+002 (0.02 seconds)
+Stopped checking at 2015-05-21 16:08:31+002 (0.02 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -2442,7 +2435,150 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:09+002
+Start checking at 2015-05-21 16:08:32+002
+
+URL        `tcp_ip'
+Name       `Internet protocols'
+Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/cyclades.html, line 34, col 261
+Real URL   file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip
+Check time 0.001 seconds
+Result     Error: URLError: <urlopen error [Errno 2] No such file or directory: '/Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip'>
+
+URL        `http://www.digibarn.com/notice/notice.cc.html'
+Name       ` www.digibarn.com '
+Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/xerox_parc.html, line 103, col 52
+Real URL   http://www.digibarn.com/notice/notice.cc.html
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Warning    [url-whitespace] Leading or trailing whitespace in URL
+           ` http://www.digibarn.com/notice/notice.cc.html'.
+Result     Valid: filtered
+
+URL        `http://en.wikipedia.org/wiki/Xerox_Star#mediaviewer/File:Rank_Xerox_8010%2B40_brochure_front.jpg'
+Name       ` www.wikipedia.com '
+Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/xerox_parc.html, line 105, col 39
+Real URL   http://en.wikipedia.org/wiki/Xerox_Star#mediaviewer/File%3ARank_Xerox_8010%2B40_brochure_front.jpg
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Warning    [url-whitespace] Leading or trailing whitespace in URL
+           `
+           http://en.wikipedia.org/wiki/Xerox_Star#mediaviewer/File:Rank_Xerox_8010%2B40_brochure_front.jpg'.
+Result     Valid: filtered
+
+URL        `http://en.wikipedia.org/wiki/Xerox_Star#mediaviewer/File:Rank_Xerox_8010%2B40_brochure_front.jpg'
+Name       ` www.wikipedia.com '
+Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/xerox_parc.html, line 105, col 39
+Real URL   http://en.wikipedia.org/wiki/Xerox_Star#mediaviewer/File%3ARank_Xerox_8010%2B40_brochure_front.jpg
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Warning    [url-whitespace] Leading or trailing whitespace in URL
+           `
+           http://en.wikipedia.org/wiki/Xerox_Star#mediaviewer/File:Rank_Xerox_8010%2B40_brochure_front.jpg'.
+Result     Valid: filtered
+
+URL        `http://www.digibarn.com/notice/notice.cc.html'
+Name       ` www.digibarn.com '
+Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/xerox_parc.html, line 103, col 52
+Real URL   http://www.digibarn.com/notice/notice.cc.html
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Warning    [url-whitespace] Leading or trailing whitespace in URL
+           ` http://www.digibarn.com/notice/notice.cc.html'.
+Result     Valid: filtered
+
+URL        `../hardware/Xerox_alto.html'
+Name       ` Xerox Alto'
+Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/xerox_parc.html, line 55, col 17
+Real URL   file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/hardware/Xerox_alto.html
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Warning    [url-whitespace] Leading or trailing whitespace in URL
+           `../hardware/Xerox_alto.html '.
+Result     Valid: filtered
+
+URL        `../hardware/Xerox_alto.html'
+Name       ` Xerox Alto'
+Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/xerox_parc.html, line 55, col 17
+Real URL   file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/hardware/Xerox_alto.html
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Warning    [url-whitespace] Leading or trailing whitespace in URL
+           `../hardware/Xerox_alto.html '.
+Result     Valid: filtered
+
+Statistics:
+Downloaded: 144.64KB.
+Content types: 43 image, 146 text, 0 video, 0 audio, 0 application, 0 mail and 282 other.
+URL lengths: min=25, max=131, avg=75.
+
+That's it. 471 links in 51 URLs checked. 6 warnings found. 1 error found.
+Stopped checking at 2015-05-21 16:08:33+002 (0.33 seconds)
+LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it
+under certain conditions. Look at the file `LICENSE' within this
+distribution.
+Get the newest version at http://wummel.github.io/linkchecker/
+Write comments and bugs to https://github.com/wummel/linkchecker/issues
+Support this project at http://wummel.github.io/linkchecker/donations.html
+
+Start checking at 2015-05-21 16:08:34+002
+
+URL        `tcp_ip'
+Name       `Internet protocols'
+Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/cyclades.html, line 34, col 261
+Real URL   file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip
+Check time 0.000 seconds
+Result     Error: URLError: <urlopen error [Errno 2] No such file or directory: '/Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip'>
+
+URL        `../hardware/Xerox_alto.html'
+Name       ` Xerox Alto'
+Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/xerox_parc.html, line 55, col 17
+Real URL   file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/hardware/Xerox_alto.html
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Warning    [url-whitespace] Leading or trailing whitespace in URL
+           `../hardware/Xerox_alto.html '.
+Result     Valid: filtered
+
+URL        `http://en.wikipedia.org/wiki/Xerox_Star#mediaviewer/File:Rank_Xerox_8010%2B40_brochure_front.jpg'
+Name       ` www.wikipedia.com '
+Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/xerox_parc.html, line 105, col 39
+Real URL   http://en.wikipedia.org/wiki/Xerox_Star#mediaviewer/File%3ARank_Xerox_8010%2B40_brochure_front.jpg
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Warning    [url-whitespace] Leading or trailing whitespace in URL
+           `
+           http://en.wikipedia.org/wiki/Xerox_Star#mediaviewer/File:Rank_Xerox_8010%2B40_brochure_front.jpg'.
+Result     Valid: filtered
+
+URL        `http://www.digibarn.com/notice/notice.cc.html'
+Name       ` www.digibarn.com '
+Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/xerox_parc.html, line 103, col 52
+Real URL   http://www.digibarn.com/notice/notice.cc.html
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Warning    [url-whitespace] Leading or trailing whitespace in URL
+           ` http://www.digibarn.com/notice/notice.cc.html'.
+Result     Valid: filtered
+
+Statistics:
+Downloaded: 111.46KB.
+Content types: 31 image, 121 text, 0 video, 0 audio, 0 application, 0 mail and 227 other.
+URL lengths: min=25, max=131, avg=75.
+
+That's it. 379 links in 53 URLs checked. 3 warnings found. 1 error found.
+Stopped checking at 2015-05-21 16:08:34+002 (0.27 seconds)
+LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it
+under certain conditions. Look at the file `LICENSE' within this
+distribution.
+Get the newest version at http://wummel.github.io/linkchecker/
+Write comments and bugs to https://github.com/wummel/linkchecker/issues
+Support this project at http://wummel.github.io/linkchecker/donations.html
+
+Start checking at 2015-05-21 16:08:35+002
 
 URL        `tcp_ip'
 Name       `Internet protocols'
@@ -2483,131 +2619,12 @@ Warning    [url-whitespace] Leading or trailing whitespace in URL
 Result     Valid: filtered
 
 Statistics:
-Downloaded: 112.98KB.
-Content types: 31 image, 105 text, 0 video, 0 audio, 0 application, 0 mail and 236 other.
-URL lengths: min=25, max=131, avg=75.
-
-That's it. 372 links in 51 URLs checked. 3 warnings found. 1 error found.
-Stopped checking at 2015-05-21 15:20:09+002 (0.39 seconds)
-LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
-LinkChecker comes with ABSOLUTELY NO WARRANTY!
-This is free software, and you are welcome to redistribute it
-under certain conditions. Look at the file `LICENSE' within this
-distribution.
-Get the newest version at http://wummel.github.io/linkchecker/
-Write comments and bugs to https://github.com/wummel/linkchecker/issues
-Support this project at http://wummel.github.io/linkchecker/donations.html
-
-Start checking at 2015-05-21 15:20:10+002
-
-URL        `tcp_ip'
-Name       `Internet protocols'
-Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/cyclades.html, line 34, col 261
-Real URL   file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip
-Check time 0.002 seconds
-Result     Error: URLError: <urlopen error [Errno 2] No such file or directory: '/Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip'>
-
-URL        `tcp_ip'
-Name       `Internet protocols'
-Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/cyclades.html, line 34, col 261
-Real URL   file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip
-Check time 0.002 seconds
-Result     Error: URLError: <urlopen error [Errno 2] No such file or directory: '/Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip'>
-
-URL        `../hardware/Xerox_alto.html'
-Name       ` Xerox Alto'
-Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/xerox_parc.html, line 55, col 17
-Real URL   file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/hardware/Xerox_alto.html
-Info       The URL is outside of the domain filter, checked only
-           syntax.
-Warning    [url-whitespace] Leading or trailing whitespace in URL
-           `../hardware/Xerox_alto.html '.
-Result     Valid: filtered
-
-URL        `http://www.digibarn.com/notice/notice.cc.html'
-Name       ` www.digibarn.com '
-Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/xerox_parc.html, line 103, col 52
-Real URL   http://www.digibarn.com/notice/notice.cc.html
-Info       The URL is outside of the domain filter, checked only
-           syntax.
-Warning    [url-whitespace] Leading or trailing whitespace in URL
-           ` http://www.digibarn.com/notice/notice.cc.html'.
-Result     Valid: filtered
-
-URL        `http://en.wikipedia.org/wiki/Xerox_Star#mediaviewer/File:Rank_Xerox_8010%2B40_brochure_front.jpg'
-Name       ` www.wikipedia.com '
-Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/xerox_parc.html, line 105, col 39
-Real URL   http://en.wikipedia.org/wiki/Xerox_Star#mediaviewer/File%3ARank_Xerox_8010%2B40_brochure_front.jpg
-Info       The URL is outside of the domain filter, checked only
-           syntax.
-Warning    [url-whitespace] Leading or trailing whitespace in URL
-           `
-           http://en.wikipedia.org/wiki/Xerox_Star#mediaviewer/File:Rank_Xerox_8010%2B40_brochure_front.jpg'.
-Result     Valid: filtered
-
-Statistics:
-Downloaded: 229.78KB.
-Content types: 52 image, 233 text, 0 video, 0 audio, 0 application, 0 mail and 484 other.
-URL lengths: min=25, max=131, avg=74.
-
-That's it. 769 links in 53 URLs checked. 3 warnings found. 2 errors found.
-Stopped checking at 2015-05-21 15:20:11+002 (0.58 seconds)
-LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
-LinkChecker comes with ABSOLUTELY NO WARRANTY!
-This is free software, and you are welcome to redistribute it
-under certain conditions. Look at the file `LICENSE' within this
-distribution.
-Get the newest version at http://wummel.github.io/linkchecker/
-Write comments and bugs to https://github.com/wummel/linkchecker/issues
-Support this project at http://wummel.github.io/linkchecker/donations.html
-
-Start checking at 2015-05-21 15:20:12+002
-
-URL        `tcp_ip'
-Name       `Internet protocols'
-Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/cyclades.html, line 34, col 261
-Real URL   file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip
-Check time 0.001 seconds
-Result     Error: URLError: <urlopen error [Errno 2] No such file or directory: '/Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip'>
-
-URL        `../hardware/Xerox_alto.html'
-Name       ` Xerox Alto'
-Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/xerox_parc.html, line 55, col 17
-Real URL   file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/hardware/Xerox_alto.html
-Info       The URL is outside of the domain filter, checked only
-           syntax.
-Warning    [url-whitespace] Leading or trailing whitespace in URL
-           `../hardware/Xerox_alto.html '.
-Result     Valid: filtered
-
-URL        `http://www.digibarn.com/notice/notice.cc.html'
-Name       ` www.digibarn.com '
-Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/xerox_parc.html, line 103, col 52
-Real URL   http://www.digibarn.com/notice/notice.cc.html
-Info       The URL is outside of the domain filter, checked only
-           syntax.
-Warning    [url-whitespace] Leading or trailing whitespace in URL
-           ` http://www.digibarn.com/notice/notice.cc.html'.
-Result     Valid: filtered
-
-URL        `http://en.wikipedia.org/wiki/Xerox_Star#mediaviewer/File:Rank_Xerox_8010%2B40_brochure_front.jpg'
-Name       ` www.wikipedia.com '
-Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/xerox_parc.html, line 105, col 39
-Real URL   http://en.wikipedia.org/wiki/Xerox_Star#mediaviewer/File%3ARank_Xerox_8010%2B40_brochure_front.jpg
-Info       The URL is outside of the domain filter, checked only
-           syntax.
-Warning    [url-whitespace] Leading or trailing whitespace in URL
-           `
-           http://en.wikipedia.org/wiki/Xerox_Star#mediaviewer/File:Rank_Xerox_8010%2B40_brochure_front.jpg'.
-Result     Valid: filtered
-
-Statistics:
-Downloaded: 107.37KB.
-Content types: 30 image, 100 text, 0 video, 0 audio, 0 application, 0 mail and 228 other.
-URL lengths: min=25, max=131, avg=75.
+Downloaded: 106.80KB.
+Content types: 30 image, 114 text, 0 video, 0 audio, 0 application, 0 mail and 214 other.
+URL lengths: min=25, max=131, avg=76.
 
 That's it. 358 links in 51 URLs checked. 3 warnings found. 1 error found.
-Stopped checking at 2015-05-21 15:20:12+002 (0.28 seconds)
+Stopped checking at 2015-05-21 16:08:36+002 (0.28 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -2617,7 +2634,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:13+002
+Start checking at 2015-05-21 16:08:37+002
 
 URL        `../hardware/Xerox_alto.html'
 Name       ` Xerox Alto'
@@ -2654,16 +2671,16 @@ URL        `tcp_ip'
 Name       `Internet protocols'
 Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/cyclades.html, line 34, col 261
 Real URL   file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip
-Check time 0.001 seconds
+Check time 0.000 seconds
 Result     Error: URLError: <urlopen error [Errno 2] No such file or directory: '/Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/tcp_ip'>
 
 Statistics:
-Downloaded: 107.37KB.
-Content types: 30 image, 100 text, 0 video, 0 audio, 0 application, 0 mail and 228 other.
-URL lengths: min=25, max=131, avg=75.
+Downloaded: 106.80KB.
+Content types: 30 image, 114 text, 0 video, 0 audio, 0 application, 0 mail and 214 other.
+URL lengths: min=25, max=131, avg=76.
 
 That's it. 358 links in 51 URLs checked. 3 warnings found. 1 error found.
-Stopped checking at 2015-05-21 15:20:14+002 (0.28 seconds)
+Stopped checking at 2015-05-21 16:08:37+002 (0.28 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -2673,7 +2690,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:15+002
+Start checking at 2015-05-21 16:08:38+002
 
 URL        `tcp_ip'
 Name       `Internet protocols'
@@ -2692,16 +2709,6 @@ Warning    [url-whitespace] Leading or trailing whitespace in URL
            `../hardware/Xerox_alto.html '.
 Result     Valid: filtered
 
-URL        `http://www.digibarn.com/notice/notice.cc.html'
-Name       ` www.digibarn.com '
-Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/xerox_parc.html, line 103, col 52
-Real URL   http://www.digibarn.com/notice/notice.cc.html
-Info       The URL is outside of the domain filter, checked only
-           syntax.
-Warning    [url-whitespace] Leading or trailing whitespace in URL
-           ` http://www.digibarn.com/notice/notice.cc.html'.
-Result     Valid: filtered
-
 URL        `http://en.wikipedia.org/wiki/Xerox_Star#mediaviewer/File:Rank_Xerox_8010%2B40_brochure_front.jpg'
 Name       ` www.wikipedia.com '
 Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/xerox_parc.html, line 105, col 39
@@ -2713,13 +2720,23 @@ Warning    [url-whitespace] Leading or trailing whitespace in URL
            http://en.wikipedia.org/wiki/Xerox_Star#mediaviewer/File:Rank_Xerox_8010%2B40_brochure_front.jpg'.
 Result     Valid: filtered
 
+URL        `http://www.digibarn.com/notice/notice.cc.html'
+Name       ` www.digibarn.com '
+Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/internet/xerox_parc.html, line 103, col 52
+Real URL   http://www.digibarn.com/notice/notice.cc.html
+Info       The URL is outside of the domain filter, checked only
+           syntax.
+Warning    [url-whitespace] Leading or trailing whitespace in URL
+           ` http://www.digibarn.com/notice/notice.cc.html'.
+Result     Valid: filtered
+
 Statistics:
-Downloaded: 107.37KB.
-Content types: 30 image, 100 text, 0 video, 0 audio, 0 application, 0 mail and 228 other.
-URL lengths: min=25, max=131, avg=75.
+Downloaded: 106.80KB.
+Content types: 30 image, 114 text, 0 video, 0 audio, 0 application, 0 mail and 214 other.
+URL lengths: min=25, max=131, avg=76.
 
 That's it. 358 links in 51 URLs checked. 3 warnings found. 1 error found.
-Stopped checking at 2015-05-21 15:20:15+002 (0.29 seconds)
+Stopped checking at 2015-05-21 16:08:39+002 (0.28 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -2729,7 +2746,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:16+002
+Start checking at 2015-05-21 16:08:40+002
 
 URL        `../hardware/Xerox_alto.html'
 Name       ` Xerox Alto'
@@ -2763,12 +2780,12 @@ Warning    [url-whitespace] Leading or trailing whitespace in URL
 Result     Valid: filtered
 
 Statistics:
-Downloaded: 8KB.
-Content types: 4 image, 6 text, 0 video, 0 audio, 0 application, 0 mail and 12 other.
+Downloaded: 10.46KB.
+Content types: 4 image, 7 text, 0 video, 0 audio, 0 application, 0 mail and 19 other.
 URL lengths: min=36, max=98, avg=80.
 
-That's it. 22 links in 5 URLs checked. 3 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:20:16+002 (0.04 seconds)
+That's it. 30 links in 6 URLs checked. 3 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:08:40+002 (0.04 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -2778,7 +2795,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:17+002
+Start checking at 2015-05-21 16:08:41+002
 
 Statistics:
 Downloaded: 19.34KB.
@@ -2786,7 +2803,7 @@ Content types: 3 image, 9 text, 0 video, 0 audio, 0 application, 0 mail and 45 o
 URL lengths: min=32, max=127, avg=80.
 
 That's it. 57 links in 6 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:20:17+002 (0.07 seconds)
+Stopped checking at 2015-05-21 16:08:41+002 (0.08 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -2796,7 +2813,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:19+002
+Start checking at 2015-05-21 16:08:42+002
 
 Statistics:
 Downloaded: 16.40KB.
@@ -2804,7 +2821,7 @@ Content types: 2 image, 6 text, 0 video, 0 audio, 0 application, 0 mail and 37 o
 URL lengths: min=25, max=119, avg=83.
 
 That's it. 45 links in 4 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:20:19+002 (0.04 seconds)
+Stopped checking at 2015-05-21 16:08:42+002 (0.04 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -2814,7 +2831,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:20+002
+Start checking at 2015-05-21 16:08:43+002
 
 Statistics:
 Downloaded: 4KB.
@@ -2822,7 +2839,7 @@ Content types: 1 image, 10 text, 0 video, 0 audio, 0 application, 0 mail and 18 
 URL lengths: min=21, max=127, avg=79.
 
 That's it. 29 links in 2 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:20:20+002 (0.04 seconds)
+Stopped checking at 2015-05-21 16:08:43+002 (0.04 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -2832,7 +2849,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:21+002
+Start checking at 2015-05-21 16:08:45+002
 
 Statistics:
 Downloaded: 4KB.
@@ -2840,7 +2857,7 @@ Content types: 1 image, 4 text, 0 video, 0 audio, 0 application, 0 mail and 11 o
 URL lengths: min=25, max=113, avg=81.
 
 That's it. 16 links in 2 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:20:21+002 (0.04 seconds)
+Stopped checking at 2015-05-21 16:08:45+002 (0.04 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -2850,7 +2867,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:22+002
+Start checking at 2015-05-21 16:08:46+002
 
 Statistics:
 Downloaded: 4KB.
@@ -2858,7 +2875,7 @@ Content types: 1 image, 2 text, 0 video, 0 audio, 0 application, 0 mail and 13 o
 URL lengths: min=40, max=106, avg=76.
 
 That's it. 16 links in 2 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:20:22+002 (0.02 seconds)
+Stopped checking at 2015-05-21 16:08:46+002 (0.02 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -2868,7 +2885,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:23+002
+Start checking at 2015-05-21 16:08:47+002
 
 Statistics:
 Downloaded: 2KB.
@@ -2876,7 +2893,7 @@ Content types: 1 image, 3 text, 0 video, 0 audio, 0 application, 0 mail and 11 o
 URL lengths: min=20, max=113, avg=82.
 
 That's it. 15 links in 2 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:20:23+002 (0.02 seconds)
+Stopped checking at 2015-05-21 16:08:47+002 (0.04 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -2886,7 +2903,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:25+002
+Start checking at 2015-05-21 16:08:48+002
 
 Statistics:
 Downloaded: 7KB.
@@ -2894,7 +2911,7 @@ Content types: 1 image, 2 text, 0 video, 0 audio, 0 application, 0 mail and 19 o
 URL lengths: min=35, max=129, avg=75.
 
 That's it. 22 links in 2 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:20:25+002 (0.02 seconds)
+Stopped checking at 2015-05-21 16:08:48+002 (0.04 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -2904,7 +2921,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:26+002
+Start checking at 2015-05-21 16:08:49+002
 
 Statistics:
 Downloaded: 5KB.
@@ -2912,7 +2929,7 @@ Content types: 1 image, 2 text, 0 video, 0 audio, 0 application, 0 mail and 13 o
 URL lengths: min=40, max=107, avg=73.
 
 That's it. 16 links in 2 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:20:26+002 (0.02 seconds)
+Stopped checking at 2015-05-21 16:08:50+002 (0.02 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -2922,7 +2939,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:27+002
+Start checking at 2015-05-21 16:08:51+002
 
 Statistics:
 Downloaded: 16.40KB.
@@ -2930,7 +2947,7 @@ Content types: 2 image, 6 text, 0 video, 0 audio, 0 application, 0 mail and 37 o
 URL lengths: min=25, max=119, avg=83.
 
 That's it. 45 links in 4 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:20:27+002 (0.04 seconds)
+Stopped checking at 2015-05-21 16:08:51+002 (0.04 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -2940,7 +2957,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:28+002
+Start checking at 2015-05-21 16:08:52+002
 
 Statistics:
 Downloaded: 5KB.
@@ -2948,7 +2965,7 @@ Content types: 1 image, 2 text, 0 video, 0 audio, 0 application, 0 mail and 17 o
 URL lengths: min=37, max=130, avg=82.
 
 That's it. 20 links in 2 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:20:28+002 (0.04 seconds)
+Stopped checking at 2015-05-21 16:08:52+002 (0.02 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -2958,7 +2975,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:29+002
+Start checking at 2015-05-21 16:08:53+002
 
 Statistics:
 Downloaded: 19.34KB.
@@ -2966,7 +2983,7 @@ Content types: 3 image, 9 text, 0 video, 0 audio, 0 application, 0 mail and 45 o
 URL lengths: min=32, max=127, avg=80.
 
 That's it. 57 links in 6 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:20:30+002 (0.07 seconds)
+Stopped checking at 2015-05-21 16:08:53+002 (0.08 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -2976,7 +2993,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:31+002
+Start checking at 2015-05-21 16:08:54+002
 
 Statistics:
 Downloaded: 19.34KB.
@@ -2984,7 +3001,7 @@ Content types: 3 image, 9 text, 0 video, 0 audio, 0 application, 0 mail and 45 o
 URL lengths: min=32, max=127, avg=80.
 
 That's it. 57 links in 6 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:20:31+002 (0.07 seconds)
+Stopped checking at 2015-05-21 16:08:54+002 (0.07 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -2994,7 +3011,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:32+002
+Start checking at 2015-05-21 16:08:56+002
 
 Statistics:
 Downloaded: 4KB.
@@ -3002,7 +3019,7 @@ Content types: 2 image, 3 text, 0 video, 0 audio, 0 application, 0 mail and 17 o
 URL lengths: min=30, max=127, avg=86.
 
 That's it. 22 links in 3 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:20:32+002 (0.04 seconds)
+Stopped checking at 2015-05-21 16:08:56+002 (0.04 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -3012,7 +3029,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:33+002
+Start checking at 2015-05-21 16:08:57+002
 
 Statistics:
 Downloaded: 6KB.
@@ -3020,7 +3037,7 @@ Content types: 2 image, 5 text, 0 video, 0 audio, 0 application, 0 mail and 18 o
 URL lengths: min=20, max=106, avg=83.
 
 That's it. 25 links in 3 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:20:33+002 (0.04 seconds)
+Stopped checking at 2015-05-21 16:08:57+002 (0.04 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -3030,7 +3047,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:34+002
+Start checking at 2015-05-21 16:08:58+002
 
 Statistics:
 Downloaded: 6KB.
@@ -3038,7 +3055,7 @@ Content types: 4 image, 4 text, 0 video, 0 audio, 0 application, 0 mail and 19 o
 URL lengths: min=51, max=113, avg=88.
 
 That's it. 27 links in 5 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:20:34+002 (0.04 seconds)
+Stopped checking at 2015-05-21 16:08:58+002 (0.03 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -3048,7 +3065,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:36+002
+Start checking at 2015-05-21 16:08:59+002
 
 Statistics:
 Downloaded: 12.17KB.
@@ -3056,7 +3073,7 @@ Content types: 5 image, 6 text, 0 video, 0 audio, 0 application, 0 mail and 35 o
 URL lengths: min=51, max=130, avg=87.
 
 That's it. 46 links in 7 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:20:36+002 (0.04 seconds)
+Stopped checking at 2015-05-21 16:08:59+002 (0.04 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -3066,7 +3083,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:37+002
+Start checking at 2015-05-21 16:09:00+002
 
 Statistics:
 Downloaded: 2KB.
@@ -3074,7 +3091,7 @@ Content types: 0 image, 2 text, 0 video, 0 audio, 0 application, 0 mail and 8 ot
 URL lengths: min=67, max=88, avg=79.
 
 That's it. 10 links in 1 URL checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:20:37+002 (0.02 seconds)
+Stopped checking at 2015-05-21 16:09:00+002 (0.02 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -3084,7 +3101,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:38+002
+Start checking at 2015-05-21 16:09:02+002
 
 URL        `../../../favicon.png'
 Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/software/os/apple_lisa.html, line 20, col 2
@@ -3099,7 +3116,7 @@ URL        `ibm_1970s_hw.html'
 Name       `IBM'
 Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/software/os/programs.html, line 63, col 373
 Real URL   file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/software/os/ibm_1970s_hw.html
-Check time 0.001 seconds
+Check time 0.000 seconds
 Result     Error: URLError: <urlopen error [Errno 2] No such file or directory: '/Users/piermarco/Documents/Repository/HCI_Project/OldHtml/software/os/ibm_1970s_hw.html'>
 
 Statistics:
@@ -3108,7 +3125,7 @@ Content types: 19 image, 35 text, 0 video, 0 audio, 0 application, 0 mail and 13
 URL lengths: min=32, max=129, avg=79.
 
 That's it. 193 links in 27 URLs checked. 1 warning found. 1 error found.
-Stopped checking at 2015-05-21 15:20:38+002 (0.18 seconds)
+Stopped checking at 2015-05-21 16:09:02+002 (0.18 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -3118,7 +3135,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:39+002
+Start checking at 2015-05-21 16:09:03+002
 
 Statistics:
 Downloaded: 29.74KB.
@@ -3126,7 +3143,7 @@ Content types: 9 image, 18 text, 0 video, 0 audio, 0 application, 0 mail and 83 
 URL lengths: min=32, max=127, avg=77.
 
 That's it. 110 links in 14 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:20:39+002 (0.13 seconds)
+Stopped checking at 2015-05-21 16:09:03+002 (0.13 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -3136,7 +3153,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:41+002
+Start checking at 2015-05-21 16:09:04+002
 
 URL        `../../../favicon.png'
 Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/software/os/apple_lisa.html, line 20, col 2
@@ -3151,7 +3168,7 @@ URL        `ibm_1970s_hw.html'
 Name       `IBM'
 Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/software/os/programs.html, line 63, col 373
 Real URL   file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/software/os/ibm_1970s_hw.html
-Check time 0.000 seconds
+Check time 0.001 seconds
 Result     Error: URLError: <urlopen error [Errno 2] No such file or directory: '/Users/piermarco/Documents/Repository/HCI_Project/OldHtml/software/os/ibm_1970s_hw.html'>
 
 Statistics:
@@ -3160,7 +3177,7 @@ Content types: 21 image, 39 text, 0 video, 0 audio, 0 application, 0 mail and 15
 URL lengths: min=25, max=129, avg=79.
 
 That's it. 216 links in 30 URLs checked. 1 warning found. 1 error found.
-Stopped checking at 2015-05-21 15:20:41+002 (0.18 seconds)
+Stopped checking at 2015-05-21 16:09:04+002 (0.18 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -3170,7 +3187,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:42+002
+Start checking at 2015-05-21 16:09:05+002
 
 Statistics:
 Downloaded: 23.83KB.
@@ -3178,7 +3195,7 @@ Content types: 7 image, 15 text, 0 video, 0 audio, 0 application, 0 mail and 67 
 URL lengths: min=32, max=127, avg=79.
 
 That's it. 89 links in 11 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:20:42+002 (0.07 seconds)
+Stopped checking at 2015-05-21 16:09:06+002 (0.07 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -3188,7 +3205,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:43+002
+Start checking at 2015-05-21 16:09:07+002
 
 URL        `../../../favicon.png'
 Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/software/os/apple_lisa.html, line 20, col 2
@@ -3203,7 +3220,7 @@ URL        `ibm_1970s_hw.html'
 Name       `IBM'
 Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/software/os/programs.html, line 63, col 373
 Real URL   file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/software/os/ibm_1970s_hw.html
-Check time 0.002 seconds
+Check time 0.000 seconds
 Result     Error: URLError: <urlopen error [Errno 2] No such file or directory: '/Users/piermarco/Documents/Repository/HCI_Project/OldHtml/software/os/ibm_1970s_hw.html'>
 
 Statistics:
@@ -3212,7 +3229,7 @@ Content types: 19 image, 35 text, 0 video, 0 audio, 0 application, 0 mail and 13
 URL lengths: min=32, max=129, avg=79.
 
 That's it. 193 links in 27 URLs checked. 1 warning found. 1 error found.
-Stopped checking at 2015-05-21 15:20:43+002 (0.17 seconds)
+Stopped checking at 2015-05-21 16:09:07+002 (0.18 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -3222,7 +3239,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:45+002
+Start checking at 2015-05-21 16:09:08+002
 
 URL        `../../../favicon.png'
 Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/software/os/apple_lisa.html, line 20, col 2
@@ -3246,7 +3263,7 @@ Content types: 19 image, 37 text, 0 video, 0 audio, 0 application, 0 mail and 15
 URL lengths: min=32, max=129, avg=78.
 
 That's it. 212 links in 28 URLs checked. 1 warning found. 1 error found.
-Stopped checking at 2015-05-21 15:20:45+002 (0.18 seconds)
+Stopped checking at 2015-05-21 16:09:08+002 (0.18 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -3256,7 +3273,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:46+002
+Start checking at 2015-05-21 16:09:09+002
 
 Statistics:
 Downloaded: 23.83KB.
@@ -3264,7 +3281,7 @@ Content types: 7 image, 15 text, 0 video, 0 audio, 0 application, 0 mail and 67 
 URL lengths: min=32, max=127, avg=79.
 
 That's it. 89 links in 11 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:20:46+002 (0.07 seconds)
+Stopped checking at 2015-05-21 16:09:09+002 (0.07 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -3274,7 +3291,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:47+002
+Start checking at 2015-05-21 16:09:11+002
 
 URL        `ibm_1970s_hw.html'
 Name       `IBM'
@@ -3298,7 +3315,7 @@ Content types: 19 image, 35 text, 0 video, 0 audio, 0 application, 0 mail and 13
 URL lengths: min=32, max=129, avg=79.
 
 That's it. 193 links in 27 URLs checked. 1 warning found. 1 error found.
-Stopped checking at 2015-05-21 15:20:47+002 (0.18 seconds)
+Stopped checking at 2015-05-21 16:09:11+002 (0.19 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -3308,7 +3325,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:49+002
+Start checking at 2015-05-21 16:09:12+002
 
 Statistics:
 Downloaded: 23.83KB.
@@ -3316,7 +3333,7 @@ Content types: 7 image, 15 text, 0 video, 0 audio, 0 application, 0 mail and 67 
 URL lengths: min=32, max=127, avg=79.
 
 That's it. 89 links in 11 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:20:49+002 (0.08 seconds)
+Stopped checking at 2015-05-21 16:09:12+002 (0.07 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -3326,7 +3343,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:50+002
+Start checking at 2015-05-21 16:09:13+002
 
 Statistics:
 Downloaded: 7KB.
@@ -3334,7 +3351,7 @@ Content types: 2 image, 3 text, 0 video, 0 audio, 0 application, 0 mail and 21 o
 URL lengths: min=37, max=127, avg=78.
 
 That's it. 26 links in 3 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:20:50+002 (0.04 seconds)
+Stopped checking at 2015-05-21 16:09:13+002 (0.04 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -3344,7 +3361,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:51+002
+Start checking at 2015-05-21 16:09:14+002
 
 URL        `../../../favicon.png'
 Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/software/os/apple_lisa.html, line 20, col 2
@@ -3363,12 +3380,12 @@ Check time 0.001 seconds
 Result     Error: URLError: <urlopen error [Errno 2] No such file or directory: '/Users/piermarco/Documents/Repository/HCI_Project/OldHtml/software/os/ibm_1970s_hw.html'>
 
 Statistics:
-Downloaded: 68.76KB.
-Content types: 27 image, 54 text, 0 video, 0 audio, 0 application, 0 mail and 192 other.
-URL lengths: min=32, max=129, avg=80.
+Downloaded: 58.07KB.
+Content types: 24 image, 47 text, 0 video, 0 audio, 0 application, 0 mail and 161 other.
+URL lengths: min=32, max=129, avg=79.
 
-That's it. 273 links in 33 URLs checked. 1 warning found. 1 error found.
-Stopped checking at 2015-05-21 15:20:51+002 (0.23 seconds)
+That's it. 232 links in 33 URLs checked. 1 warning found. 1 error found.
+Stopped checking at 2015-05-21 16:09:15+002 (0.18 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -3378,7 +3395,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:52+002
+Start checking at 2015-05-21 16:09:16+002
 
 Statistics:
 Downloaded: 23.83KB.
@@ -3386,7 +3403,7 @@ Content types: 7 image, 15 text, 0 video, 0 audio, 0 application, 0 mail and 67 
 URL lengths: min=32, max=127, avg=79.
 
 That's it. 89 links in 11 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:20:52+002 (0.07 seconds)
+Stopped checking at 2015-05-21 16:09:16+002 (0.07 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -3396,7 +3413,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:54+002
+Start checking at 2015-05-21 16:09:17+002
 
 URL        `../../../favicon.png'
 Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/software/software_engineering/impact_on_hardware.html, line 21, col 2
@@ -3418,16 +3435,16 @@ URL        `../images/W3C%C2%AE_Icon.svg.png'
 Name       `W3C'
 Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/software/software_engineering/languages/90s.html, line 72, col 23
 Real URL   file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/software/software_engineering/images/W3C%C2%AE_Icon.svg.png
-Check time 0.000 seconds
+Check time 0.001 seconds
 Result     Error: URLError: <urlopen error [Errno 2] No such file or directory: '/Users/piermarco/Documents/Repository/HCI_Project/OldHtml/software/software_engineering/images/W3C\xc3\x82\xc2\xae_Icon.svg.png'>
 
 Statistics:
-Downloaded: 66.84KB.
-Content types: 5 image, 143 text, 0 video, 0 audio, 0 application, 0 mail and 181 other.
-URL lengths: min=17, max=137, avg=86.
+Downloaded: 60.61KB.
+Content types: 5 image, 125 text, 0 video, 0 audio, 0 application, 0 mail and 170 other.
+URL lengths: min=17, max=137, avg=85.
 
-That's it. 329 links in 14 URLs checked. 1 warning found. 2 errors found.
-Stopped checking at 2015-05-21 15:20:54+002 (0.28 seconds)
+That's it. 300 links in 14 URLs checked. 1 warning found. 2 errors found.
+Stopped checking at 2015-05-21 16:09:17+002 (0.18 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -3437,7 +3454,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:55+002
+Start checking at 2015-05-21 16:09:18+002
 
 Statistics:
 Downloaded: 24.68KB.
@@ -3445,7 +3462,7 @@ Content types: 0 image, 60 text, 0 video, 0 audio, 0 application, 0 mail and 78 
 URL lengths: min=19, max=137, avg=85.
 
 That's it. 138 links in 2 URLs checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:20:55+002 (0.13 seconds)
+Stopped checking at 2015-05-21 16:09:18+002 (0.13 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -3455,7 +3472,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:56+002
+Start checking at 2015-05-21 16:09:20+002
 
 Statistics:
 Downloaded: 11.02KB.
@@ -3463,7 +3480,7 @@ Content types: 0 image, 22 text, 0 video, 0 audio, 0 application, 0 mail and 31 
 URL lengths: min=32, max=114, avg=80.
 
 That's it. 53 links in 1 URL checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:20:56+002 (0.04 seconds)
+Stopped checking at 2015-05-21 16:09:20+002 (0.04 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -3473,7 +3490,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:58+002
+Start checking at 2015-05-21 16:09:21+002
 
 Statistics:
 Downloaded: 5KB.
@@ -3481,7 +3498,7 @@ Content types: 0 image, 11 text, 0 video, 0 audio, 0 application, 0 mail and 19 
 URL lengths: min=17, max=124, avg=80.
 
 That's it. 30 links in 1 URL checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:20:58+002 (0.04 seconds)
+Stopped checking at 2015-05-21 16:09:21+002 (0.04 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -3491,7 +3508,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:20:59+002
+Start checking at 2015-05-21 16:09:22+002
 
 URL        `most_important_pl.html#C'
 Name       `C'
@@ -3506,7 +3523,7 @@ Content types: 0 image, 123 text, 0 video, 0 audio, 0 application, 0 mail and 16
 URL lengths: min=17, max=137, avg=85.
 
 That's it. 285 links in 7 URLs checked. 0 warnings found. 1 error found.
-Stopped checking at 2015-05-21 15:20:59+002 (0.18 seconds)
+Stopped checking at 2015-05-21 16:09:22+002 (0.17 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -3516,7 +3533,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:21:00+002
+Start checking at 2015-05-21 16:09:24+002
 
 Statistics:
 Downloaded: 8KB.
@@ -3524,7 +3541,7 @@ Content types: 0 image, 12 text, 0 video, 0 audio, 0 application, 0 mail and 20 
 URL lengths: min=43, max=129, avg=87.
 
 That's it. 32 links in 1 URL checked. 0 warnings found. 0 errors found.
-Stopped checking at 2015-05-21 15:21:00+002 (0.04 seconds)
+Stopped checking at 2015-05-21 16:09:24+002 (0.04 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -3534,7 +3551,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:21:01+002
+Start checking at 2015-05-21 16:09:25+002
 
 URL        `most_important_pl.html#C'
 Name       `C'
@@ -3544,12 +3561,12 @@ Check time 0.001 seconds
 Result     Error: URLError: <urlopen error [Errno 2] No such file or directory: '/Users/piermarco/Documents/Repository/HCI_Project/OldHtml/software/software_engineering/languages/most_important_pl.html'>
 
 Statistics:
-Downloaded: 55.18KB.
-Content types: 0 image, 123 text, 0 video, 0 audio, 0 application, 0 mail and 162 other.
-URL lengths: min=17, max=137, avg=85.
+Downloaded: 67.04KB.
+Content types: 0 image, 151 text, 0 video, 0 audio, 0 application, 0 mail and 192 other.
+URL lengths: min=17, max=137, avg=86.
 
-That's it. 285 links in 7 URLs checked. 0 warnings found. 1 error found.
-Stopped checking at 2015-05-21 15:21:01+002 (0.18 seconds)
+That's it. 343 links in 7 URLs checked. 0 warnings found. 1 error found.
+Stopped checking at 2015-05-21 16:09:25+002 (0.23 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -3559,7 +3576,7 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:21:03+002
+Start checking at 2015-05-21 16:09:26+002
 
 URL        `../../../favicon.png'
 Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/software/software_engineering/make_software.html, line 22, col 2
@@ -3570,34 +3587,27 @@ Warning    [url-whitespace] Leading or trailing whitespace in URL
            ` ../../../favicon.png'.
 Result     Valid: filtered
 
-URL        `languages/ada.html'
-Name       ` Ada Lovelace '
-Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/software/software_engineering/make_software.html, line 46, col 60
-Real URL   file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/software/software_engineering/languages/ada.html
-Check time 0.001 seconds
-Result     Error: URLError: <urlopen error [Errno 2] No such file or directory: '/Users/piermarco/Documents/Repository/HCI_Project/OldHtml/software/software_engineering/languages/ada.html'>
-
 URL        `languages/most_important_pl.html'
-Name       `C++'
-Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/software/software_engineering/make_software.html, line 46, col 669
+Name       ` C'
+Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/software/software_engineering/make_software.html, line 46, col 491
 Real URL   file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/software/software_engineering/languages/most_important_pl.html
 Check time 0.001 seconds
 Result     Error: URLError: <urlopen error [Errno 2] No such file or directory: '/Users/piermarco/Documents/Repository/HCI_Project/OldHtml/software/software_engineering/languages/most_important_pl.html'>
 
 URL        `languages/most_important_pl.html'
-Name       ` C'
-Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/software/software_engineering/make_software.html, line 46, col 526
+Name       `C++'
+Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/software/software_engineering/make_software.html, line 46, col 634
 Real URL   file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/software/software_engineering/languages/most_important_pl.html
 Check time 0.001 seconds
 Result     Error: URLError: <urlopen error [Errno 2] No such file or directory: '/Users/piermarco/Documents/Repository/HCI_Project/OldHtml/software/software_engineering/languages/most_important_pl.html'>
 
 Statistics:
-Downloaded: 16.79KB.
-Content types: 2 image, 14 text, 0 video, 0 audio, 0 application, 0 mail and 31 other.
+Downloaded: 16.75KB.
+Content types: 2 image, 14 text, 0 video, 0 audio, 0 application, 0 mail and 30 other.
 URL lengths: min=43, max=129, avg=88.
 
-That's it. 47 links in 6 URLs checked. 1 warning found. 3 errors found.
-Stopped checking at 2015-05-21 15:21:03+002 (0.07 seconds)
+That's it. 46 links in 5 URLs checked. 1 warning found. 2 errors found.
+Stopped checking at 2015-05-21 16:09:26+002 (0.04 seconds)
 LinkChecker 9.3              Copyright (C) 2000-2014 Bastian Kleineidam
 LinkChecker comes with ABSOLUTELY NO WARRANTY!
 This is free software, and you are welcome to redistribute it
@@ -3607,19 +3617,12 @@ Get the newest version at http://wummel.github.io/linkchecker/
 Write comments and bugs to https://github.com/wummel/linkchecker/issues
 Support this project at http://wummel.github.io/linkchecker/donations.html
 
-Start checking at 2015-05-21 15:21:04+002
-
-URL        `languages/most_important_pl.html'
-Name       `C'
-Parent URL file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/software/software_engineering/multitasking.html, line 89, col 23
-Real URL   file:///Users/piermarco/Documents/Repository/HCI_Project/OldHtml/software/software_engineering/languages/most_important_pl.html
-Check time 0.000 seconds
-Result     Error: URLError: <urlopen error [Errno 2] No such file or directory: '/Users/piermarco/Documents/Repository/HCI_Project/OldHtml/software/software_engineering/languages/most_important_pl.html'>
+Start checking at 2015-05-21 16:09:27+002
 
 Statistics:
-Downloaded: 5KB.
-Content types: 5 image, 6 text, 0 video, 0 audio, 0 application, 0 mail and 28 other.
-URL lengths: min=27, max=127, avg=84.
+Downloaded: 30.42KB.
+Content types: 7 image, 66 text, 0 video, 0 audio, 0 application, 0 mail and 103 other.
+URL lengths: min=19, max=137, avg=85.
 
-That's it. 39 links in 7 URLs checked. 0 warnings found. 1 error found.
-Stopped checking at 2015-05-21 15:21:04+002 (0.04 seconds)
+That's it. 176 links in 10 URLs checked. 0 warnings found. 0 errors found.
+Stopped checking at 2015-05-21 16:09:27+002 (0.13 seconds)
