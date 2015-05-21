@@ -112,6 +112,7 @@ body{
 
 /* ----- Begin timeline ------ */
 
+/* Timeline box */
 .Timeline {
 	display: flex;
 	flex-flow: row nowrap;
@@ -121,6 +122,7 @@ body{
 	align-items: flex-start;
 }
 
+/* Entry box */
 .TimelineEntry {
 	flex: 1 0 33.333%;
 	display: inline-flex;
@@ -136,8 +138,35 @@ body{
 	flex-flow: column nowrap;
 	justify-content: center;
 	align-items: flex-start;
+	border-top-style: solid;
+	border-top-width: 2px;
 }
 
+
+/* Entry box, inside timelines of different sections 
+ the timeline needs to have one of these classes,
+ based on the section */
+.Software > .TimelineEntry {
+	border-top-color: #fe466c;
+}
+
+.Internet > .TimelineEntry {
+	border-top-color:  #67d0f0;
+}
+
+.Games > .TimelineEntry {
+	border-top-color:  #cde855;
+}
+
+.HCI > .TimelineEntry {
+	border-top-color:  #ff8a9d;
+}
+
+.Hardware > .TimelineEntry {
+	border-top-color:  #ff893b;
+}
+
+/* Different backgrounds for link behaviour*/
 /*
 .TimelineEntry:hover {
 	background-color: lightblue;
@@ -152,6 +181,7 @@ body{
 }	
 */
 
+/* Shared flex setup inside entries*/
 .TimelineEntry > * {
 	flex-grow: 1;
 	flex-shrink: 1;
@@ -159,12 +189,14 @@ body{
 	margin: .2em 0;
 }
 
+/* Timeline images */
 .EntryImage {
 	flex-basis: 60%;
 	margin: 0 auto;
 	max-width: 100%;
 }
 
+/* Title and date flex box */
 .EntryDateAndTitle {
 	flex-basis: auto;
 	display: inline-flex;
@@ -174,25 +206,29 @@ body{
 	width: 100%;
 }
 
+/* Title and date boxes */
 .EntryTitle, .EntryDate {
 	flex-grow: 1;
 	flex-shrink: 1;
 	flex-basis: auto;
-    color: rgb(219, 86, 89);
+    color: #DB5659;
     font-size: larger;
 }
 
+/* Title */
 .EntryTitle {
 	order: 1;
     text-align: left;
 }
 
+/* Date */
 .EntryDate {
 	order: 2;
     text-align: right;
     font-size: inherit;
 }
 
+/* Description */
 .EntryDescription {
 	flex-basis: auto;
     text-align: justify;
