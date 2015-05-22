@@ -141,8 +141,8 @@ body{
 	flex-flow: column nowrap;
 	justify-content: center;
 	align-items: flex-start;
-	border-top-style: solid;
-	border-top-width: 2px;
+/*	border-top-style: solid;
+	border-top-width: 2px;*/
     font-size: 10pt;
 }
 
@@ -219,7 +219,7 @@ body{
 	flex-grow: 1;
 	flex-shrink: 1;
 	flex-basis: auto;
-    color: #DB5659;
+    color: #dddddd;
     font-size: larger;
 }
 

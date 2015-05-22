@@ -55,6 +55,13 @@
     color: #FFFFFA;
     background-color: #3d3d3d;
 }
+
+#navbar .HomeSelected{
+    border-bottom: 3px solid #FFFFFA;
+    color: #FFFFFA;
+    background-color: #3d3d3d;
+}
+
 #nav_search{
     padding-left: 10px;
     margin-top: 2px;
