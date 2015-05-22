@@ -130,10 +130,10 @@ body{
     text-decoration: none;
 	white-space: initial;
 	margin: .5em 1em;
-	/*color: #dddddd;*/
-    color: #292929;
-	/*background-color: #292929;*/
-    background-color: #dddddd;
+	color: #dddddd;
+    /*color: #292929;*/
+	background-color: #292929;
+    /*background-color: #dddddd;*/
 	padding: 0em;
 	border-radius: 2px;
 	transition: background-color .5s;
