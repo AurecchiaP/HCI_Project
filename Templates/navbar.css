@@ -6,6 +6,13 @@
     color: #ddddda;
     background-color: #292929;
 }
+#navbar a{
+    color: #ddddda;
+    text-decoration: none;
+}
+#navbar a:hover{
+    color: white;
+}
 #navbar ul{
     display: -webkit-box;
     display: -moz-box;
@@ -43,6 +50,9 @@
     border-bottom: 3px solid #ff893b;
     color: #FFFFFA;
     background-color: #3d3d3d;
+}
+#navbar .selected a{
+    color: #FFFFFA;
 }
 #nav_search{
     min-width: 200px;

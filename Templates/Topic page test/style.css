@@ -8,11 +8,11 @@ body {
     background-image: url("../img/the-capsule.png");
     background-size: cover;
 }
-#mainWrapper{
+#topicMainWrapper{
     min-height: 100vh;
 }
 
-#main{
+#topicMain{
     /*border: 1px solid black;*/
     width: 81%;
     margin: 0 auto;
