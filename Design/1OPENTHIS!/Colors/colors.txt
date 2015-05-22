@@ -1,0 +1,28 @@
+------------------Navbar-------------------
+Background:			#292929
+Font:
+Text-color:			#cccccc
+	on hover:		white
+
+Selected:
+	Text-color:		#FFFFFA
+	Background:		#3d3d3d
+	
+	Underline:		3px solid 
+		HCI:		#A48DDA
+		Hardware:	#FF8550
+		Software:	#DA524F
+		Internet:	#3ACDDA
+		Games:		#6ADA53
+		Home:		#FFFFFA
+------------------Footer--------------------
+Background:			#292929
+Font:
+Text:				#cccccc
+-----------------Timeline-------------------
+Background:			#292929
+Font:
+Title-color:			#dddddd
+Date-color: 			#dddddd
+Text-color:			#dddddd
+---------------------------------------------HomePage----------------------------------------------------
