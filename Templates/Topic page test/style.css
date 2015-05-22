@@ -11,6 +11,7 @@ body {
 #mainWrapper{
     min-height: 100vh;
 }
+
 #main{
     /*border: 1px solid black;*/
     width: 81%;
@@ -49,7 +50,7 @@ footer {
     text-align: center;
     font-size: 10pt;
     padding: 20px;
-    margin-top: -60px;
+    margin-top: -55px;
 }
 .text{
     text-align: justify;
@@ -61,13 +62,16 @@ footer {
     padding: 10px;
     float: right;
 }
-#button{
+#tp_button{
     z-index: 10;
-    position: absolute;
+    position: fixed;
     width: 40px;
     height: 60px;
     margin-top: 50vh;
+
     transform: translateY(-180%);
+    /* TODO: add browser compatibility kit */
+
     transition: all 0.5s;
     background: rgba(0,0,0,0.3);
 }
@@ -80,15 +84,55 @@ footer {
     margin-left: 0px;
 }
 .bRight img{
-    margin-left: 11px;
+    position: inherit;
+    right: 5px;
+    transform: rotate(180deg);
 }
 .bLeft img{
-    margin-left: 1px;
+    margin-left: 5px;
 }
-#button img{
+#tp_button img{
     margin-top: 12px;
     height: 60%;
 }
-#button:hover{
-    background: rgba(0,0,0,0.5);
+#tp_button:hover{
+    background: rgba(0,0,0,0.);
+}
+#tp_button_hover{
+    /*opacity: 1;*/
+    text-align: center;
+    position: fixed;
+    height: 60px;
+
+    color: white;
+    background: rgba(0,0,0,0.8);
+
+    z-index: 8;
+    margin-top: 50vh;
+
+    transition: all 1s;
+    transform: translateY(-180%);
+    /* TODO: add browser compatibility kit */
+}
+#tp_button_hover p{ 
+    min-width: 200px;
+}
+.tbhr{
+    opacity: 0;
+    width: 0;
+    border-radius: 60px 0 0 60px;
+}
+.bRight:hover ~ .tbhr{
+    opacity: 1;
+    width: 250px;
+    margin-left: -250px;
+}
+.tbhl{
+    opacity: 0;
+    width: 0;
+    border-radius: 0 60px 60px 0;
+}
+.bLeft:hover ~ .tbhl{
+    opacity: 1;
+    width: 250px;
 }
