@@ -96,7 +96,7 @@ footer {
     height: 60%;
 }
 #tp_button:hover{
-    background: rgba(0,0,0,0.);
+    background: rgba(0,0,0,0);
 }
 #tp_button_hover{
     /*opacity: 1;*/
@@ -105,12 +105,12 @@ footer {
     height: 60px;
 
     color: white;
-    background: rgba(0,0,0,0.8);
+    background: rgba(100,100,100,0.8);
 
     z-index: 8;
     margin-top: 50vh;
 
-    transition: all 1s;
+    transition: all 0.4s;
     transform: translateY(-180%);
     /* TODO: add browser compatibility kit */
 }
