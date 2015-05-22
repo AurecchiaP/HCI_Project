@@ -124,17 +124,17 @@ body{
 
 /* Entry box */
 .TimelineEntry {
-	flex: 1 0 33.333%;
+	flex: 1 0 40%;
 	display: inline-flex;
     text-decoration: none;
 	white-space: initial;
 	margin: .5em 1em;
 	color: inherit;
 	background-color: #f3f2f7;
-	padding: 1em;
+	padding: 0px;
 	border-radius: 2px;
 	transition: background-color .5s;
-	font-size: initial;
+	font-size: 10pt;
 	flex-flow: column nowrap;
 	justify-content: center;
 	align-items: flex-start;
@@ -186,53 +186,61 @@ body{
 	flex-grow: 1;
 	flex-shrink: 1;
 	display: block;
-	margin: .2em 0;
+	margin-top: 0em;
+	margin-bottom: 1em;
+	margin-left: 0em;
+	margin-right: 0em;
+	max-width: 100%;
 }
 
 /* Timeline images */
 .EntryImage {
 	flex-basis: 60%;
-	margin: 0 auto;
 	max-width: 100%;
+	margin-top: 0em;
 }
 
 /* Title and date flex box */
-.EntryDateAndTitle {
+.EntryText {
 	flex-basis: auto;
-	display: inline-flex;
-	flex-flow: row nowrap;
+	display: flex;
+	flex-flow: row wrap;
 	justify-content: space-between;
 	align-items: center;
-	width: 100%;
+	margin-left: 1em;
+	margin-right: 1em;
 }
 
 /* Title and date boxes */
-.EntryTitle, .EntryDate {
+.EntryText > * {
 	flex-grow: 1;
 	flex-shrink: 1;
 	flex-basis: auto;
-    color: #DB5659;
-    font-size: larger;
 }
 
 /* Title */
 .EntryTitle {
 	order: 1;
     text-align: left;
+	font-size: 14pt;
+    color: #DB5659;
+	margin-bottom: 0.1em;
 }
 
 /* Date */
 .EntryDate {
 	order: 2;
     text-align: right;
-    font-size: inherit;
+	font-size: inherit;
+    color: #DB5659;
+	margin-bottom: 0.1em;
 }
 
 /* Description */
 .EntryDescription {
+	order: 3;
 	flex-basis: auto;
     text-align: justify;
-	width: 100%;
     
 }
 
