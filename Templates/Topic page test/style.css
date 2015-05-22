@@ -9,7 +9,8 @@ body {
     min-height: 100vh;
 }
 #main{
-    width: 95%;
+    /*border: 1px solid black;*/
+    width: 81%;
     margin: 0 auto;
     min-height: 85vh;
     
@@ -25,8 +26,8 @@ body {
 
 }
 #content{
-    padding: 25px;
-    width: 81.6%;
+    padding: 25px 60px 0 60px;
+    width: 100%;
     margin: 0 auto;
     margin-bottom: 85px;
     display: inline-block;
@@ -43,7 +44,6 @@ body {
 footer {
     color: #ddddda;
     background-color: #292929;
-    width:100%;
     padding: 20px;
     margin-top: -60px;
 }
@@ -58,20 +58,33 @@ footer {
     float: right;
 }
 #button{
-    width: 50px;
-    height: 50px;
+    z-index: 10;
+    position: absolute;
+    width: 40px;
+    height: 60px;
     margin-top: 50vh;
     transform: translateY(-180%);
-}
-.bLeft{
-    background-image: url("../img/arrowleft.png");
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
+    transition: all 1s;
+    background: rgba(100,100,100,0.3);
 }
 .bRight{
-    background-image: url("../img/arrowright.png");
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
+    border-radius: 60px 0 0 60px;
+    margin-left: -40px;
+}
+.bLeft{
+    border-radius: 0 60px 60px 0;
+    margin-left: 0px;
+}
+.bRight img{
+    margin-left: 11px;
+}
+.bLeft img{
+    margin-left: 1px;
+}
+#button img{
+    margin-top: 12px;
+    height: 60%;
+}
+#button:hover{
+    background: rgba(0,0,0,0.5);
 }
