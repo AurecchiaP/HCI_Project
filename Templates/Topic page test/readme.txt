@@ -1,0 +1,5 @@
+- arrows should be always at the center of the content not of the page.
+- provided a new arrow.png
+- color background same as navbar
+- better transition
+- a little different position and shape ( see the image in the folder )
