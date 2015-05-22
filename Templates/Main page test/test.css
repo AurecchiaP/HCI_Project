@@ -13,13 +13,15 @@ body {
     display: inline-block;
     flex-basis: none;
     -webkit-align-items: center;
+    -moz-align-items: center;
     -ms-align-items: center;
     align-items: center;
 }
 
 .di_o {
     width: 100%;
-    height: 100%;
+    height: auto%;
+    border-radius: 100%;
 }
 
 h1 {
@@ -80,22 +82,26 @@ h1 {
     margin-bottom: 15%;
     display: -webkit-flex;
     display: -ms-flex;
+    display: -moz-flex;
     display: flex;
     -webkit-flex-basis: 100%;
     -ms-flex-basis: 100%;
+    -moz-flex-basis: 100%;
     flex-basis: 100%;
     -webkit-justify-content: space-between;
     -ms-justify-content: space-between;
+    -moz-justify-content: space-between;
     justify-content: space-between;
     /*  justify-content: space-around;*/
 }
 /*Individual sections*/
 
-#sectionSelector div {
+#sectionSelector div{
     padding: 20px;
-    border-radius: 50%;
+    -webkit-border-radius: 50%;
     margin: 10px;
 }
+
 /*Display bubble :hover*/
 
 #sectionSelector div:hover::after {

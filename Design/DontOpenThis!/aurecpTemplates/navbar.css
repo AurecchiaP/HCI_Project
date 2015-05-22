@@ -2,7 +2,7 @@
     width: 100%;
     margin: 0 auto;
     margin-bottom: 50px;
-    color: #ddddda;
+    color: #cccccc;
     background-color: #292929;
 }
 #navbar ul{
@@ -32,19 +32,21 @@
 }
 #navbar li{
     min-width: 70px;
-    padding-top: 15px;
-    padding-bottom: 10px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    font-size: 10pt;
     text-decoration: none;
     text-align: center;
     background-color: #292929;
+    transition: all 0.2s;
 
     -webkit-flex: 1;
     -ms-flex: 1;
     -moz-flex: 1;
     flex: 1;
 
-    margin-right: 1px;
-}
+/*    margin-right: 1px;
+*/}
 #navbar li:hover{
     color: white;
 }
@@ -55,11 +57,13 @@
 }
 #nav_search{
     padding-left: 10px;
-    margin-left: -1px;
-    background-color: #292929;
+    margin-top: 2px;
+/*    margin-left: -1px;
+*/    background-color: #292929;
 }
 #nav_search form{
     display: inline-block;
+    padding-top: 5px;
 }
 #search_field{
     margin-top: 8px;
@@ -68,8 +72,7 @@
 }
 #search_submit {
     float: right;
-    margin-top: 9px;
-    padding: 2px;
-    width: 21px;
+    margin-top: 8px;
+    width: 27px;
     background-color: white;
 }

@@ -1,0 +1,83 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab:100|Open+Sans);
+
+
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+    /*background: rgb(226,226,226);*/
+    background-image: url("../Main\ page\ test/PNG/the-capsule.png");
+    background-size: cover;
+}
+#mainWrapper{
+    min-height: 100vh;
+}
+#main{
+    width: 95%;
+    margin: 0 auto;
+    min-height: 85vh;
+    
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;  
+    
+    -webkit-flex-flow: row nowrap;
+    -webkit-box-flex-flow: row nowrap;    
+    flex-flow: row nowrap;  
+
+}
+#content{
+    padding: 25px;
+    width: 81.6%;
+    margin: 0 auto;
+    margin-bottom: 85px;
+    display: inline-block;
+
+    background: rgb(240,240,240); /* Old browsers */
+    /*background: -moz-linear-gradient(top,  rgba(255,255,255,1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%); /* FF3.6+ */*/
+    /*background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,1)), color-stop(47%,rgba(246,246,246,1)), color-stop(100%,rgba(237,237,237,1))); /* Chrome,Safari4+ */*/
+    /*background: -webkit-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(246,246,246,1) 47%,rgba(237,237,237,1) 100%); /* Chrome10+,Safari5.1+ */*/
+    /*background: -o-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(246,246,246,1) 47%,rgba(237,237,237,1) 100%); /* Opera 11.10+ */*/
+    /*background: -ms-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(246,246,246,1) 47%,rgba(237,237,237,1) 100%); /* IE10+ */*/
+    /*background: linear-gradient(to bottom,  rgba(255,255,255,1) 0%,rgba(246,246,246,1) 47%,rgba(237,237,237,1) 100%); /* W3C */*/
+    /*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ededed',GradientType=0 ); /* IE6-9 */*/
+}
+footer {
+    color: #cccccc;
+    background-color: #292929;
+    width:100%;
+    text-align: center;
+    font-size: 10pt;
+    padding: 20px;
+    margin-top: -60px;
+}
+.text{
+    text-align: justify;
+}
+.img img{
+    width: 200px;
+}
+.img{
+    padding: 10px;
+    float: right;
+}
+#button{
+    width: 50px;
+    height: 50px;
+    margin-top: 50vh;
+    transform: translateY(-180%);
+}
+.bLeft{
+    background-image: url("../img/arrowleft.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.bRight{
+    background-image: url("../img/arrowright.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
