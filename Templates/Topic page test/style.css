@@ -1,9 +1,12 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab:100|Open+Sans);
+
 body {
     margin: 0px;
     padding: 0px;
     font-family: 'Open Sans', sans-serif;
-
-    background: rgb(226,226,226);
+    font-weight: 300;
+    background-image: url("../img/the-capsule.png");
+    background-size: cover;
 }
 #mainWrapper{
     min-height: 100vh;
@@ -23,10 +26,9 @@ body {
     -webkit-flex-flow: row nowrap;
     -webkit-box-flex-flow: row nowrap;    
     flex-flow: row nowrap;  
-
 }
 #content{
-    padding: 25px 60px 0 60px;
+    padding: 25px 60px 45px 60px;
     width: 100%;
     margin: 0 auto;
     margin-bottom: 85px;
@@ -66,8 +68,8 @@ footer {
     height: 60px;
     margin-top: 50vh;
     transform: translateY(-180%);
-    transition: all 1s;
-    background: rgba(100,100,100,0.3);
+    transition: all 0.5s;
+    background: rgba(0,0,0,0.3);
 }
 .bRight{
     border-radius: 60px 0 0 60px;
