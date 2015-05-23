@@ -53,29 +53,29 @@ body {
     box-shadow: 0px 0px 10px rgba(0,0,0,0.45);
 }
 
+.row:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
 #hciIcon:hover {
     background-color: #A48DDA;
-    cursor: pointer;
 }
 
 #internetIcon:hover {
     background-color: #3ACDDA;
-    cursor: pointer;
 }
 
 #gamesIcon:hover {
     background-color: #6ADA53;
-    cursor: pointer;
 }
 
 #hardwareIcon:hover {
     background-color: #FF8550;
-    cursor: pointer;
 }
 
 #softwareIcon:hover {
     background-color: #DA524F;
-    cursor: pointer;
 }
 /*All content*/
 
