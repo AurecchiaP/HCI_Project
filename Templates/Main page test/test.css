@@ -30,10 +30,9 @@ body {
 .di_o {
     width: 100%;
     height: auto;
-    border-radius: 100%;
 }
 
-h1 {
+#contentContainer h1 {
     text-align: center;
     margin-bottom: 10%;
     font-family: 'Roboto Slab', serif;
@@ -41,6 +40,7 @@ h1 {
     color:#292929;
     /*font-family: 'Open Sans', sans-serif;*/
     font-weight: 100;
+    text-shadow: -3px 2px 11px rgba(40, 107, 133, 0.55);
 }
 
 #sectionSelector img {
@@ -50,7 +50,7 @@ h1 {
 #hciIcon, #internetIcon, #gamesIcon, #hardwareIcon, #softwareIcon {
     background-color: #292929;
     transition: all 0.2s;
-    box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.45);
 }
 
 #hciIcon:hover {
@@ -119,25 +119,28 @@ h1 {
 /*Individual sections*/
 
 #sectionSelector div{
+    border-radius: 50%;
     padding: 20px;
-    -webkit-border-radius: 50%;
     margin: 10px;
+}
+
+
+#sectionSelector:hover .row:not(:hover){
+    transition: ease-in-out 0.5s;
+    opacity: 0.3;
 }
 
 /*Display bubble :hover*/
 
 #sectionSelector div:hover::after {
+    /*background: linear-gradient(#00d2ff, #3a7bd5);*/
      position: absolute;
-     padding-top: 10px;
-     padding-bottom: 10px;
-     padding-right: 35px;
      padding-left: 35px;
      margin-left: auto;
      margin-right: auto;
      margin-bottom: auto;
      margin-top: 25px;
      color: #292929;
-     /*background: linear-gradient(#00d2ff, #3a7bd5);*/
      border-radius: 10px;
 }
 
