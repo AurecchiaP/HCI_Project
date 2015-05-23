@@ -150,6 +150,7 @@ body {
 }
 
 #hciIcon:hover::after {
+    margin: auto;
     display: inline-block;
     width: 50px;
     height: 50px;
@@ -158,22 +159,38 @@ body {
 }
 
 #internetIcon:hover::after {
-
+    margin: auto;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    text-align: center;
     content: "Internet";
 }
 
 #gamesIcon:hover::after {
-  
+    margin: auto;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    text-align: center;
     content: "Games";
 }
 
 #hardwareIcon:hover::after {
-  
+    margin: auto;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    text-align: center;
     content: "Hardware";
 }
 
 #softwareIcon:hover::after {
-
+    margin: auto;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    text-align: center;
     content: "Software";
 }
 /*End bubble effect*/
