@@ -55,22 +55,27 @@ h1 {
 
 #hciIcon:hover {
     background-color: #A48DDA;
+    cursor: pointer;
 }
 
 #internetIcon:hover {
     background-color: #3ACDDA;
+    cursor: pointer;
 }
 
 #gamesIcon:hover {
     background-color: #6ADA53;
+    cursor: pointer;
 }
 
 #hardwareIcon:hover {
     background-color: #FF8550;
+    cursor: pointer;
 }
 
 #softwareIcon:hover {
     background-color: #DA524F;
+    cursor: pointer;
 }
 /*All content*/
 
