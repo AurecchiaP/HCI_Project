@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab:100|Open+Sans);
+
 body {
     margin: 0px;
     padding: 0px;
@@ -5,9 +7,16 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Open Sans', sans-serif;
-
-    background: rgb(226,226,226);
+    font-weight: 300;
+    /*background-image: url("PNG/grey-connection.png");*/
+    background-image: url("PNG/the-capsule.png");
+    background-size: cover;
 }
+/*
+#background {
+    background-color: black;
+
+}*/
 
 .row {
     display: inline-block;
@@ -20,37 +29,48 @@ body {
 
 .di_o {
     width: 100%;
-    height: auto%;
+    height: auto;
     border-radius: 100%;
 }
 
 h1 {
     text-align: center;
     margin-bottom: 10%;
+    font-family: 'Roboto Slab', serif;
+    font-size: 50pt;
+    color:#292929;
+    /*font-family: 'Open Sans', sans-serif;*/
+    font-weight: 100;
 }
 
 #sectionSelector img {
     width: 100%;
 }
 
-#hciIcon {
-    background-color: orange;
+#hciIcon, #internetIcon, #gamesIcon, #hardwareIcon, #softwareIcon {
+    background-color: #292929;
+    transition: all 0.2s;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
 }
 
-#internetIcon {
-    background-color: lightblue;
+#hciIcon:hover {
+    background-color: #A48DDA;
 }
 
-#gamesIcon {
-    background-color: lightgreen;
+#internetIcon:hover {
+    background-color: #3ACDDA;
 }
 
-#hardwareIcon {
-    background-color: yellow;
+#gamesIcon:hover {
+    background-color: #6ADA53;
 }
 
-#softwareIcon {
-    background-color: magenta;
+#hardwareIcon:hover {
+    background-color: #FF8550;
+}
+
+#softwareIcon:hover {
+    background-color: #DA524F;
 }
 /*All content*/
 
@@ -60,18 +80,15 @@ h1 {
 /*Content excluding navbar*/
 
 #externalContainer {
-    background-color: #CACDCF;
     width: 100%;
-    height: 88%%;
 }
 /*Content in white box*/
 
 #contentContainer {
-    margin-top: 6.6%;
-    margin-bottom: 3.96%;
+    margin-top: 10%;
+    margin-bottom: 0%;
     margin-left: 14.2%;
     margin-right: 14.2%;
-    background-color: white;
     width: 71.6%;
     height: 66.88%;
 }
@@ -105,17 +122,18 @@ h1 {
 /*Display bubble :hover*/
 
 #sectionSelector div:hover::after {
-    position: absolute;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-right: 35px;
-    padding-left: 35px;
-    margin-top: 10px;
-    margin-left: -15px;
-    margin-right: -20px;
-    color: #fff;
-    background: linear-gradient(#00d2ff, #3a7bd5);
-    border-radius: 10px;
+     position: absolute;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     padding-right: 35px;
+     padding-left: 35px;
+     margin-left: auto;
+     margin-right: auto;
+     margin-bottom: auto;
+     margin-top: 25px;
+     color: #292929;
+     /*background: linear-gradient(#00d2ff, #3a7bd5);*/
+     border-radius: 10px;
 }
 
 #hciIcon:hover::after {
