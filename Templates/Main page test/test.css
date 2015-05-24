@@ -84,7 +84,7 @@ body {
 }
 
 .row {
-    background-color: yellow;
+/*    background-color: yellow;*/
     border-radius: 50%;
     align-items: center;
     transition: opacity 0.5s ease-in-out;
