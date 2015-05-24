@@ -18,80 +18,50 @@ body {
 
 }*/
 
-.row {
-    display: inline-block;
-    flex-basis: none;
-    -webkit-align-items: center;
-    -moz-align-items: center;
-    -ms-align-items: center;
-    align-items: center;
-    -webkit-transition: opacity 1s ease-in-out;
-   -moz-transition: opacity 0.5s ease-in-out;
-    -ms-transition: opacity 0.5s ease-in-out;
-     -o-transition: opacity 0.5s ease-in-out;
-        transition: opacity 0.5s ease-in-out;
+/*Content excluding navbar*/
+#externalContainer {
+    background-color: white;
+    width: 100%;
 }
 
-.di_o {
-    width: 100%;
-    height: auto;
+/*All content*/
+#wrapper {
+    min-height: 100%;
+}
+
+
+/*Content*/
+#contentContainer {
+    background-color: red;
+/*    margin-top: 10%;*/
+    margin-left: 14.2%;
+    margin-right: 14.2%;
+    width: 71.6%;
+    height: 66.88%;
 }
 
 #contentContainer h1 {
     text-align: center;
     margin-bottom: 10%;
     font-family: 'Roboto Slab', serif;
+    /*font-family: 'Open Sans', sans-serif;*/
     font-size: 50pt;
     color:#292929;
-    /*font-family: 'Open Sans', sans-serif;*/
     font-weight: 100;
     text-shadow: -3px 2px 11px rgba(40, 107, 133, 0.55);
 }
 
-#sectionSelector img {
-    width: 100%;
-}
-
-#hciIcon, #internetIcon, #gamesIcon, #hardwareIcon, #softwareIcon {
-    background-color: #292929;
-    transition: ease-in-out all 0.2s;
-    box-shadow: 0px 0px 10px rgba(0,0,0,0.45);
-}
-
-.row:hover{
-    transform: scale(1.1);
-    cursor: pointer;
-}
-
-/*All content*/
-
-#wrapper {
-    min-height: 100% background-color: #CACDCF;
-}
-/*Content excluding navbar*/
-
-#externalContainer {
-    width: 100%;
-}
-/*Content in white box*/
-
-#contentContainer {
-    margin-top: 10%;
-    margin-bottom: 0%;
-    margin-left: 14.2%;
-    margin-right: 14.2%;
-    width: 71.6%;
-    height: 66.88%;
-}
 /*Sections*/
 
 #sectionSelector {
+    background-color: blue;
     width: 91.6%;
     margin-bottom: 15%;
     display: -webkit-flex;
     display: -ms-flex;
     display: -moz-flex;
     display: flex;
+    align-items: center;
     -webkit-flex-basis: 100%;
     -ms-flex-basis: 100%;
     -moz-flex-basis: 100%;
@@ -107,16 +77,34 @@ body {
      -o-transition: opacity 0.5s ease-in-out;
         transition: opacity 0.5s ease-in-out;
 }
-/*Individual sections*/
 
-#sectionSelector div{
+.row {
+    background-color: yellow;
     border-radius: 50%;
-    padding: 20px;
+    align-items: center;
+    transition: opacity 0.5s ease-in-out;
     margin: 10px;
 }
 
+
+#sectionSelector img {
+    width: 100%;
+}
+
+#hciIcon, #internetIcon, #gamesIcon, #hardwareIcon, #softwareIcon {
+    background-color: #292929;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.45);
+    transition: ease-in-out all 0.2s;
+}
+
+.row:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+/*Individual sections*/
+
 #sectionSelector:hover .row:not(:hover){
-    zoom: 1;
     filter: alpha(opacity=50);
     opacity: 0.5;
 }
@@ -146,65 +134,42 @@ body {
     box-shadow: 0px 0px 3px 4px #E8E6E8; 
 }
 
-/*Display bubble :hover*/
+.row div{
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
 
-#sectionSelector div:hover::after {
-    /*background: linear-gradient(#00d2ff, #3a7bd5);*/
-     position: absolute;
-     padding-left: 35px;
-     margin-left: auto;
-     margin-right: auto;
-     margin-bottom: auto;
-     margin-top: 25px;
-     color: #292929;
-     border-radius: 10px;
+/*Display bubble :hover*/
+.row div:hover::after{
+    display: inline-block;
+    position: absolute;
+    width: 100%;
+    text-align: center;
 }
 
 #hciIcon:hover::after {
-    margin: auto;
-    display: inline-block;
-    width: 50px;
-    height: 50px;
-    text-align: center;
     content: "HCI";
 }
 
 #internetIcon:hover::after {
-    margin: auto;
-    display: inline-block;
-    width: 50px;
-    height: 50px;
-    text-align: center;
     content: "Internet";
 }
 
 #gamesIcon:hover::after {
-    margin: auto;
-    display: inline-block;
-    width: 50px;
-    height: 50px;
-    text-align: center;
     content: "Games";
 }
 
 #hardwareIcon:hover::after {
-    margin: auto;
-    display: inline-block;
-    width: 50px;
-    height: 50px;
-    text-align: center;
+
     content: "Hardware";
 }
 
 #softwareIcon:hover::after {
-    margin: auto;
-    display: inline-block;
-    width: 50px;
-    height: 50px;
-    text-align: center;
     content: "Software";
 }
 /*End bubble effect*/
+
 /*NOT Display labels*/
 
 #hciName {
