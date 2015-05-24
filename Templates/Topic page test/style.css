@@ -69,10 +69,18 @@ footer {
     height: 60px;
     margin-top: 50vh;
 
+    -webkit-transform: translateY(-180%);
+    -moz-transform: translateY(-180%);
+    -ms-transform: translateY(-180%);
+    -o-transform: translateY(-180%);
     transform: translateY(-180%);
-    /* TODO: add browser compatibility kit */
 
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
     transition: all 0.5s;
+    
     background: rgba(0,0,0,0.3);
 }
 .bRight{
@@ -110,9 +118,17 @@ footer {
     z-index: 8;
     margin-top: 50vh;
 
-    transition: all 0.4s;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+
+    -webkit-transform: translateY(-180%);
+    -moz-transform: translateY(-180%);
+    -ms-transform: translateY(-180%);
+    -o-transform: translateY(-180%);
     transform: translateY(-180%);
-    /* TODO: add browser compatibility kit */
 }
 #tp_button_hover p{ 
     min-width: 200px;
@@ -139,7 +155,12 @@ footer {
 .tbhl p{
     position: absolute;
     margin-left: -200px;
-    transition: all 0.4s;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+
 }
 .bLeft:hover ~ .tbhl p{
     margin-left: 30px;
