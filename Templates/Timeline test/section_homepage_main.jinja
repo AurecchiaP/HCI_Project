@@ -1,11 +1,36 @@
-<div id="main">
-	<div id="button" class="bLeft"></div>
-	<div id="content">
-		<h1> {{ sectionTitle }} </h1>
-		<div>  {{ sectionDescription }} </div>
-		<div class="Timeline {{ sectionClass }}">
-			{{ timelineEntries }}
-		</div>
-	</div>
-	<div id="button" class="bRight"></div>
-</div>
+<!DOCTYPE> 
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel="stylesheet" type="text/css" href="../navbar.css">
+        <meta http-equiv="content-type" content="application/vnd.ms-excel" charset="UTF-8">
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <div id="topicMainWrapper">
+            <div id="navbar">
+                <ul>
+                {{ navElement }}
+                    <div id="nav_search">
+                        <form action="get">
+                            <input id="search_field" autocomplete="off" name="search" type="text" placeholder="TO BE CHANGED">
+                            <input id="search_submit" value="" type="image" src="../img/search.png">
+                        </form>
+                    </div>
+                </ul>
+            </div>
+            <div id="topicMain">
+                <div id="content">
+                    <h1>{{ sectionTitle }}</h1>
+                    <div class="text">
+                        {{ sectionDescription }}
+                    </div>
+					<div class="Timeline sectionClass">
+						{{ timelineEntries }}
+					</div>
+                </div>
+            </div>
+        </div>
+        <footer>{{ footer }}</footer>
+    </body>
+</html>
