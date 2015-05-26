@@ -1,0 +1,12 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab:100|Open+Sans);
+
+@media screen and (orientation: portrait) and (max-width: 740px) {
+    .Timeline {
+	   display: flex;
+	   flex-flow: column;
+	   overflow-X: scroll;
+	   width: 100%;
+	   justify-content: flex-start;
+	   align-items: flex-start;
+    }
+}
