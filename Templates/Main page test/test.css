@@ -85,7 +85,7 @@ body {
 }
 
 .row {
-/*    background-color: yellow;*/
+    /*background-color: yellow;*/
     border-radius: 50%;
     align-items: center;
     transition: opacity 0.5s ease-in-out;
@@ -103,6 +103,7 @@ body {
 
 .row div img{
     transform: scale(0.75);
+    -webkit-transform: scale(0.75);
 }
 
 #hciIcon, #internetIcon, #gamesIcon, #hardwareIcon, #softwareIcon {
