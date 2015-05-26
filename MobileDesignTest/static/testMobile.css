@@ -22,7 +22,6 @@
         /*-webkit-flex-basis: 100%;
         ms-flex-basis: 100%;*/
         flex-basis: 100%;
-        backgroung: tomato;
         -webkit-align-items: center;
         -moz-align-items: center;
         -ms-align-items: center;
@@ -131,10 +130,10 @@
 
     }
     span {
-        -webkit-flex-basis: 75%;
-        -moz-flex-basis: 75%;
-        ms-flex-basis: 75%;
-        flex-basis: 75%;
+        /*-webkit-flex-basis: 75%;*/
+        /*-moz-flex-basis: 75%;*/
+        /*ms-flex-basis: 75%;*/
+        width: 100px;
         text-align: center;
         font-size: 300%;
         font-weight: 700;
