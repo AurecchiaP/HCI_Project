@@ -1,2 +1,0 @@
-- arrows should be always at the center of the content not of the page.
-- better transition
