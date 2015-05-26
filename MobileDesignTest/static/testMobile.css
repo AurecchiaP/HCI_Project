@@ -134,6 +134,7 @@
         /*-moz-flex-basis: 75%;*/
         /*ms-flex-basis: 75%;*/
         width: 100px;
+        margin-left: 10px;
         text-align: center;
         font-size: 300%;
         font-weight: 700;
