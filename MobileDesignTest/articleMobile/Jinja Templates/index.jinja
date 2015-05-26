@@ -1,0 +1,35 @@
+<!DOCTYPE> 
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel="stylesheet" type="text/css" href="../navbar.css">
+        <meta http-equiv="content-type" content="application/vnd.ms-excel" charset="UTF-8">
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <div id="topicMainWrapper">
+            <div id="navbar">
+                <ul>
+                {{ navElement }}
+                    <div id="nav_search">
+                        <form action="get">
+                            <input id="search_field" autocomplete="off" name="search" type="text" placeholder="TO BE CHANGED">
+                            <input id="search_submit" value="" type="image" src="../img/search.png">
+                        </form>
+                    </div>
+                </ul>
+            </div>
+            <div id="topicMain">
+                <a href="#"><div id="tp_button" class="bLeft"><img src="../img/arrow.png"></div><div id="tp_button_hover" class="tbhl"><p>{{ previousPageTitle }}<p></div></a>
+                <div id="content">
+                    <h1>{{ topicTitle }}</h1>
+                    <div class="text">
+                        {{ topicText }}
+                    </div>
+                </div>
+                <a href="#"><div id="tp_button" class="bRight"><img src="../img/arrow.png"></div><div id="tp_button_hover" class="tbhr"><p>{{ nextPageTitle }}<p></div></a>
+            </div>
+        </div>
+        <footer>{{ footer }}</footer>
+    </body>
+</html>
