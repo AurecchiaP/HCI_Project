@@ -26,7 +26,7 @@
 }
 
 @media screen and (orientation: portrait) and (max-device-width: 1024px) {
-        .Timeline {
+    .Timeline {
 	   display: flex;
 	   flex-flow: column;
 	   overflow-X: scroll;
@@ -48,4 +48,46 @@
     #content{
      margin-bottom: 55px;   
     }
+}
+
+@media screen and (max-device-width: 1024px) and (orientation: landscape) {
+    #navbar{
+     margin-bottom: 0px;
+    }
+    #container{
+     margin-bottom: 0px;   
+    }
+    #topicMain{
+     width: 100%;
+    }
+    #content{
+     margin-bottom: 55px;   
+    }
+    
+    .Timeline {
+	   display: flex;
+	   flex-flow: row nowrap;
+	   overflow-X: scroll;
+	   width: 100%;
+       max-height: 50%;
+	   justify-content: flex-start;
+	   align-items: flex-start;
+    }
+    
+    .TimelineEntry {
+	flex: 1 0 33.333%;
+	display: inline-flex;
+    text-decoration: none;
+	white-space: initial;
+	margin: .5em 1em;
+	color: #dddddd;
+	background-color: #292929;
+	padding: 0px;
+	border-radius: 2px;
+	transition: background-color .5s;
+	font-size: 12pt;
+	flex-flow: column nowrap;
+	justify-content: center;
+	align-items: flex-start;
+}
 }
