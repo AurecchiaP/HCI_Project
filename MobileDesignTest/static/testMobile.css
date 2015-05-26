@@ -97,7 +97,7 @@
     }
 }
 
-@media screen and (orientation: portrait) and (max-device-width: 1024px) {
+@media screen and (orientation: portrait) and (max-device-width: 740px) {
     #contentContainer {
         margin-top: -2.66%;
         margin-bottom: -3.33%;
