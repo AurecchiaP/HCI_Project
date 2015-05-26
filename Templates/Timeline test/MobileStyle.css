@@ -24,3 +24,28 @@
      margin-bottom: 55px;   
     }
 }
+
+@media screen and (orientation: portrait) and (max-device-width: 1024px) {
+        .Timeline {
+	   display: flex;
+	   flex-flow: column;
+	   overflow-X: scroll;
+	   width: 100%;
+	   justify-content: flex-start;
+	   align-items: flex-start;
+    }
+    
+    #navbar{
+        margin-bottom: 0px;
+}
+    #container{
+     margin-bottom: 0px;   
+    }
+    #topicMain{
+     width: 100%;
+     min-height: 100vh;
+    }
+    #content{
+     margin-bottom: 55px;   
+    }
+}
