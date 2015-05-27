@@ -96,6 +96,32 @@
 .nav_hci.selected{
     border-color: #A48DDA;
 }
+
+#menu-icon {
+    display: none;
+    width: 40px;
+    height: 40px;
+    font-size: 27px;
+/*    float: right;
+*/    padding-right: 5px;
+}
+
+a:hover#menu-icon {
+    background-color: #444;
+    border-radius: 4px 4px 0 0;
+}
+
+#nav_search_mobile{
+        display: none;
+    }
+
+.nav_prev {
+    display: none;
+}
+
+.nav_nex {
+    display: none;
+} 
 /* *********************** END Navigation Bar *********************** */
 
 /* *********************** Main *********************** */

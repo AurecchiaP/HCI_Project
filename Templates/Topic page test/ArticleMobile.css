@@ -1,7 +1,6 @@
 /* Portrait */
 
 @media screen and (orientation: portrait) and (max-width: 740px) {
-    
     #tp_button {
         visibility: hidden;
     }
@@ -10,11 +9,6 @@
     }
     #topicMain {
         width: 100%;
-    }
-    #navbar {
-        margin-bottom: 0px !important;
-        text-align: right;
-        position: fixed;
     }
     #content {
         margin-bottom: 0px !important;
@@ -25,6 +19,11 @@
     .img {
         padding: 10px;
         float: none;
+    }
+    #navbar {
+        margin-bottom: 0px !important;
+        text-align: right;
+        position: fixed;
     }
     #menu-icon {
         display: inline-block;
@@ -47,19 +46,15 @@
     #nav_search {
         display: none;
     }
-    
-    #nav_search_mobile{
+    #nav_search_mobile {
         display: inline-block;
     }
-    
-    #nav_prev{
+    #nav_prev {
         display: block;
     }
-    
-    #nav_nex{
+    #nav_nex {
         display: block;
     }
-    
     #menu-icon ~ ul li {
         transition-duration: 5s;
     }
@@ -80,11 +75,6 @@
     #topicMain {
         width: 100%;
     }
-    #navbar {
-        margin-bottom: 0px !important;
-        text-align: right;
-        position: fixed;
-    }
     #content {
         margin-bottom: 0px !important;
     }
@@ -94,6 +84,11 @@
     .img {
         padding: 10px;
         float: none;
+    }
+    #navbar {
+        margin-bottom: 0px !important;
+        text-align: right;
+        position: fixed;
     }
     #menu-icon {
         display: inline-block;
@@ -113,11 +108,10 @@
         padding: 10px 0;
         margin: 0;
     }
-     #nav_search {
+    #nav_search {
         display: none;
     }
-    
-    #nav_search_mobile{
+    #nav_search_mobile {
         display: inline-block;
     }
     #menu-icon ~ ul li {
