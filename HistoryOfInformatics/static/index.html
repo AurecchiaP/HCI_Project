@@ -4,20 +4,33 @@
 <head>
     <meta name="author" content="YOUR_NAME">
     <link rel="stylesheet" type="text/css" href="css/style.css" />
-    <link rel="stylesheet" type="text/css" href="testMobile.css" />
     <meta http-equiv="content-type" content="application/vnd.ms-excel" charset="UTF-8">
     <meta charset="UTF-8">
 </head>
+
 <body>
     <div id="wrapper">
         <div id="navbar">
+            <div id="nav_search_mobile">
+                <form action="get">
+                    <input id="search_field" autocomplete="off" name="search" type="text" placeholder="TO BE CHANGED">
+                    <input id="search_submit" value="" type="image" src="images/search.png">
+                </form>
+            </div>
+            <!--            <a href="#" id="menu-icon">&#9776;</a>-->
             <ul>
-                <li class="nav_home selected"><a href="../index.html">HOME</a></li>
-                <li class="nav_software"><a href="#">SOFTWARE</a></li>
-                <li class="nav_hardware"><a href="#">HARDWARE</a></li>
-                <li class="nav_internet"><a href="#">INTERNET</a></li>
-                <li class="nav_games"><a href="#">GAMES</a></li>
-                <li class="nav_hci"><a href="#">HCI</a></li>
+                <li class="nav_home selected"><a href="../index.html">HOME</a>
+                </li>
+                <li class="nav_software"><a href="#">SOFTWARE</a>
+                </li>
+                <li class="nav_hardware"><a href="#">HARDWARE</a>
+                </li>
+                <li class="nav_internet"><a href="#">INTERNET</a>
+                </li>
+                <li class="nav_games"><a href="#">GAMES</a>
+                </li>
+                <li class="nav_hci"><a href="#">HCI</a>
+                </li>
                 <div id="nav_search">
                     <form action="get">
                         <input id="search_field" autocomplete="off" name="search" type="text" placeholder="Search...">
@@ -52,12 +65,13 @@
                     </div>
                     <div class="row">
                         <div id="hciIcon" class="di_o"><img src="images/icons/hci_w.png" alt="hciIcon">
-                    </div>
-                    <span id="hciName">HCI</span>
+                        </div>
+                        <span id="hciName">HCI</span>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </body>
+
 </html>
