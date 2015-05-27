@@ -83,11 +83,7 @@ function setupAndSendAjaxRequest (requestedPage) {
 
 // Prepare to show loading screen
 function showLoadingAjax () {
-	replaceHTMLOfElement(bodyTag, '<div id="progressDiv" style="display: none; height: 10px; width: 100%; position: absolute; top: 0; left: 0; z-index: 1000;">
-		<span id="outerProgress" style="width: 100%; height: 100%; overflow: hidden; background-color: black; display: block;">
-			<span id="innerProgress" style="height: 100%; width: 120px; position: relative; left: -120px; background-color: white; display: block;"></span>
-		</span>
-	</div>');
+	bodyTag.prepend('<div id="progressDiv"><span id="outerProgress"><span id="innerProgress"></span></span></div>');
 	showProgressBar();
 }
 
@@ -111,7 +107,7 @@ function dealWithHash () {
 		if (hash != '') {
 			setupAndSendAjaxRequest(hash);
 		}else{
-			setupAndSendAjaxRequest('pages/home.html');
+			setupAndSendAjaxRequest('/');
 		}
 	}
 	_ignoreHashChangeOnce = false;
