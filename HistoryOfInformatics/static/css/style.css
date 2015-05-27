@@ -96,6 +96,8 @@
 .nav_hci.selected{
     border-color: #A48DDA;
 }
+/* *********************** END Navigation Bar *********************** */
+
 /* *********************** Main *********************** */
 body {
     margin: 0px;
@@ -122,9 +124,9 @@ footer {
     padding: 20px;
     margin-top: -55px;
 }
+/* *********************** END Main *********************** */
 
 /* *********************** Index Page *********************** */
-
 /*Content*/
 #contentContainer {
 /*    background-color: red;*/
@@ -291,9 +293,9 @@ footer {
     display: none;
 }
 /*End NOT Display labels*/
+/* *********************** END Index Page *********************** */
 
 /* *********************** Topic page *********************** */
-
 #topicMain{
     /*border: 1px solid black;*/
     width: 81%;
@@ -439,6 +441,7 @@ footer {
 .bLeft:hover ~ .tbhl p{
     margin-left: 30px;
 }
+/* *********************** END Topic page *********************** */
 
 /* *********************** Timeline Page *********************** */
 /* Timeline box */
@@ -578,5 +581,4 @@ footer {
     text-align: justify;
     
 }
-
-/* ----- End timeline ------ */
+/* *********************** END Timeline Page *********************** */
