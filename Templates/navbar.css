@@ -74,3 +74,11 @@
     width: 21px;
     background-color: white;
 }
+
+.nav_prev {
+    display: none;
+}
+
+.nav_nex {
+    display: none;
+}
