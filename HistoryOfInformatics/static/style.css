@@ -186,6 +186,73 @@ footer {
     padding: 20px;
     margin-top: -55px;
 }
+
+.floatLeft{
+    float: left;
+}
+.floatRight{
+    float: right;
+}
+img.right{
+    float: right;
+    margin-left: 25px;
+    margin-bottom: 20px;
+
+}
+
+img.left{
+    float: left;
+    margin-right: 25px;
+    margin-bottom: 20px;
+}
+
+.captionedImg {
+    width: 100%;
+    height: 100%;
+}
+
+.imgRightWithCaption {
+    margin-bottom: 10px;
+    float: right;
+    margin-left: 25px;
+    position: relative;
+}
+
+.imgLeftWithCaption {
+    margin-bottom: 10px;
+    float: left;
+    margin-right: 25px;
+    position: relative;
+}
+
+.imgWithCaption {
+    margin-bottom: 10px;
+    margin-right: 25px;
+    position: relative;
+    
+}
+
+.youvideo {
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.caption{
+    width: 98%;
+    bottom: 5px;
+    padding: 0% 1.5% 0% 3%;
+    color: white;
+    background-color: rgba(130,130,130,0.9);
+    text-align: center;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+
+}
+.caption sup{
+    color: white;
+}
 /* *********************** END Main *********************** */
 /* *********************** Index Page *********************** */
 /*Content*/
