@@ -933,6 +933,9 @@ background: #666; color: #FFF;
         display: block;
     }
     #menu-icon ~ ul li {
+        -webkit-transition-duration: 5s;
+        -moz-transition-duration: 5s;
+        -ms-transition-duration: 5s;
         transition-duration: 5s;
     }
     #menu-icon:focus ~ ul,
@@ -1159,7 +1162,7 @@ background: #666; color: #FFF;
         -ms-transition-duration: 5s;
         transition-duration: 5s;
     }
-    #menu-icon:focus ~ ul,
+    #menu-icon:hover ~ ul,
     li {
         -webkit-display: block !important;
         -moz-display: block !important;
