@@ -6,6 +6,7 @@ import sqlite3
 import TempArticles
 
 def generateDatabase():
+	print("===== GENERATING DATABASE...PLEASE WAIT =====")
 	basePath = os.path.dirname(os.path.realpath(__file__))
 	pathToCore = basePath.rsplit("/", 1)[0]
 	pathToHTML = pathToCore + "/OldHtml"
@@ -77,7 +78,7 @@ def generateDatabase():
 					externalLinksTemp = mainBody.find("div", attrs = {"class": "externalLinks"})
 					if externalLinksTemp == None:
 							externalLinks = "None"
-							print("No external links")
+							
 					else:
 							externalLinks = externalLinksTemp.find("ol")
 							if externalLinks == None:
@@ -148,5 +149,6 @@ def generateDatabase():
 		
 	tA.disconnect()	
 	finalDB.disconnect()
+	print("===== DATABASE GENERATED SUCCESSFULLY =====")
 				
 				
