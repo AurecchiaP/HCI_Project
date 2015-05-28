@@ -55,7 +55,8 @@ function sendAjaxRequest (url, callback) {
 function replaceHTMLOfPage (content) {
 
 	// Set the new content
-	$('html').replaceWith(content);
+	// $('body').html(content.replace(/.*<body>(.*)<\/body>.*/, "$1"));
+	console.log(content.replace(/.*<body>(.*)<\/body>.*/, "$1"))
 
 	// Take the title from the webpage
 	// var newTitle = $('div.title.hidden').html();

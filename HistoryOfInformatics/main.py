@@ -26,6 +26,11 @@ def returnImageMain(filename):
 def returnCSS():
    return app.send_static_file("style.css")
 
+@app.route("/js/<filename>")
+def returnJS(filename):
+    pathToJS=str("static/js/" + filename)
+    return send_file(pathToJS)
+
 
 @app.route("/<section>/")
 def getIndexPageForSection(section):

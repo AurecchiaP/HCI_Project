@@ -10,7 +10,7 @@ def generateDatabase():
 	pathToCore = basePath.rsplit("/", 1)[0]
 	pathToHTML = pathToCore + "/OldHtml"
 
-	sectionFolders = os.popen("cd " + pathToHTML + ";ls -1").read().split("\n")[:-1]
+	sectionFolders = os.popen("cd \"" + pathToHTML + "\";ls -1").read().split("\n")[:-1]
 
 	os.system("")
 

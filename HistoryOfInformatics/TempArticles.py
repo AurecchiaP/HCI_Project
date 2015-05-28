@@ -9,7 +9,7 @@ class TempArticles:
 			self.articlesConnect = sqlite3.connect(str(name))
 			print("SQLITE3: Connected to " +str(name))
 			basePath = os.path.dirname(os.path.realpath(__file__))
-			os.system("cd " + basePath + ";sqlite3 "+ str(name) +" < createNewDatabase.sql")
+			os.system("cd \"" + basePath + "\";sqlite3 "+ str(name) +" < createNewDatabase.sql")
 		except:
 			print("SQLITE3: Could not connect to tempArticlesDB")
 			
