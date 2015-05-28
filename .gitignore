@@ -1,3 +1,4 @@
 tempArticlesDB.db
 HistoryOfInformatics/finalDB.db
 HistoryOfInformatics/dbQuery.py
+*.pyc
