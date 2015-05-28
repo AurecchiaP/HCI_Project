@@ -937,7 +937,13 @@ background: #666; color: #FFF;
     }
     #menu-icon:focus ~ ul,
     li {
+        -webkit-display: block !important;
+        -moz-display: block !important;
+        -ms-display: block !important;
         display: block !important;
+        -webkit-transform: translate(-290px, 0px);
+        -moz-transform: translate(-290px, 0px);
+        -ms-transform: translate(-290px, 0px);
         transform: translate(-290px, 0px);
     }
     /*    timeline*/
