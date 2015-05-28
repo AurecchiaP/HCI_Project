@@ -12,7 +12,6 @@ $(document).ready(function(){
 window.addEventListener("hashchange", dealWithHash);
 
 // Variable containing the div which always gets updated
-var bodyTag;
 
 // Ignore hash changes
 var _ignoreHashChangeOnce = false;
@@ -53,17 +52,17 @@ function sendAjaxRequest (url, callback) {
 }
 
 // Helper method to replace an element's HTML
-function replaceHTMLOfElement (element, content) {
+function replaceHTMLOfPage (content) {
 
 	// Set the new content
-	element.html(content);
+	$('html').replaceWith(content);
 
 	// Take the title from the webpage
-	var newTitle = $('div.title.hidden').html();
-	if (newTitle != undefined) {
-		document.title = newTitle
-		$('div.title.hidden').remove();
-	};
+	// var newTitle = $('div.title.hidden').html();
+	// if (newTitle != undefined) {
+	// 	document.title = newTitle
+	// 	$('div.title.hidden').remove();
+	// };
 
 	// Intercept clicks on internal links - new watcher has to be made to apply to the new links
 	$('a.internal:not(.homepage)').click(function(event){
@@ -74,16 +73,16 @@ function replaceHTMLOfElement (element, content) {
 }
 
 
-// Sends Ajax request and puts returned content into the bodyTag
+// Sends Ajax request and puts returned content into $('body')
 function setupAndSendAjaxRequest (requestedPage) {
 	sendAjaxRequest(requestedPage, function(data){
-		replaceHTMLOfElement(bodyTag, data);
+		replaceHTMLOfPage('<html><body>'+data+'</body></html>');
 	});
 }
 
 // Prepare to show loading screen
 function showLoadingAjax () {
-	bodyTag.prepend('<div id="progressDiv"><span id="outerProgress"><span id="innerProgress"></span></span></div>');
+	$('body').prepend('<div id="progressDiv"><span id="outerProgress"><span id="innerProgress"></span></span></div>');
 	showProgressBar();
 }
 
@@ -124,7 +123,6 @@ function resetPage () {
 
 // Called when page has loaded
 function documentReady () {
-	bodyTag = $('body');
 
 	// When first loaded (after function definitions), check to see if it needs to redirect you because of a hash
 	dealWithHash();

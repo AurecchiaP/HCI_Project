@@ -9,9 +9,13 @@ dbCreator.generateDatabase()
 
 app = Flask(__name__,static_url_path='') 
 
-@app.route("/<section>/<article>")
-def mainPage(section,article):
-    return str(common.getArticleForURL(section, article)["title"])
+@app.route("/")
+def homePage():
+    return app.send_static_file('index.html')
+
+# @app.route("/<section>/<article>")
+# def mainPage(section,article):
+#     return str(common.getArticleForURL(section, article)["title"])
 
 # Small demo for the current time in unix timestamp
 @app.route("/curepochdate")
