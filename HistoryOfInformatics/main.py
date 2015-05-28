@@ -37,13 +37,11 @@ def getIndexPageForSection(section):
     if ("hci" in section):
         return article_generator.hci(section)
     if ("css" in section):
-        print("Inside CSS")
         return app.send_static_file("style.css")
     elif ("ico" in section):
         print("Inside ICO")
         return app.send_static_file("/Logos/favicon.png")
     elif ("the-capsule" in section):
-        print("Inside CAPSULE")
         return app.send_static_file("the-capsule.png")
     elif ("search" in section):
         return app.send_static_file("search.png")

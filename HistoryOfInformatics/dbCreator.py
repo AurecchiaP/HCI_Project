@@ -90,7 +90,9 @@ def generateDatabase():
 					for i in range(0,len(dates)):
 						if dates[i][0] == linkToArticle:
 							articleDate = dates[i][2]
-					tA.addArticle(sectionFolders[section], articleTitle, mainContent, externalLinks, articleDate, linkToArticle)
+							articleImage = dates[i][3]
+
+					tA.addArticle(sectionFolders[section], articleTitle, mainContent, externalLinks, articleDate, linkToArticle, articleImage)
 
 	sectionTables = tA.getListOfTables()
 	# Create the final DB
@@ -110,7 +112,8 @@ def generateDatabase():
 				"nextTitle":currentEntry[7],
 				"nextLink":currentEntry[8],
 				"externalLinks":currentEntry[9],
-				"date":currentEntry[10]
+				"date":currentEntry[10],
+				"articleImage":currentEntry[11]
 				})
 
 
@@ -124,7 +127,7 @@ def generateDatabase():
 				jsonData[a]["nextTitle"] = jsonData[a+1]["title"]
 				jsonData[a]["nextLink"] = jsonData[a+1]["link"]
 		for a in range(0,len(jsonData)):
-			finalDB.addArticleWithConnections(jsonData[a]["category"], jsonData[a]["title"], jsonData[a]["body"],jsonData[a]["externalLinks"], jsonData[a]["date"], jsonData[a]["link"], jsonData[a]["previousTitle"], jsonData[a]["previousLink"], jsonData[a]["nextTitle"], jsonData[a]["nextLink"])
+			finalDB.addArticleWithConnections(jsonData[a]["category"], jsonData[a]["title"], jsonData[a]["body"],jsonData[a]["externalLinks"], jsonData[a]["date"], jsonData[a]["link"], jsonData[a]["previousTitle"], jsonData[a]["previousLink"], jsonData[a]["nextTitle"], jsonData[a]["nextLink"], jsonData[a]["articleImage"])
 		
 	tA.disconnect()	
 	finalDB.disconnect()

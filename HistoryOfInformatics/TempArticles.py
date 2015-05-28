@@ -15,7 +15,7 @@ class TempArticles:
 			
 		
 
-	def addArticle(self,categoryTable,title, body, externalLinks, date,linkToArticle):
+	def addArticle(self,categoryTable,title, body, externalLinks, date,linkToArticle, articleImage):
 		"""
 		Add an article to the database
 		"""
@@ -24,15 +24,15 @@ class TempArticles:
 		self.__checkIfTableExists(categoryTable)
 
 		try:
-			commandToExecute = "INSERT INTO " + str(categoryTable) + " VALUES (NULL,?,?,?,?,?,?,?,?,?,?);"
-			cur.execute(commandToExecute,(str(title),str(body),str(categoryTable),str(linkToArticle),"NONE","NONE","NONE","NONE",str(externalLinks),date))
+			commandToExecute = "INSERT INTO " + str(categoryTable) + " VALUES (NULL,?,?,?,?,?,?,?,?,?,?,?);"
+			cur.execute(commandToExecute,(str(title),str(body),str(categoryTable),str(linkToArticle),"NONE","NONE","NONE","NONE",str(externalLinks),date,str(articleImage)))
 			self.articlesConnect.commit()
 			# print("Added successfully with ID " + str(cur.lastrowid))
 			# self.__updateInternalList()
 		except Exception as e:
 		 	print("SQLITE3: CANNOT ADD ENTRY. ERROR {\n" + str(e) + "\n}")
 
-	def addArticleWithConnections(self,categoryTable,title, body, externalLinks, date,linkToArticle,previousTitle,previousLink,nextTitle,nextArticle):
+	def addArticleWithConnections(self,categoryTable,title, body, externalLinks, date,linkToArticle,previousTitle,previousLink,nextTitle,nextArticle,articleImage):
 		"""
 		Add an article to the database
 		"""
@@ -41,8 +41,8 @@ class TempArticles:
 		self.__checkIfTableExists(categoryTable)
 
 		try:
-			commandToExecute = "INSERT INTO " + str(categoryTable) + " VALUES (NULL,?,?,?,?,?,?,?,?,?,?);"
-			cur.execute(commandToExecute,(str(title),str(body),str(categoryTable),str(linkToArticle),str(previousTitle),str(previousLink),str(nextTitle),str(nextTitle),str(externalLinks),date))
+			commandToExecute = "INSERT INTO " + str(categoryTable) + " VALUES (NULL,?,?,?,?,?,?,?,?,?,?,?);"
+			cur.execute(commandToExecute,(str(title),str(body),str(categoryTable),str(linkToArticle),str(previousTitle),str(previousLink),str(nextTitle),str(nextTitle),str(externalLinks),date,str(articleImage)))
 			self.articlesConnect.commit()
 			# print("Added successfully with ID " + str(cur.lastrowid))
 			# self.__updateInternalList()

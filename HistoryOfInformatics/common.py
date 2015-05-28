@@ -23,7 +23,8 @@ def allArticlesFromTable(category):
 			"nextTitle":queryResult[7],
 			"nextLink":queryResult[8],
 			"externalLinks":queryResult[9],
-			"date":queryResult[10]
+			"date":queryResult[10],
+			"articleImage":queryResult[11]
 		})
 	return jsonData
 
@@ -87,7 +88,8 @@ def getArticleForURL(section,articleURL):
 		"nextTitle":queryResult[7],
 		"nextLink":queryResult[8],
 		"externalLinks":queryResult[9],
-		"date":queryResult[10]
+		"date":queryResult[10],
+		"articleImage":queryResult[11]
 	}
 
 	return jsonData
@@ -116,7 +118,8 @@ def getSectionIndexPage(section):
 		"nextTitle":queryResult[7],
 		"nextLink":queryResult[8],
 		"externalLinks":queryResult[9],
-		"date":queryResult[10]
+		"date":queryResult[10],
+		"articleImage":queryResult[11]
 	}
 
 	return jsonData
