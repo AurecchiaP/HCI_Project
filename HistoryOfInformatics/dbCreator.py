@@ -19,15 +19,13 @@ def generateDatabase():
 	import csv
 	import sys
 
-	f = open("dates.csv", 'rt')
-	try:
-		dates = []
-		reader = csv.reader(f)
-		for line in reader:
-			dates.append(line)
-	except:
-		print("Could not open CSV File")
+	f = open("dates.csv", 'rt', encoding = "ISO-8859-1")
 
+	dates = []
+	reader = csv.reader(f)
+	for line in reader:
+		dates.append(line)
+	
 	for i in range(0,len(dates)):
 		dateTemp = dates[i][2].split("/")
 		dates[i][2] = str("19" + dateTemp[2] + "-" + dateTemp[1] + "-" + dateTemp[0])
@@ -87,12 +85,15 @@ def generateDatabase():
 
 					linkToArticle = str(sectionFolders[section] + "/" + file.rsplit("/", 1)[1])
 					articleDate = "PLACEHOLDER"
+					articleImage = "NONE"
+					articleDescription = "NONE"
 					for i in range(0,len(dates)):
 						if dates[i][0] == linkToArticle:
 							articleDate = dates[i][2]
 							articleImage = dates[i][3]
+							articleDescription = dates[i][4]
 
-					tA.addArticle(sectionFolders[section], articleTitle, mainContent, externalLinks, articleDate, linkToArticle, articleImage)
+					tA.addArticle(sectionFolders[section], articleTitle, mainContent, externalLinks, articleDate, linkToArticle, articleImage, articleDescription)
 
 	sectionTables = tA.getListOfTables()
 	# Create the final DB
@@ -113,21 +114,37 @@ def generateDatabase():
 				"nextLink":currentEntry[8],
 				"externalLinks":currentEntry[9],
 				"date":currentEntry[10],
-				"articleImage":currentEntry[11]
+				"articleImage":currentEntry[11],
+				"articleDescription":currentEntry[12]
 				})
-
-
+		
+		dataNotForLinking = []
+		dataForLinking = []
+		# Remove all entries that are not an actual article
 		for a in range(0,len(jsonData)):
-			jsonData[a]["previousTitle"] = jsonData[a-1]["title"]
-			jsonData[a]["previousLink"] = jsonData[a-1]["link"]
-			if (a >= len(jsonData)-1):
-				jsonData[a]["nextTitle"] = jsonData[0]["title"]
-				jsonData[a]["nextLink"] = jsonData[0]["link"]
+			if ("index.html" not in jsonData[a]["link"]):
+				dataForLinking.append(jsonData[a])
 			else:
-				jsonData[a]["nextTitle"] = jsonData[a+1]["title"]
-				jsonData[a]["nextLink"] = jsonData[a+1]["link"]
+				dataNotForLinking.append(jsonData[a])
+		
+		
+		for a in range(0,len(dataForLinking)):
+			dataForLinking[a]["previousTitle"] = dataForLinking[a-1]["title"]
+			dataForLinking[a]["previousLink"] = dataForLinking[a-1]["link"]
+			if (a >= len(dataForLinking)-1):
+				dataForLinking[a]["nextTitle"] = dataForLinking[0]["title"]
+				dataForLinking[a]["nextLink"] = dataForLinking[0]["link"]
+			else:
+				dataForLinking[a]["nextTitle"] = dataForLinking[a+1]["title"]
+				dataForLinking[a]["nextLink"] = dataForLinking[a+1]["link"]
+		jsonData = []
+		for a in range(0,len(dataForLinking)):
+			jsonData.append(dataForLinking[a])
+		for a in range(0,len(dataNotForLinking)):
+			jsonData.append(dataNotForLinking[a])
+
 		for a in range(0,len(jsonData)):
-			finalDB.addArticleWithConnections(jsonData[a]["category"], jsonData[a]["title"], jsonData[a]["body"],jsonData[a]["externalLinks"], jsonData[a]["date"], jsonData[a]["link"], jsonData[a]["previousTitle"], jsonData[a]["previousLink"], jsonData[a]["nextTitle"], jsonData[a]["nextLink"], jsonData[a]["articleImage"])
+			finalDB.addArticleWithConnections(jsonData[a]["category"], jsonData[a]["title"], jsonData[a]["body"],jsonData[a]["externalLinks"], jsonData[a]["date"], jsonData[a]["link"], jsonData[a]["previousTitle"], jsonData[a]["previousLink"], jsonData[a]["nextTitle"], jsonData[a]["nextLink"], jsonData[a]["articleImage"],jsonData[a]["articleDescription"])
 		
 	tA.disconnect()	
 	finalDB.disconnect()

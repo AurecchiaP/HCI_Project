@@ -15,7 +15,7 @@ class TempArticles:
 			
 		
 
-	def addArticle(self,categoryTable,title, body, externalLinks, date,linkToArticle, articleImage):
+	def addArticle(self,categoryTable,title, body, externalLinks, date,linkToArticle, articleImage, articleDescription):
 		"""
 		Add an article to the database
 		"""
@@ -24,15 +24,15 @@ class TempArticles:
 		self.__checkIfTableExists(categoryTable)
 
 		try:
-			commandToExecute = "INSERT INTO " + str(categoryTable) + " VALUES (NULL,?,?,?,?,?,?,?,?,?,?,?);"
-			cur.execute(commandToExecute,(str(title),str(body),str(categoryTable),str(linkToArticle),"NONE","NONE","NONE","NONE",str(externalLinks),date,str(articleImage)))
+			commandToExecute = "INSERT INTO " + str(categoryTable) + " VALUES (NULL,?,?,?,?,?,?,?,?,?,?,?,?);"
+			cur.execute(commandToExecute,(str(title),str(body),str(categoryTable),str(linkToArticle),"NONE","NONE","NONE","NONE",str(externalLinks),date,str(articleImage),str(articleDescription)))
 			self.articlesConnect.commit()
 			# print("Added successfully with ID " + str(cur.lastrowid))
 			# self.__updateInternalList()
 		except Exception as e:
 		 	print("SQLITE3: CANNOT ADD ENTRY. ERROR {\n" + str(e) + "\n}")
 
-	def addArticleWithConnections(self,categoryTable,title, body, externalLinks, date,linkToArticle,previousTitle,previousLink,nextTitle,nextArticle,articleImage):
+	def addArticleWithConnections(self,categoryTable,title, body, externalLinks, date,linkToArticle,previousTitle,previousLink,nextTitle,nextArticle,articleImage,articleDescription):
 		"""
 		Add an article to the database
 		"""
@@ -41,8 +41,8 @@ class TempArticles:
 		self.__checkIfTableExists(categoryTable)
 
 		try:
-			commandToExecute = "INSERT INTO " + str(categoryTable) + " VALUES (NULL,?,?,?,?,?,?,?,?,?,?,?);"
-			cur.execute(commandToExecute,(str(title),str(body),str(categoryTable),str(linkToArticle),str(previousTitle),str(previousLink),str(nextTitle),str(nextTitle),str(externalLinks),date,str(articleImage)))
+			commandToExecute = "INSERT INTO " + str(categoryTable) + " VALUES (NULL,?,?,?,?,?,?,?,?,?,?,?,?);"
+			cur.execute(commandToExecute,(str(title),str(body),str(categoryTable),str(linkToArticle),str(previousTitle),str(previousLink),str(nextTitle),str(nextArticle),str(externalLinks),date,str(articleImage),str(articleDescription)))
 			self.articlesConnect.commit()
 			# print("Added successfully with ID " + str(cur.lastrowid))
 			# self.__updateInternalList()

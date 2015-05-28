@@ -15,7 +15,8 @@ CREATE TABLE games (
   nextLink text,
   externalLinks text,
   date text,
-  articleImage text
+  articleImage text,
+  articleDescription text
 );
 
 CREATE TABLE hardware (
@@ -30,7 +31,8 @@ CREATE TABLE hardware (
   nextLink text,
   externalLinks text,
   date text,
-  articleImage text
+  articleImage text,
+  articleDescription text
 );
 
 CREATE TABLE software (
@@ -45,7 +47,8 @@ CREATE TABLE software (
   nextLink text,
   externalLinks text,
   date text,
-  articleImage text
+  articleImage text,
+  articleDescription text
 );
 
 CREATE TABLE hci (
@@ -60,7 +63,8 @@ CREATE TABLE hci (
   nextLink text,
   externalLinks text,
   date text,
-  articleImage text
+  articleImage text,
+  articleDescription text
 );
 
 CREATE TABLE internet (
@@ -75,5 +79,6 @@ CREATE TABLE internet (
   nextLink text,
   externalLinks text,
   date text,
-  articleImage text
+  articleImage text,
+  articleDescription text
 );

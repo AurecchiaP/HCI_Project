@@ -19,7 +19,7 @@ def returnMainPageSecondVersion():
 
 @app.route("/images/<filename>")
 def returnImageMain(filename):
-    pathToImage=str("static/" + filename)
+    pathToImage=str("static/images/" + filename)
     return send_file(pathToImage)
     
 @app.route("/css/style.css")
@@ -47,6 +47,9 @@ def getIndexPageForSection(section):
         return app.send_static_file("search.png")
     elif ("arrow" in section):
         return app.send_static_file("arrow.png")
+    elif ("jpeg" in section) or ("jpg" in section) or ("png" in section):
+        pathToImage=str("static/" + filename)
+        return send_file(pathToImage)
     else:
         return article_generator.create_section(section)
         
