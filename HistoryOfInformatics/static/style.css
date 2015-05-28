@@ -900,7 +900,7 @@ background: #666; color: #FFF;
         position: fixed;
         top: 0px;
         z-index: 666;
-        padding-bottom: 10px;
+        padding-bottom: 1px;
     }
     #menu-icon {
         display: inline-block;
@@ -908,7 +908,7 @@ background: #666; color: #FFF;
     #navbar ul {
         display: none !important;
         position: fixed;
-        padding: 20px;
+        padding: 0px;
         background: transparent;
         right: -600px;
         top: 40px;
@@ -1080,20 +1080,50 @@ background: #666; color: #FFF;
         position: fixed;
         top: 0px;
         z-index: 666;
-        padding-bottom: 25px;
+        padding-bottom: 10px;
     }
     #menu-icon {
+        -webkit-display: inline-block;
+        -moz-display: inline-block;
+        -ms-display: inline-block;
         display: inline-block;
     }
     #navbar ul {
+/*
+        -webkit-
+        -moz-
+        -ms-
+*/
+        -webkit-display: none !important;
+        -moz-display: none !important;
+        -ms-display: none !important;
         display: none !important;
+        -webkit-position: fixed;
+        -moz-position: fixed;
+        -ms-position: fixed;
         position: fixed;
-        padding: 20px;
+        -webkit-padding: 0px;
+        -moz-padding: 0px;
+        -ms-padding: 0px;
+        padding: 0px;
+        -webkit-background: transparent;
+        -moz-background: transparent;
+        -ms-background: transparent;
         background: transparent;
+        -webkit-right: -600px;
+        -moz-right: -600px;
+        -ms-right: -600px;
         right: -600px;
+        -webkit-top: 40px;
+        -moz-top: 40px;
+        -ms-top: 40px;
         top: 40px;
+        -webkit-width: 25% !important;
+        -moz-width: 25% !important;
+        -ms-width: 25% !important;
         width: 25% !important;
     }
+    
     #navbar li {
         text-align: center;
         width: 100%;
@@ -1108,11 +1138,20 @@ background: #666; color: #FFF;
         padding-top: 15px;
     }
     #menu-icon ~ ul li {
+        -webkit-transition-duration: 5s;
+        -moz-transition-duration: 5s;
+        -ms-transition-duration: 5s;
         transition-duration: 5s;
     }
     #menu-icon:focus ~ ul,
     li {
+        -webkit-display: block !important;
+        -moz-display: block !important;
+        -ms-display: block !important;
         display: block !important;
+        -webkit-transform: translate(-290px, 0px);
+        -moz-transform: translate(-290px, 0px);
+        -ms-transform: translate(-290px, 0px);
         transform: translate(-290px, 0px);
     }
     /*    Timeline*/
@@ -1215,6 +1254,8 @@ background: #666; color: #FFF;
         font-size: 150%;
         font-weight: 700;
     }
+    
+    
     .di_o {
         -webkit-flex-basis: 100%;
         -moz-flex-basis: 100%;
