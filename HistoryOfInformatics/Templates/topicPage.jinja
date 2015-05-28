@@ -1,10 +1,5 @@
             <div id="topicMain">
-                <a href="#"><div id="tp_button" class="bLeft"><img src="../img/arrow.png"></div><div id="tp_button_hover" class="tbhl"><p>{{ previousPageTitle }}<p></div></a>
-                <div id="content">
-                    <h1>{{ topicTitle }}</h1>
-                    <div class="text">
-                        {{ topicText }}
-                    </div>
-                </div>
-                <a href="#"><div id="tp_button" class="bRight"><img src="../img/arrow.png"></div><div id="tp_button_hover" class="tbhr"><p>{{ nextPageTitle }}<p></div></a>
+                <a href="{{ previousLink }}"><div id="tp_button" class="bLeft"><img src="/arrow.png"></div><div id="tp_button_hover" class="tbhl"><p>{{ previousTitle }}<p></div></a>
+                        {{ body }}
+                <a href="{{ nextLink }}"><div id="tp_button" class="bRight"><img src="/arrow.png"></div><div id="tp_button_hover" class="tbhr"><p>{{ nextTitle }}<p></div></a>
             </div>
