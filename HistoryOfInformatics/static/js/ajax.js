@@ -54,9 +54,13 @@ function sendAjaxRequest (url, callback) {
 // Helper method to replace an element's HTML
 function replaceHTMLOfPage (content) {
 
+	var json = $.parseJSON(content)
+
 	// Set the new content
-	// $('body').html(content.replace(/.*<body>(.*)<\/body>.*/, "$1"));
-	console.log(content.replace(/.*<body>(.*)<\/body>.*/, "$1"))
+	console.log(json)
+	$('#topicMain').html(json['topicMain']);
+	$('#navbar').html(json['navbar'])
+	window.title = json['title']
 
 	// Take the title from the webpage
 	// var newTitle = $('div.title.hidden').html();
@@ -77,7 +81,7 @@ function replaceHTMLOfPage (content) {
 // Sends Ajax request and puts returned content into $('body')
 function setupAndSendAjaxRequest (requestedPage) {
 	sendAjaxRequest(requestedPage, function(data){
-		replaceHTMLOfPage('<html><body>'+data+'</body></html>');
+		replaceHTMLOfPage(data);
 	});
 }
 
