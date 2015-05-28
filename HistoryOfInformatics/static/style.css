@@ -1125,16 +1125,26 @@ background: #666; color: #FFF;
     }
     
     #navbar li {
+        -webkit-text-align: center;
+        -moz-text-align: center;
+        -ms-text-align: center;
         text-align: center;
         width: 100%;
         padding: 10px 0;
         margin: 0;
     }
     #nav_search {
+        
         display: none;
     }
     #nav_search_mobile {
+        -webkit-display: inline-block;
+        -moz-display: inline-block;
+        -ms-display: inline-block;
         display: inline-block;
+        -webkit-padding-top: 15px;
+        -moz-padding-top: 15px;
+        -ms-padding-top: 15px;
         padding-top: 15px;
     }
     #menu-icon ~ ul li {
@@ -1310,7 +1320,9 @@ background: #666; color: #FFF;
         width: 100%;
     }
     #content {
+        margin: -50px auto 0 auto;
         margin-bottom: 55px;
+        
     }
     .Timeline {
         display: flex;
