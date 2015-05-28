@@ -13,11 +13,18 @@ app = Flask(__name__,static_url_path='')
 def returnMainPage():
     return app.send_static_file("index.html")
 
+@app.route("/home/")
+def returnMainPageSecondVersion():
+    return app.send_static_file("index.html")
 
 @app.route("/images/<filename>")
 def returnImageMain(filename):
-    pathToImage=str("static/Logos/" + filename)
+    pathToImage=str("static/" + filename)
     return send_file(pathToImage)
+    
+@app.route("/css/style.css")
+def returnCSS():
+   return app.send_static_file("style.css")
 
 
 @app.route("/<section>/")
