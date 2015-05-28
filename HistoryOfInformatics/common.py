@@ -3,6 +3,42 @@ import jinja2 #Used to substitute the tags in the html
 import sqlite3
 import json
 
+def queryDatabase(stringToSearch):
+	finalString = stringToSearch.split(" ")
+
+	for i in range(0,len(finalString)):
+		finalString[i] = "%" +  finalString[i] + "%"
+
+
+	dbConnect = sqlite3.connect("finalDB.db")
+	cur = dbConnect.cursor()
+	tempTables = cur.execute("select name from sqlite_master where type = 'table';")
+	tables = tempTables.fetchall()
+
+	listOfTables = []
+	for i in range(0,len(tables)):
+		listOfTables.append(tables[i][0])
+
+	jsonData = []
+
+	for i in range(0,len(listOfTables)):
+		queryToExecute = "SELECT * FROM " + str(listOfTables[i]) + " WHERE title LIKE ?"
+		for i in range(1,len(finalString)):
+			queryToExecute +=  " AND title LIKE ?"
+		queryToExecute += ";"
+		cur.execute(queryToExecute,finalString)
+		queryResultTemp = cur.fetchall()
+		if len(queryResultTemp) != 0:
+			for j in range(0,len(queryResultTemp)):
+				queryResult = queryResultTemp[j]
+				jsonData.append({
+					"title":queryResult[1],
+					"link":queryResult[4],
+				})
+
+	return jsonData
+		
+
 def getArticleForURL(section,articleURL):
 	articleCategory = section
 	articlePage = articleURL
