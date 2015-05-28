@@ -15,7 +15,7 @@ def returnMainPage():
 
 @app.route("/home/")
 def returnMainPageSecondVersion():
-    return app.send_static_file("index.html")
+    return app.send_static_file("home.html")
 
 @app.route("/images/<filename>")
 def returnImageMain(filename):
@@ -25,6 +25,11 @@ def returnImageMain(filename):
 @app.route("/css/style.css")
 def returnCSS():
    return app.send_static_file("style.css")
+
+@app.route("/js/<filename>")
+def returnJS(filename):
+    pathToJS=str("static/js/" + filename)
+    return send_file(pathToJS)
 
 
 @app.route("/<section>/")
