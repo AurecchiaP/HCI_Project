@@ -9,6 +9,36 @@ import article_generator
 dbCreator.generateDatabase()
 
 app = Flask(__name__,static_url_path='') 
+@app.route("/")
+def returnMainPage():
+    return app.send_static_file("index.html")
+
+
+@app.route("/images/<filename>")
+def returnImageMain(filename):
+    pathToImage=str("static/Logos/" + filename)
+    return send_file(pathToImage)
+
+
+@app.route("/<section>/")
+def getIndexPageForSection(section):
+    if ("css" in section):
+        print("Inside CSS")
+        return app.send_static_file("style.css")
+    elif ("ico" in section):
+        print("Inside ICO")
+        return app.send_static_file("/Logos/favicon.png")
+    elif ("the-capsule" in section):
+        print("Inside CAPSULE")
+        return app.send_static_file("the-capsule.png")
+    elif ("search" in section):
+        return app.send_static_file("search.png")
+    elif ("arrow" in section):
+        return app.send_static_file("arrow.png")
+    else:
+        return common.getSectionIndexPage(section)["body"]
+        
+
 
 @app.route("/<section>/<article>")
 def mainPage(section,article):

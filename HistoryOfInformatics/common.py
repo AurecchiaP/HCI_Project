@@ -32,6 +32,35 @@ def getArticleForURL(section,articleURL):
 
 	return jsonData
 
+def getSectionIndexPage(section):
+	articleCategory = section
+	
+	dbConnect = sqlite3.connect("finalDB.db")
+	cur = dbConnect.cursor()
+	queryToExecute = "SELECT * FROM " + str(articleCategory) + " WHERE linkToArticle = ?;"
+	articleLink = str(articleCategory + "/index.html")
+	cur.execute(queryToExecute,(articleLink,))
+	queryResultTemp = cur.fetchall()
+	if len(queryResultTemp) == 0:
+		print("DEAD LINK")
+		return "ERROR"
+	queryResult = queryResultTemp[0]
+	
+	jsonData = {
+		"title":queryResult[1],
+		"body":queryResult[2],
+		"category":queryResult[3],
+		"link":queryResult[4],
+		"previousTitle":queryResult[5],
+		"previousLink":"/"+queryResult[6],
+		"nextTitle":queryResult[7],
+		"nextLink":queryResult[8],
+		"externalLinks":queryResult[9],
+		"date":queryResult[10]
+	}
+
+	return jsonData
+
 
 def jinjaSubstitution(dictWithValues,jinjaFilename):
 	"""
