@@ -29,6 +29,8 @@ def returnCSS():
 
 @app.route("/<section>/")
 def getIndexPageForSection(section):
+    if ("hci" in section):
+        return article_generator.hci()
     if ("css" in section):
         print("Inside CSS")
         return app.send_static_file("style.css")
