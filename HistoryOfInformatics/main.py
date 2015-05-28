@@ -34,8 +34,8 @@ def returnJS(filename):
 
 @app.route("/<section>/")
 def getIndexPageForSection(section):
-    # if ("hci" in section):
-    #     return article_generator.hci()
+    if ("hci" in section):
+        return article_generator.hci(section)
     if ("css" in section):
         print("Inside CSS")
         return app.send_static_file("style.css")
@@ -50,7 +50,7 @@ def getIndexPageForSection(section):
     elif ("arrow" in section):
         return app.send_static_file("arrow.png")
     else:
-        return article_generator.hci(section)
+        return article_generator.create_section(section)
         
 
 
