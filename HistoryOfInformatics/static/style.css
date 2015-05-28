@@ -852,12 +852,13 @@ footer {
         -ms-align-items: left;
         align-items: left;
         margin: 10px 20%;
+        
     }
     .di_o {
-        -webkit-flex-basis: 25%;
-        -moz-flex-basis: 25%;
-        -ms-flex-basis: 25%;
-        flex-basis: 25%;
+        -webkit-flex-basis: 36.5%;
+        -moz-flex-basis: 36.5%;
+        -ms-flex-basis: 36.5%;
+        flex-basis: 36.5%;
     }
     .row  #softwareName, #hardwareName, #internetName, #gamesName, #hciName {
         width: 100px;
@@ -865,6 +866,7 @@ footer {
         text-align: center;
         font-size: 300%;
         font-weight: 700;
+        padding-top: 12%;
     }
     #sectionSelector {
         -webkit-flex-direction: column;
@@ -905,7 +907,7 @@ footer {
         position: fixed;
         top: 0px;
         z-index: 666;
-        padding-bottom: 10px;
+        padding-bottom: 25px;
     }
     #menu-icon {
         display: inline-block;
@@ -930,6 +932,7 @@ footer {
     }
     #nav_search_mobile {
         display: inline-block;
+        padding-top: 15px;
     }
     #menu-icon ~ ul li {
         transition-duration: 5s;
