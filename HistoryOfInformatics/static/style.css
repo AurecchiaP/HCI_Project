@@ -867,11 +867,10 @@ footer {
     .row a {
         display: inherit;
         -webkit-flex-basis: 60%;
-        -moz-flex-basis: 100%;
-        -ms-flex-basis: 100%;
+        -moz-flex-basis: 60%;
+        -ms-flex-basis: 60%;
         flex-basis: 60%;
         padding-left: 20%;
-        
     }
     .row div {
         min-width: 30%;
@@ -1024,13 +1023,12 @@ footer {
     }
     #contentContainer {
         background-size: cover;
-        margin-top: -2%;
+        margin-top: -6%;
         margin-bottom: -3.33%;
         margin-left: 0%;
         margin-right: 0%;
         width: 100%;
         height: 100vh;
-        padding-left: 60px;
     }
     #sectionSelector div:hover::after {
         position: none;
@@ -1063,14 +1061,21 @@ footer {
     #sectionSelector div div {
         -webkit-border-radius: 50%;
     }
-    span {
-        flex-basis: 50%;
+    .row #softwareName,
+    #hardwareName,
+    #internetName,
+    #gamesName,
+    #hciName {
+/*                text-align: center;*/
+
         font-size: 150%;
         font-weight: 700;
     }
     .di_o {
-        flex-basis: 50%;
-        height: 12vw;
+        -webkit-flex-basis: 100%;
+        -moz-flex-basis: 100%;
+        -ms-flex-basis: 100%;
+        flex-basis: 100%;
     }
     #sectionSelector {
         -webkit-flex-direction: row;
@@ -1098,6 +1103,17 @@ footer {
         -moz-align-items: left;
         -ms-align-items: left;
         align-items: left;
+    }
+    .row a {
+        -webkit-flex-basis: 60%;
+        -moz-flex-basis: 60%;
+        -ms-flex-basis: 60%;
+        flex-basis: 60%;
+        padding-left: 5%;
+        text-align: center;
+    }
+    .row div {
+        min-width: 30%;
     }
     /*Navbar empty*/
     /*    Timeline*/
