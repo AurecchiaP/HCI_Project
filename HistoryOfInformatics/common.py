@@ -23,7 +23,7 @@ def getArticleForURL(section,articleURL):
 		"category":queryResult[3],
 		"link":queryResult[4],
 		"previousTitle":queryResult[5],
-		"previousLink":queryResult[6],
+		"previousLink":"/"+queryResult[6],
 		"nextTitle":queryResult[7],
 		"nextLink":queryResult[8],
 		"externalLinks":queryResult[9],

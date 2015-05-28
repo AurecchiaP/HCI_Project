@@ -4,6 +4,7 @@ from flask import Flask #Flask is the base server. use 'sudo pip3 install Flask'
 import os
 import common
 import dbCreator
+import article_generator
 # First thing is generate the DB
 dbCreator.generateDatabase()
 
@@ -11,7 +12,7 @@ app = Flask(__name__,static_url_path='')
 
 @app.route("/<section>/<article>")
 def mainPage(section,article):
-    return str(common.getArticleForURL(section, article)["title"])
+    return article_generator.create_article(section,article)
 
 # Small demo for the current time in unix timestamp
 @app.route("/curepochdate")
