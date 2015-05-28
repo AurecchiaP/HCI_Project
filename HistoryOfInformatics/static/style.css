@@ -682,6 +682,9 @@ footer {
         align-items: center;
         margin: 10px 20%;
     }
+    .row a{
+        display: inherit;
+    }
     .row div{
         min-width: 30%;
     }
@@ -696,6 +699,7 @@ footer {
         font-size: 150%;
         font-weight: 700;
         margin-left: 10px;
+        padding-top: 22%;
     }
     #sectionSelector {
         -webkit-flex-direction: column;
