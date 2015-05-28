@@ -58,8 +58,13 @@ function replaceHTMLOfPage (content) {
 
 	// Set the new content
 	console.log(json)
-	$('#topicMain').html(json['topicMain']);
-	$('#navbar').html(json['navbar'])
+	$('body').html(json['body'].replace('<script src="../../js/timeline/js/storyjs-embed.js" type="text/javascript"></script>', ''));
+
+    $('#topicMain img').each(function () {
+    	if ($(this).attr('src') != "/arrow.png") {
+    		$(this).attr('src', json['section']+"/"+$(this).attr('src'));
+    	};
+    });
 	window.title = json['title']
 
 	// Take the title from the webpage
@@ -69,8 +74,8 @@ function replaceHTMLOfPage (content) {
 	// 	$('div.title.hidden').remove();
 	// };
 
-	// Intercept clicks on internal links - new watcher has to be made to apply to the new links
-	$('a.internal:not(.homepage)').click(function(event){
+	// Intercept clicks on links - new watcher has to be made to apply to the new links
+	$('a').click(function(event){
 		event.preventDefault();
 		setupAndSendAjaxRequest($(this).attr('href'));
 		return false;
@@ -111,7 +116,7 @@ function dealWithHash () {
 		if (hash != '') {
 			setupAndSendAjaxRequest(hash);
 		}else{
-			setupAndSendAjaxRequest('/');
+			setupAndSendAjaxRequest('/home/');
 		}
 	}
 	_ignoreHashChangeOnce = false;
@@ -123,11 +128,14 @@ function updateHashWithoutTriggeringChange(hash) {
 }
 
 function resetPage () {
-	setupAndSendAjaxRequest('pages/home.html');
+	setupAndSendAjaxRequest('/home/');
 }
 
 // Called when page has loaded
 function documentReady () {
+
+	// var jsonDict = {"body": "<div id=\"wrapper\">\n        <div id=\"navbar\">\n            <div id=\"nav_search_mobile\">\n                <form action=\"get\">\n                    <input id=\"search_field\" autocomplete=\"off\" name=\"search\" type=\"text\" placeholder=\"TO BE CHANGED\">\n                    <input id=\"search_submit\" value=\"\" type=\"image\" src=\"images/search.png\">\n                </form>\n            </div>\n            <!--            <a href=\"#\" id=\"menu-icon\">&#9776;</a>-->\n            <ul>\n                <li class=\"nav_home selected\"><a href=\"../index.html\">HOME</a>\n                </li>\n                <li class=\"nav_software\"><a href=\"#\">SOFTWARE</a>\n                </li>\n                <li class=\"nav_hardware\"><a href=\"#\">HARDWARE</a>\n                </li>\n                <li class=\"nav_internet\"><a href=\"#\">INTERNET</a>\n                </li>\n                <li class=\"nav_games\"><a href=\"#\">GAMES</a>\n                </li>\n                <li class=\"nav_hci\"><a href=\"#\">HCI</a>\n                </li>\n                <div id=\"nav_search\">\n                    <form action=\"get\">\n                        <input id=\"search_field\" autocomplete=\"off\" name=\"search\" type=\"text\" placeholder=\"Search...\">\n                        <input id=\"search_submit\" value=\"\" type=\"image\" src=\"images/search.png\">\n                    </form>\n                </div>\n            </ul>\n        </div>\n        <div id=\"externalContainer\">\n            <div id=\"contentContainer\">\n                <h1>History of Informatics</h1>\n                <div id=\"sectionSelector\">\n                    <div class=\"row\">\n                        <div id=\"softwareIcon\" class=\"di_o\"><img src=\"images/icons/software_w.png\" alt=\"softwareIcon\">\n                        </div>\n                        <span id=\"softwareName\">Software</span>\n                    </div>\n                    <div class=\"row\">\n                        <div id=\"hardwareIcon\" class=\"di_o\"><img src=\"images/icons/hardware_w.png\" alt=\"hardwareIcon\">\n                        </div>\n                        <span id=\"hardwareName\">Hardware</span>\n                    </div>\n                    <div class=\"row\">\n                        <div id=\"internetIcon\" class=\"di_o\"><img src=\"images/icons/internet_w.png\" alt=\"internetIcon\">\n                        </div>\n                        <span id=\"internetName\">Internet</span>\n                    </div>\n                    <div class=\"row\">\n                        <div id=\"gamesIcon\" class=\"di_o\"><img src=\"images/icons/games_w.png\" alt=\"gamesIcon\">\n                        </div>\n                        <span id=\"gamesName\">Games</span>\n                    </div>\n                    <div class=\"row\">\n                        <div id=\"hciIcon\" class=\"di_o\"><img src=\"images/icons/hci_w.png\" alt=\"hciIcon\">\n                        </div>\n                        <span id=\"hciName\">HCI</span>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>", "title":"History Of Informatics"}
+	// console.log(JSON.stringify(jsonDict));
 
 	// When first loaded (after function definitions), check to see if it needs to redirect you because of a hash
 	dealWithHash();

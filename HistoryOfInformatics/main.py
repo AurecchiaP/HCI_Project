@@ -15,7 +15,7 @@ def returnMainPage():
 
 @app.route("/home/")
 def returnMainPageSecondVersion():
-    return app.send_static_file("index.html")
+    return app.send_static_file("home.html")
 
 @app.route("/images/<filename>")
 def returnImageMain(filename):

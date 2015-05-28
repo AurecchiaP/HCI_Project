@@ -14,11 +14,13 @@ def create_article(section,article):
             article_data['navElement'] += common.jinjaSubstitution({'sectonNameSelected':element.lower()+' selected', 'sectionName':element, 'sectonNameHref':element.lower()},'navbarList')
         else:
             article_data['navElement'] += common.jinjaSubstitution({'sectonNameSelected':element.lower(), 'sectionName':element, 'sectonNameHref':element.lower()},'navbarList')
-    jsonSend['navbar'] = common.jinjaSubstitution(article_data,'navbarMain')
+    jsonSend['body'] = common.jinjaSubstitution(article_data,'navbarMain')
 
-    jsonSend['topicMain'] = common.jinjaSubstitution(article_data,'topicPage')
+    jsonSend['body'] += common.jinjaSubstitution(article_data,'topicPage')
 
     jsonSend['title'] = article_data['title']
+
+    jsonSend['section'] = section
 
     if html_code.count('</div') % 2 == 1:
         splitted_html_code = html_code.split('<div class="externalLinks">')
@@ -29,6 +31,7 @@ def create_article(section,article):
     return json.dumps(jsonSend)
 
 def hci(section):
+    jsonSend = {}
     html_code = ''
     article_data = common.getSectionIndexPage(section)
     article_data['navElement'] = ''
@@ -37,8 +40,12 @@ def hci(section):
             article_data['navElement'] += common.jinjaSubstitution({'sectonNameSelected':element.lower()+' selected', 'sectionName':element, 'sectonNameHref':element.lower()},'navbarList')
         else:
             article_data['navElement'] += common.jinjaSubstitution({'sectonNameSelected':element.lower(), 'sectionName':element, 'sectonNameHref':element.lower()},'navbarList')
-    html_code += common.jinjaSubstitution(article_data,'navbarMain')
+    
+    jsonSend['body'] = common.jinjaSubstitution(article_data,'navbarMain')
 
-    html_code += common.jinjaSubstitution(article_data,'head')
-    html_code += common.jinjaSubstitution(article_data,'topicPage')
-    return html_code
+    jsonSend['body'] += common.jinjaSubstitution(article_data,'topicPage')
+
+    jsonSend['title'] = section
+
+    jsonSend['section'] = section
+    return json.dumps(jsonSend)
