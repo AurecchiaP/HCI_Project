@@ -1,6 +1,6 @@
 import common
 
-sections = ['Home','Hardware','Software','Internet','Games','HCI']
+sections = ['HOME','SOFTWARE','HARDWARE','INTERNET','GAMES','HCI']
 
 def create_article(section,article):
     article_data = common.getArticleForURL(section, article)
@@ -24,3 +24,17 @@ def create_article(section,article):
 
     return html_code
 
+def hci(section):
+    html_code = ''
+    article_data = common.getSectionIndexPage(section)
+    article_data['navElement'] = ''
+    for element in sections:
+        if section == element.lower():
+            article_data['navElement'] += common.jinjaSubstitution({'sectonNameSelected':element.lower()+' selected', 'sectionName':element, 'sectonNameHref':element.lower()},'navbarList')
+        else:
+            article_data['navElement'] += common.jinjaSubstitution({'sectonNameSelected':element.lower(), 'sectionName':element, 'sectonNameHref':element.lower()},'navbarList')
+    html_code += common.jinjaSubstitution(article_data,'navbarMain')
+
+    html_code += common.jinjaSubstitution(article_data,'head')
+    html_code += common.jinjaSubstitution(article_data,'topicPage')
+    return html_code
