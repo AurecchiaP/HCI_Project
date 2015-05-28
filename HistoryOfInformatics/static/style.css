@@ -239,20 +239,81 @@ img.left{
 }
 
 .caption{
-    width: 98%;
+    position: absolute;
+    width: 95%;
     bottom: 5px;
-    padding: 0% 1.5% 0% 3%;
+    padding: 2.5%;
+    left: 0px;  
     color: white;
-    background-color: rgba(130,130,130,0.9);
+    background-color: rgba(0,0,0,0.7);
     text-align: center;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
-
 }
+
 .caption sup{
     color: white;
 }
+ 
+a{                  /* Attributes of INTERNAL links*/                
+    color: rgb(130,130,130);
+}
+
+a[href^="#"]{       /* Remove the underline to the sap numbers*/
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+/* Start Calzam work on table */
+
+#content table {
+    border-collapse: 
+    collapse; border-spacing: 0;
+}
+
+#content table, td, th {
+    padding: 5px;
+}
+
+#content td, th {
+    border: 1px solid transparent;
+    transition: all 0.3s;
+    text-align: center;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+}
+    
+#content th{
+    font-weight: bold;
+    background-color: #DFDFDF;
+}
+
+#content td:first-child {
+    border-left: none;
+}
+#content th:first-child {
+    border-left: none;
+}
+
+#content td:last-child {
+    border-right: none;
+}
+#content th:last-child {
+    border-right: none;
+}
+tr:nth-child(even) td { 
+    background: #F1F1F1; 
+}   
+
+tr:nth-child(odd) td {
+    background: #FEFEFE; 
+} 
+tr td:hover { 
+background: #666; color: #FFF; 
+}
+    
+/* End Calzam work */
 /* *********************** END Main *********************** */
 /* *********************** Index Page *********************** */
 /*Content*/
