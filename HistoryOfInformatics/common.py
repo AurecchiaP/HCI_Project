@@ -3,6 +3,30 @@ import jinja2 #Used to substitute the tags in the html
 import sqlite3
 import json
 
+def allArticlesFromTable(category):
+	dbConnect = sqlite3.connect("finalDB.db")
+	cur = dbConnect.cursor()
+	queryToExecute = "SELECT * FROM " + str(category) + " WHERE NOT date = \"PLACEHOLDER\"  ORDER BY date ASC;"
+	cur.execute(queryToExecute)
+	allArticles = cur.fetchall()
+	jsonData = []
+	for i in range(0,len(allArticles)):
+		queryResult = allArticles[i]
+
+		jsonData.append({
+			"title":queryResult[1],
+			"body":queryResult[2],
+			"category":queryResult[3],
+			"link":queryResult[4],
+			"previousTitle":queryResult[5],
+			"previousLink":"/"+queryResult[6],
+			"nextTitle":queryResult[7],
+			"nextLink":queryResult[8],
+			"externalLinks":queryResult[9],
+			"date":queryResult[10]
+		})
+	return jsonData
+
 def queryDatabase(stringToSearch):
 	finalString = stringToSearch.split(" ")
 
