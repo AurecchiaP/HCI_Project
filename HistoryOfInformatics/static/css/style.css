@@ -247,7 +247,11 @@ footer {
 }
 
 .row div img {
-    transform: scale(0.75);
+    -o-transform: scale(0.75);
+    -moz-tranform: scale(0.75);
+    -ms-transform: scale(0.75);
+    -webkit-transform: scale(0.75);
+    transform: scale(0.75)
 }
 
 #hciIcon,
