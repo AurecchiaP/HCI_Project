@@ -63,7 +63,9 @@ function replaceHTMLOfPage (content) {
 
     $('#topicMain img').each(function () {
     	if ($(this).attr('src') != "/arrow.png") {
-    		$(this).attr('src', json['section']+"/"+$(this).attr('src'));
+    		if ($(this).attr('src').indexOf("https://") == -1 && $(this).attr('src').indexOf("http://")  == -1) {
+    			$(this).attr('src', json['section']+"/"+$(this).attr('src'));
+    		};
     	};
     });
 	document.title = json['title'].toTitleCase();
