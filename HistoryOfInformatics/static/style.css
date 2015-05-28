@@ -882,7 +882,7 @@ footer {
         background: none;
         border-radius: none;
     }
-	#hciName,#internetName,#gamesName,#hardwareName,#softwareName {
+    #hciName,#internetName,#gamesName,#hardwareName,#softwareName {
         display: inline;
         opacity: 1;
     }
@@ -1009,7 +1009,7 @@ footer {
         background: none;
         border-radius: none;
     }
-	#hciName,#internetName,#gamesName,#hardwareName,#softwareName {
+    #hciName,#internetName,#gamesName,#hardwareName,#softwareName {
         display: inline;
         opacity: 1;
     }
