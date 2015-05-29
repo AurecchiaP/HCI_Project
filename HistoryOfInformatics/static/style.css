@@ -1042,7 +1042,7 @@ tr td:hover {
     /*main page*/
     
     h1 {
-        margin-top: 10%;
+        margin-top: 13%;
     }
     #contentContainer {
         margin-top: -2.66%;
@@ -1134,7 +1134,7 @@ tr td:hover {
         position: fixed;
         top: 0px;
         z-index: 666;
-        padding-bottom: 10px;
+        padding-bottom: 30px;
     }
     #menu-icon {
         -webkit-display: inline-block;
@@ -1195,10 +1195,10 @@ tr td:hover {
         -moz-display: inline-block;
         -ms-display: inline-block;
         display: inline-block;
-        -webkit-padding-top: 15px;
+        -webkit-padding-top: 25px;
         -moz-padding-top: 15px;
         -ms-padding-top: 15px;
-        padding-top: 15px;
+        padding-top: 25px;
     }
     #menu-icon ~ ul li {
         -webkit-transition-duration: 5s;
