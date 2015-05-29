@@ -4,7 +4,7 @@ from flask import Flask #Flask is the base server. use 'sudo pip3 install Flask'
 import os
 import common
 import dbCreator
-import article_generator
+import page_generator
 # First thing is generate the DB
 dbCreator.generateDatabase()
 
@@ -35,7 +35,7 @@ def returnJS(filename):
 @app.route("/<section>/")
 def getIndexPageForSection(section):
     if ("hci" in section):
-        return article_generator.hci(section)
+        return page_generator.hci(section)
     if ("css" in section):
         return app.send_static_file("style.css")
     elif ("ico" in section):
@@ -51,13 +51,13 @@ def getIndexPageForSection(section):
         pathToImage=str("static/" + filename)
         return send_file(pathToImage)
     else:
-        return article_generator.create_section(section)
+        return page_generator.create_section(section)
         
 
 
 @app.route("/<section>/<article>")
 def mainPage(section,article):
-    return article_generator.create_article(section,article)
+    return page_generator.create_article(section,article)
     
 @app.route("/<section>/images/<filename>")
 def returnImage(section,filename):
