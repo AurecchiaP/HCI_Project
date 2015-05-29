@@ -62,16 +62,17 @@
 #navbar .selected a {
     color: #FFFFFA;
 }
-
 /* ************ search field ************ */
+
 #nav_search {
     padding-top: 10px;
 }
+
 #search input[type="text"] {
     background: url(../images/search-dark.png) no-repeat 10px 6px #3d3d3d;
     background-size: 18px 18px;
     border: 0 none;
-    font: 12px Arial,Helvetica,Sans-serif;
+    font: 12px Arial, Helvetica, Sans-serif;
     color: #ddddda;
     color: white;
     width: 150px;
@@ -83,26 +84,39 @@
     -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 3px rgba(0, 0, 0, 0.2) inset;
     -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 3px rgba(0, 0, 0, 0.2) inset;
     box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 3px rgba(0, 0, 0, 0.2) inset;
-    }
+}
+
 #search input[type="text"]:focus {
     outline: 0;
 }
 
-::-webkit-input-placeholder { /* WebKit browsers */
-    color:    #ddddda;
+::-webkit-input-placeholder {
+    /* WebKit browsers */
+    
+    color: #ddddda;
 }
-:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
-   color:    #ddddda;
-   opacity:  1;
+
+:-moz-placeholder {
+    /* Mozilla Firefox 4 to 18 */
+    
+    color: #ddddda;
+    opacity: 1;
 }
-::-moz-placeholder { /* Mozilla Firefox 19+ */
-   color:    #ddddda;
-   opacity:  1;
+
+::-moz-placeholder {
+    /* Mozilla Firefox 19+ */
+    
+    color: #ddddda;
+    opacity: 1;
 }
-:-ms-input-placeholder { /* Internet Explorer 10+ */
-   color:    #ddddda;
+
+:-ms-input-placeholder {
+    /* Internet Explorer 10+ */
+    
+    color: #ddddda;
 }
 /* ************ END search field ************ */
+
 .nav_home.selected {
     border-color: #FFFFFA;
 }
@@ -187,20 +201,21 @@ footer {
     margin-top: -55px;
 }
 
-.floatLeft{
+.floatLeft {
     float: left;
 }
-.floatRight{
+
+.floatRight {
     float: right;
 }
-img.right{
+
+img.right {
     float: right;
     margin-left: 25px;
     margin-bottom: 20px;
-
 }
 
-img.left{
+img.left {
     float: left;
     margin-right: 25px;
     margin-bottom: 20px;
@@ -229,7 +244,6 @@ img.left{
     margin-bottom: 10px;
     margin-right: 25px;
     position: relative;
-    
 }
 
 .youvideo {
@@ -238,29 +252,33 @@ img.left{
     margin-right: auto;
 }
 
-.caption{
+.caption {
     position: absolute;
     width: 95%;
     bottom: 5px;
     padding: 2.5%;
-    left: 0px;  
+    left: 0px;
     color: white;
-    background-color: rgba(0,0,0,0.7);
+    background-color: rgba(0, 0, 0, 0.7);
     text-align: center;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
 }
 
-.caption sup{
+.caption sup {
     color: white;
 }
- 
-a{                  /* Attributes of INTERNAL links*/                
-    color: rgb(130,130,130);
+
+a {
+    /* Attributes of INTERNAL links*/
+    
+    color: rgb(130, 130, 130);
 }
 
-a[href^="#"]{       /* Remove the underline to the sap numbers*/
+a[href^="#"] {
+    /* Remove the underline to the sap numbers*/
+    
     text-decoration: none;
     color: black;
     cursor: pointer;
@@ -268,23 +286,26 @@ a[href^="#"]{       /* Remove the underline to the sap numbers*/
 /* Start Calzam work on table */
 
 #content table {
-    border-collapse: 
-    collapse; border-spacing: 0;
+    border-collapse: collapse;
+    border-spacing: 0;
 }
 
-#content table, td, th {
+#content table,
+td,
+th {
     padding: 5px;
 }
 
-#content td, th {
+#content td,
+th {
     border: 1px solid transparent;
     transition: all 0.3s;
     text-align: center;
     border-left: 1px solid #000;
     border-right: 1px solid #000;
 }
-    
-#content th{
+
+#content th {
     font-weight: bold;
     background-color: #DFDFDF;
 }
@@ -292,6 +313,7 @@ a[href^="#"]{       /* Remove the underline to the sap numbers*/
 #content td:first-child {
     border-left: none;
 }
+
 #content th:first-child {
     border-left: none;
 }
@@ -299,20 +321,23 @@ a[href^="#"]{       /* Remove the underline to the sap numbers*/
 #content td:last-child {
     border-right: none;
 }
+
 #content th:last-child {
     border-right: none;
 }
-tr:nth-child(even) td { 
-    background: #F1F1F1; 
-}   
+
+tr:nth-child(even) td {
+    background: #F1F1F1;
+}
 
 tr:nth-child(odd) td {
-    background: #FEFEFE; 
-} 
-tr td:hover { 
-background: #666; color: #FFF; 
+    background: #FEFEFE;
 }
-    
+
+tr td:hover {
+    background: #666;
+    color: #FFF;
+}
 /* End Calzam work */
 /* *********************** END Main *********************** */
 /* *********************** Index Page *********************** */
@@ -892,7 +917,6 @@ background: #666; color: #FFF;
         display: inline;
         opacity: 1;
     }
-    
     /*Navbar*/
     
     #navbar {
@@ -939,8 +963,28 @@ background: #666; color: #FFF;
         -ms-transition-duration: 5s;
         transition-duration: 5s;
     }
-    #menu-icon:focus ~ ul,
+    #menu-icon:hover ~ ul,
     li {
+        -webkit-display: block !important;
+        -moz-display: block !important;
+        -ms-display: block !important;
+        display: block !important;
+        -webkit-transform: translate(-290px, 0px);
+        -moz-transform: translate(-290px, 0px);
+        -ms-transform: translate(-290px, 0px);
+        transform: translate(-290px, 0px);
+    }
+    #navbar ul:hover {
+        -webkit-display: block !important;
+        -moz-display: block !important;
+        -ms-display: block !important;
+        display: block !important;
+        -webkit-transform: translate(-290px, 0px);
+        -moz-transform: translate(-290px, 0px);
+        -ms-transform: translate(-290px, 0px);
+        transform: translate(-290px, 0px);
+    }
+    #navbar li:hover {
         -webkit-display: block !important;
         -moz-display: block !important;
         -ms-display: block !important;
@@ -1099,11 +1143,12 @@ background: #666; color: #FFF;
         display: inline-block;
     }
     #navbar ul {
-/*
+        /*
         -webkit-
         -moz-
         -ms-
 */
+        
         -webkit-display: none !important;
         -moz-display: none !important;
         -ms-display: none !important;
@@ -1133,7 +1178,6 @@ background: #666; color: #FFF;
         -ms-width: 25% !important;
         width: 25% !important;
     }
-    
     #navbar li {
         -webkit-text-align: center;
         -moz-text-align: center;
@@ -1144,7 +1188,6 @@ background: #666; color: #FFF;
         margin: 0;
     }
     #nav_search {
-        
         display: none;
     }
     #nav_search_mobile {
@@ -1165,6 +1208,27 @@ background: #666; color: #FFF;
     }
     #menu-icon:hover ~ ul,
     li {
+        -webkit-display: block !important;
+        -moz-display: block !important;
+        -ms-display: block !important;
+        display: block !important;
+        -webkit-transform: translate(-290px, 0px);
+        -moz-transform: translate(-290px, 0px);
+        -ms-transform: translate(-290px, 0px);
+        transform: translate(-290px, 0px);
+    }
+    
+    #navbar ul:hover {
+        -webkit-display: block !important;
+        -moz-display: block !important;
+        -ms-display: block !important;
+        display: block !important;
+        -webkit-transform: translate(-290px, 0px);
+        -moz-transform: translate(-290px, 0px);
+        -ms-transform: translate(-290px, 0px);
+        transform: translate(-290px, 0px);
+    }
+    #navbar li:hover {
         -webkit-display: block !important;
         -moz-display: block !important;
         -ms-display: block !important;
@@ -1269,13 +1333,11 @@ background: #666; color: #FFF;
     #internetName,
     #gamesName,
     #hciName {
-/*                text-align: center;*/
-
+        /*                text-align: center;*/
+        
         font-size: 150%;
         font-weight: 700;
     }
-    
-    
     .di_o {
         -webkit-flex-basis: 100%;
         -moz-flex-basis: 100%;
@@ -1332,7 +1394,6 @@ background: #666; color: #FFF;
     #content {
         margin: -50px auto 0 auto;
         margin-bottom: 55px;
-        
     }
     .Timeline {
         display: flex;
