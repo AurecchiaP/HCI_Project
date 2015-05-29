@@ -720,7 +720,7 @@ background: #666; color: #FFF;
     -webkit-align-items: flex-start;
     -ms-align-items: flex-start;
     -moz-align-items: flex-start;
-    align-items: flex-start;
+    align-items: center;
     max-width: 33.33333%;
 }
 /* Entry box, inside timelines of different sections 
@@ -795,7 +795,7 @@ background: #666; color: #FFF;
     -ms-flex-basis: 60%;
     -moz-flex-basis: 60%;
     flex-basis: 60%;
-    max-width: 100%;
+    width: 100%;
     margin-top: 0em;
 }
 /* Title and date flex box */
