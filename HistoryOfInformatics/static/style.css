@@ -331,8 +331,8 @@ background: #666; color: #FFF;
 #contentContainer h1 {
     text-align: center;
     margin-bottom: 10%;
-    font-family: 'Roboto Slab', serif;
-    /*font-family: 'Open Sans', sans-serif;*/
+    /*font-family: 'Roboto Slab', serif;*/
+    font-family: 'Open Sans', sans-serif;
     
     font-size: 50pt;
     color: #292929;
@@ -668,18 +668,38 @@ background: #666; color: #FFF;
 /* Timeline box */
 
 .Timeline {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
     display: flex;
+    -webkit-flex-flow: row nowrap;
+    -ms-flex-flow: row nowrap;
+    -moz-flex-flow: row nowrap;
     flex-flow: row nowrap;
     overflow-X: scroll;
     width: 100%;
+    -webkit-justify-content: flex-start;
+    -ms-justify-content: flex-start;
+    -moz-justify-content: flex-start;
     justify-content: flex-start;
+    -webkit-align-items: flex-start;
+    -ms-align-items: flex-start;
+    -moz-align-items: flex-start;
     align-items: flex-start;
 }
 /* Entry box */
 
 .TimelineEntry {
+    -webkit-flex: 1 0 33.333%;
+    -moz-flex: 1 0 33.333%;
+    -ms-flex: 1 0 33.333%;
     flex: 1 0 33.333%;
-    display: inline-flex;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
     text-decoration: none;
     white-space: initial;
     margin: .5em 1em;
@@ -689,9 +709,19 @@ background: #666; color: #FFF;
     border-radius: 2px;
     transition: background-color .5s;
     font-size: 10pt;
+    -webkit-flex-flow: column nowrap;
+    -ms-flex-flow: column nowrap;
+    -moz-flex-flow: column nowrap;
     flex-flow: column nowrap;
+    -webkit-justify-content: center;
+    -ms-justify-content: center;
+    -moz-justify-content: center;
     justify-content: center;
+    -webkit-align-items: flex-start;
+    -ms-align-items: flex-start;
+    -moz-align-items: flex-start;
     align-items: flex-start;
+    max-width: 33.33333%;
 }
 /* Entry box, inside timelines of different sections 
  the timeline needs to have one of these classes,
@@ -743,7 +773,13 @@ background: #666; color: #FFF;
 /* Shared flex setup inside entries*/
 
 .TimelineEntry > * {
+    -webkit-flex-grow: 1;
+    -ms-flex-grow: 1;
+    -moz-flex-grow: 1;
     flex-grow: 1;
+    -webkit-flex-shrink: 1;
+    -ms-flex-shrink: 1;
+    -moz-flex-shrink: 1;
     flex-shrink: 1;
     display: block;
     margin-top: 0em;
@@ -755,6 +791,9 @@ background: #666; color: #FFF;
 /* Timeline images */
 
 .EntryImage {
+    -webkit-flex-basis: 60%;
+    -ms-flex-basis: 60%;
+    -moz-flex-basis: 60%;
     flex-basis: 60%;
     max-width: 100%;
     margin-top: 0em;
@@ -762,10 +801,26 @@ background: #666; color: #FFF;
 /* Title and date flex box */
 
 .EntryText {
+    -webkit-flex-basis: auto;
+    -moz-flex-basis: auto;
+    -ms-flex-basis: auto;
     flex-basis: auto;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
     display: flex;
+    -webkit-flex-flow: row wrap;
+    -moz-flex-flow: row wrap;
+    -ms-flex-flow: row wrap;
     flex-flow: row wrap;
+    -webkit-justify-content: space-between;
+    -moz-justify-content: space-between;
+    -ms-justify-content: space-between;
     justify-content: space-between;
+    -webkit-align-items: center;
+    -moz-align-items: center;
+    -ms-align-items: center;
     align-items: center;
     margin-left: 1em;
     margin-right: 1em;
@@ -773,13 +828,25 @@ background: #666; color: #FFF;
 /* Title and date boxes */
 
 .EntryText > * {
+    -webkit-flex-grow: 1;
+    -moz-flex-grow: 1;
+    -ms-flex-grow: 1;
     flex-grow: 1;
+    -webkit-flex-shrink: 1;
+    -moz-flex-shrink: 1;
+    -ms-flex-shrink: 1;
     flex-shrink: 1;
+    -webkit-flex-basis: auto;
+    -moz-flex-basis: auto;
+    -ms-flex-basis: auto;
     flex-basis: auto;
 }
 /* Title */
 
 .EntryTitle {
+    -webkit-order: 1;
+    -moz-order: 1;
+    -ms-order: 1;
     order: 1;
     text-align: left;
     font-size: 14pt;
@@ -788,6 +855,9 @@ background: #666; color: #FFF;
 /* Date */
 
 .EntryDate {
+    -webkit-order: 2;
+    -moz-order: 2;
+    -ms-order: 2;
     order: 2;
     text-align: right;
     font-size: inherit;
@@ -796,7 +866,13 @@ background: #666; color: #FFF;
 /* Description */
 
 .EntryDescription {
+    -webkit-order: 3;
+    -moz-order: 3;
+    -ms-order: 3;
     order: 3;
+    -webkit-flex-basis: auto;
+    -moz-flex-basis: auto;
+    -ms-flex-basis: auto;
     flex-basis: auto;
     text-align: justify;
 }
