@@ -16,6 +16,7 @@ Requirements
 --------------
 The program was designed to run on Python 3.4.1, so that is needed. In order to run properly, you also need the following modules:
 
+
 | Module           | Command to install          |
 |------------------|-----------------------------|
 | Flask            | pip3 install Flask          |
